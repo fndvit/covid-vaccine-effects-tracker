@@ -3,7 +3,7 @@ name: Generate data daily
 on:
   push:
   schedule:
-    - cron: "30 19 * * *"
+    - cron: "15 9 * * *"
 
 defaults:
   run:
