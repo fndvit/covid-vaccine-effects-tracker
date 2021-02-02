@@ -16,15 +16,11 @@
         pct: loc.format(',.1f')
     }
 
-    let residencies = data.filter(d => d.residencia === "Si")
-    
-    residencies.forEach(d => {
+    data['si'].forEach(d => {
         d.data2 = new Date(d.data)                
     });
 
-    let general = data.filter(d => d.residencia === "No")
-    
-    general.forEach(d => {
+    data['no'].forEach(d => {
         d.data2 = new Date(d.data)                
     });
 
@@ -48,7 +44,7 @@
 <li class='ccaa'>
 Lorem ipsum
   <!-- <div> class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}>  -->
-    <MultiLine data={{residencies,general}} series={['residencies','general']} {width} height={height + margin.top + margin.bottom} key={{x: 'data2', y: 'ia14'}} format={f} {margin}/>
+    <MultiLine {data} series={['si','no']} {width} height={height + margin.top + margin.bottom} key={{x: 'data2', y: 'ia14'}} format={f} {margin}/>
 <!-- </div> -->
 
 </li>
