@@ -23,5 +23,7 @@ It has its own separate [README.md](https://github.com/fndvit/covid-vaccine-effe
 ## Data
 
 
-# Additional sources
+# Sources
+* [Número de casos por técnica diagnóstica y CCAA (de residencia)](https://cnecovid.isciii.es/covid19/resources/casos_tecnica_ccaa.csv)
+* [Número de hospitalizaciones, número de ingresos en UCI y número de defunciones por sexo, edad y provincia de residencia](https://cnecovid.isciii.es/covid19/resources/casos_hosp_uci_def_sexo_edad_provres.csv)
 
