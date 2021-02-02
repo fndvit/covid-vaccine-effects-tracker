@@ -1,26 +1,10 @@
 # Visualization of the COVID-19 vaccination in Spain
-
 Objectives:
-* Track the daily evolution of the vaccine rollout
-* Estimate when the rollout will be complete
-
-To do:
-- [x] Explanatory intro
-- [x] Get `dateComplete` math checked
-- [x] Add logo, credits, and link to repo
-- [x] Hovers
-- [x] Legends and labels (partially done)
-- [x] X-axis sticky on top (maybe), and add Y-axis (partially done)
-- [x] ~~Search field or drop down to filter by region~~ Summary table navigation is best option
-- [x] Right now order is alphabetical, need to sort regions using headers
-- [x] Better touch events
-- [ ] Translate to Catalan
-
+* Correlate vaccination efforts with drop in cases, hospitalizations, critically ill. Inspired by [this tweet from Eran Segal](https://twitter.com/segal_eran/status/1356313705684869121?s=20)
+* Track percent of population that's been vaccinated
 
 ## Mockup
-Looks like this for now ... 
-
-<img alt='Mockup of the app' src='https://github.com/fndvit/covid-vaccination-tracker/blob/main/app/mockup.png?raw=true' width='698px' height='740px' />
+Nothing to see yet.
 
 ## Download
 
