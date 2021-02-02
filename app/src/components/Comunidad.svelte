@@ -1,22 +1,36 @@
 <script>
-    // import BarsWithBg from './charts/BarsWithBg.svelte'
+    import MultiLine from './charts/MultiLine.svelte'
     // import Legend from './common/Legend.svelte'
     import locale from '@reuters-graphics/d3-locale';
 
     export let data;
     export let height;
-    export let index;
+ 
+    let width = 800;
+    let margin = {bottom:20, top:20, left:4, right:4};
+    const loc = new locale('es');
 
-    // let width;
-    // let margin = {bottom:20, top:20, left:4, right:4};
-    // const loc = new locale('es');
+    const f = {
+		x: loc.formatTime('%b %e'),
+        y: loc.format(',.1d'),
+        pct: loc.format(',.1f')
+    }
 
-    // const f = {
-	// 	x: loc.formatTime('%b %e'),
-    //     y: loc.format(',.1d'),
-    //     pct: loc.format(',.1f')
-    // }
+    let residencies = data.filter(d => d.residencia === "Si")
+    
+    residencies.forEach(d => {
+        d.data2 = new Date(d.data)                
+    });
 
+    let general = data.filter(d => d.residencia === "No")
+    
+    general.forEach(d => {
+        d.data2 = new Date(d.data)                
+    });
+
+    // console.log("general:");
+    // console.log(general);
+    // console.log(height);
     // const legendItems = [
     //     {  
     //         color:'url(#diagonalHatch)',
@@ -32,6 +46,10 @@
 </script>
 
 <li class='ccaa'>
+Lorem ipsum
+  <!-- <div> class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}>  -->
+    <MultiLine data={{residencies,general}} series={['residencies','general']} {width} height={height + margin.top + margin.bottom} key={{x: 'data2', y: 'ia14'}} format={f} {margin}/>
+<!-- </div> -->
 
 </li>
 

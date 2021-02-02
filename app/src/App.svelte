@@ -4,8 +4,9 @@
 	import {extent, max, min} from 'd3-array'
 	import locale from '@reuters-graphics/d3-locale';
 	import {parseTemplate} from './utils'
-	let width;
 
+	export let data;
+	let width;
 	const loc = new locale('es');
 
 </script>
@@ -39,7 +40,7 @@
 
 	<ul>
 		<!-- {#each _data as d,i } -->
-		<Comunidad />
+		<Comunidad {data} height={500}/>
 		<!-- {/each} -->
 	</ul>
 
