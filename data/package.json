@@ -16,16 +16,22 @@
   "dependencies": {
     "@reuters-graphics/d3-locale": "^0.1.0",
     "arquero": "^2.2.0",
+    "csv": "^5.3.2",
+    "csv-parse": "^4.15.1",
     "d2l-intl": "^2.1.0",
+    "d3-fetch": "^2.0.0",
     "d3-time-format": "^3.0.0",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
     "lodash": "^4.17.20",
     "node-dir": "^0.1.17",
     "node-fetch": "^2.6.1",
+    "node-stream-zip": "^1.12.0",
     "officeparser": "^2.2.2",
     "pdf-parse": "^1.1.1",
     "request": "^2.88.2",
+    "unzip-stream": "^0.3.1",
+    "unzipper": "^0.10.11",
     "xlsx": "^0.16.9"
   }
 }
