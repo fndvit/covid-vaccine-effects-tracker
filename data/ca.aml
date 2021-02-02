@@ -1,10 +1,16 @@
     update: Actualitzat a <strong>{loc.formatTime('%e de %B')(spainData.fecha)}</strong></p>
 
-    title: Lorem Ipsum dolor sit amet
-
+    title: Efectes de la vacunació a Catalunya
+    
     [.summary]
         p: Lorem Ipsum dolor sit amet
-    []	
+        
+         []
+        
+    [.description]	
+        p: Lorem Ipsum dolor sit amet
+        
+         []
 
     [ccaa]
         * Andalucía
