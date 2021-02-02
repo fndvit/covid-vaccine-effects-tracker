@@ -3,7 +3,7 @@
 ![Updated](https://img.shields.io/github/last-commit/fndvit/covid-vaccination-tracker)
 ![License](https://img.shields.io/github/license/fndvit/covid-vaccination-tracker)
 
-# Correlatin COVID-19 vaccination and drop in new infections (still early, use with caution)
+# Correlate COVID-19 vaccination and drop in new infections (still early, use with caution)
 <!-- [**The project is live here!!**](https://vacunas.fndvit.org/) -->
 
 ## To do (prioritized):
