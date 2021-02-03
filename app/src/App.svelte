@@ -40,7 +40,7 @@
 
 	<ul>
 		<!-- {#each _data as d,i } -->
-		<Comunidad {data} height={500}/>
+		<Comunidad {data} height={300}/>
 		<!-- {/each} -->
 	</ul>
 

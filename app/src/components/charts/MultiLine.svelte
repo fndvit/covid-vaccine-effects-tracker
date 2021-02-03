@@ -11,6 +11,7 @@
 	export let height;
 	export let format;
     export let key;
+	export let color;
 		
 	$: x = scaleTime()
 		.domain(extent(data[series[0]], d => d[key.x])).nice()
@@ -30,6 +31,7 @@
 		.y(d => y(d[key.y]))
 		.curve(curveCardinal);
 
+
 // 	console.log("Hello multiline!");
 // 	console.log(data[series[1]]);
 // //	console.log(max(data, d => d[series[0]][key.y]>d[series[1]][key.y]?d[series[0]][key.y]:d[series[1]][key.y]));
@@ -43,17 +45,17 @@
 {#if width}
 <svg viewBox="0 0 {width} {height}" {width} {height}>
 	<g>
-		<path 
-		d={path_blue(data[series[0]])}
-		class="line blue"
-		role="img"
-		aria-roledescription="Corba IA14"
-		aria-label="Evolució de l'incidència acumulada a 14 dies en població de residències"
-	/> 
-		<path 
-			d={path_gray(data[series[1]])}
-			class="line gray"
-		/>
+		{#each series as d,i }
+			<path 
+			d={path_blue(data[d])}
+			class="line"
+			role="img"
+			aria-roledescription="Corba {data[d]}"
+			style="stroke:{color[i]}"
+			/> 
+			<!-- 
+			aria-label="Evolució de l'incidència acumulada a 14 dies en població de residències" -->
+		{/each}
     </g>
 	<Axis {width} {height} {margin} scale={y} position='left' format={format.y} time= {''} />
 	<Axis {width} {height} {margin} scale={x} position='bottom' format={format.x} time= {''} />
@@ -64,13 +66,5 @@
 	path {
 		fill:none;
 		stroke-width: 2;
-	}
-
-	.blue{
-		stroke: #00bbc4;
-	}
-
-	.gray{
-		stroke: #333;
 	}
 </style>
