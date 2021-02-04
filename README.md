@@ -8,12 +8,11 @@
 
 ## To do (prioritized):
 
-- [ ] Collect, sanitize, transform data (to visualize it)
+- [x] Collect, sanitize, transform data (to visualize it)
+- [x] Automate data exports
 - [ ] Visualize it —obviously
 - [ ] Export data in multiple reusable formats
-- [ ] Automate data exports
 - [ ] Translate docs to Catalan and Spanish
-- [ ] Combine it with population data by age groups
 
 *(We'll continue to add a detailed 'to do')*
 
