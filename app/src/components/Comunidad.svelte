@@ -44,7 +44,14 @@
 <li class='ccaa'>
 Lorem ipsum
   <!-- <div> class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}>  -->
-    <MultiLine {data} series={['si','no']} {width} height={height + margin.top + margin.bottom} key={{x: 'data2', y: 'ia14'}} format={f} {margin}/>
+    <MultiLine  {data} 
+                series={['si','no']} 
+                {width} 
+                height={height + margin.top + margin.bottom} 
+                key={{x: 'data2', y: 'ia14'}} 
+                format={f} 
+                {margin}
+                color = {["#00bbc4","#333"]}/>
 <!-- </div> -->
 
 </li>
