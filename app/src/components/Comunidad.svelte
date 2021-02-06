@@ -1,12 +1,12 @@
 <script>
-    import MultiLine from './charts/MultiLine.svelte'
+    import MultiLineWithBb from './charts/MultiLineWithBg.svelte'
     // import Legend from './common/Legend.svelte'
     import locale from '@reuters-graphics/d3-locale';
-
+    
     export let data;
     export let height;
  
-    let width = 800;
+    let width;
     let margin = {bottom:20, top:20, left:4, right:4};
     const loc = new locale('es');
 
@@ -16,14 +16,34 @@
         pct: loc.format(',.1f')
     }
 
+    let pob_residencies = 65673; //Obtingut a partir de l'excel catalunya_setmanal
+                                 //a partir de la IA i el nombre de casos en dues setmanes
+                                 //en data 6/2/21
+
+    let IA14_1_12 = data['si'].find(d=>d.data.includes("2020-09-01"));
     data['si'].forEach(d => {
-        d.data2 = new Date(d.data)                
+        d.data2 = new Date(d.data);  
+        d.indexIA = 100 * d.ia14 / IA14_1_12.ia14;
+        d.perc_vacunats = 100 * d.vacunats / pob_residencies;
+        d.perc_pauta_completa = 100 * d.pauta_completa /pob_residencies;
     });
 
+    let IA14_1_12_no = data['no'].find(d=>d.data.includes("2020-09-01"));
     data['no'].forEach(d => {
         d.data2 = new Date(d.data)                
+        d.indexIA = 100 * d.ia14 / IA14_1_12_no.ia14;
     });
+    console.log(data);
 
+    let max_index_ia14_si = data['si'].find(d=>d.data.includes("2021-01-20")).indexIA;
+    let last_index_ia14_si = data['si'][data['si'].length -1].indexIA;
+    let perc_reduction_si = 100 * (1 - (last_index_ia14_si/max_index_ia14_si));
+    let last_ia14_si = data['si'][data['si'].length -1].ia14;
+
+    let max_index_ia14_no = data['no'].find(d=>d.data.includes("2021-01-20")).indexIA;
+    let last_index_ia14_no = data['no'][data['no'].length -1].indexIA;
+    let perc_reduction_no = 100 * (1 - (last_index_ia14_no/max_index_ia14_no));
+    let last_ia14_no = data['no'][data['no'].length -1].ia14;
     // console.log("general:");
     // console.log(general);
     // console.log(height);
@@ -42,18 +62,39 @@
 </script>
 
 <li class='ccaa'>
-Lorem ipsum
-  <!-- <div> class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}>  -->
-    <MultiLine  {data} 
+<p>En la gràfica podem observar l'índex respecte el valor a data de 1 de setembre de 2020 per població 
+en residències i en no residències. Com es pot veure, en la segona onada (octubre-novembre 2020)
+el comportament de la corba va ser similar entre un grup i un altre. En la tercera onada (gener-febrer 2021),
+veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
+a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), obtenint un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
+En canvi, per a la població no resident, la corba ha passat del {loc.format(',.1d')(max_index_ia14_no)} al  {loc.format(',.1d')(last_index_ia14_no)},
+obtenint un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
+</p>
+<div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <MultiLineWithBb  {data} 
                 series={['si','no']} 
                 {width} 
                 height={height + margin.top + margin.bottom} 
-                key={{x: 'data2', y: 'ia14'}} 
+                key={{x: 'data2', y: 'indexIA', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
                 format={f} 
                 {margin}
                 color = {["#00bbc4","#333"]}/>
-<!-- </div> -->
+    </div>
 
+<p>Si representem els valors d'incidència acumulada a 14 dies, s'obtenen les següents dades, on es pot observar 
+    que la població en residències encara té una afectació més alta que la població no resident
+    ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
+</p>
+<div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <MultiLineWithBb  {data} 
+                series={['si','no']} 
+                {width} 
+                height={height + margin.top + margin.bottom} 
+                key={{x: 'data2', y: 'ia14', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
+                format={f} 
+                {margin}
+                color = {["#00bbc4","#333"]}/>
+    </div>
 </li>
 
 <style>

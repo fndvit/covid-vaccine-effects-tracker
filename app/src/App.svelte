@@ -9,6 +9,7 @@
 	let width;
 	const loc = new locale('es');
 
+	let lastData = new Date(data['si'][data['si'].length -1].data);
 </script>
 
 <svelte:window bind:innerWidth={width}/>
@@ -30,13 +31,19 @@
 					 M3,5 l2,-2" 
 				  style="stroke:#808080; stroke-width:.3" />
 		</pattern>
+		<pattern id="diagonalHatchEnforced" patternUnits="userSpaceOnUse" width="4" height="4">
+			<path d="M-1,1 l2,-2
+					 M0,4 l4,-4
+					 M3,5 l2,-2" 
+				  style="stroke:#505050; stroke-width:.5" />
+		</pattern>
 	</svg>
 
-	<p class="text update">Actualizado a </p>
+	<p class="text update">Actualizat a <strong>{lastData.toLocaleDateString('ca-ES',  { month: 'long', day: 'numeric' })}</strong></p>
 	<div class="title">
-		<h1>Lorem ipsum</h1>
+		<h1>Efectes de la vacunació en la població de residències</h1>
 	</div>
-	<p class="text summary">Lorem ipsum</p>
+	<p class="text summary">Les vacunacions tenen un gran impacte en la reducció de la incidència</p>
 
 	<ul>
 		<!-- {#each _data as d,i } -->
