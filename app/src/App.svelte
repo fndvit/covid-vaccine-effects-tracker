@@ -1,6 +1,7 @@
 <script>
 	import Menu from './components/Menu.svelte'
 	import Comunidad from './components/Comunidad.svelte'
+	import Credits from './components/Credits.svelte'
 	import {extent, max, min} from 'd3-array'
 	import locale from '@reuters-graphics/d3-locale';
 	import {parseTemplate} from './utils'
@@ -51,6 +52,7 @@
 		<!-- {/each} -->
 	</ul>
 
+	<Credits />
 </main>
 
 <style>
