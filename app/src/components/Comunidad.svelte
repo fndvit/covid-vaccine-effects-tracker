@@ -9,9 +9,11 @@
     let width;
     let margin = {bottom:20, top:20, left:4, right:4};
     const loc = new locale('es');
+    let formatTimeCat = (d) => d.toLocaleDateString('ca-ES',  { month: 'short', day: 'numeric' });
 
     const f = {
-		x: loc.formatTime('%b %e'),
+		// x: loc.formatTime('%b %e'),
+		x: formatTimeCat,
         y: loc.format(',.1d'),
         pct: loc.format(',.1f')
     }

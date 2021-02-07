@@ -184,4 +184,14 @@
 		stroke: none;
 		fill:url(#diagonalHatchEnforced);
 	}
+	text {
+		fill: #505050;
+		font-size: .75rem;
+		paint-order: stroke;
+		stroke:#f2f2f2;
+		stroke-width: 5px;
+		stroke-linecap: round;
+		stroke-linejoin: round;
+	}
+
 </style>
