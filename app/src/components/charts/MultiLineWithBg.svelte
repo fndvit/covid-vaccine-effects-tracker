@@ -2,7 +2,7 @@
 	import Axis from './Axis.svelte';
 	import {scaleTime, scaleLinear} from 'd3-scale';
 	import {line, area, curveCardinal} from 'd3-shape';
-	import {max, extent} from 'd3-array'
+	import {max, extent, bisector} from 'd3-array'
 	
     export let data;
     export let series;
@@ -13,6 +13,9 @@
     export let key;
 	export let color;
 		
+	let datum = {};
+	let tooltip = false;
+
 	$: x = scaleTime()
 		.domain(extent(data[series[0]], d => d[key.x]))
 		.range([margin.left, width - margin.right]);
@@ -42,6 +45,35 @@
 		.y1(d => y_bg(d[key.bg2]))
 		.curve(curveCardinal);
 
+	const mouseMove = (m) => {
+		tooltip = true;
+		//Set the data in ascending order
+		const mX = (m.offsetX) ? m.offsetX + 2 : m.clientX;
+		const _data = [...data[series[0]]];
+//		_data.sort((a,b) => a[key.x] - b[[key.x]]);
+		const index = x.invert(mX);
+		index.setHours(0,0,0,0);
+		const i = bisector(d => d[key.x]).center(_data, index);
+		series.forEach(d => {
+			datum[d] = data[d][i];			
+		});
+}
+
+	const leave = (m) => {
+		tooltip = false;
+	}
+
+	const getAnchor = (x) => {
+		switch(true) {
+			case x < 20:
+				return 'start';
+			case x  > width - 40:
+				return 'end';
+			default:
+				return 'middle'
+		}
+	}
+
 // 	console.log("Hello multiline!");
 // 	console.log(data[series[1]]);
 // //	console.log(max(data, d => d[series[0]][key.y]>d[series[1]][key.y]?d[series[0]][key.y]:d[series[1]][key.y]));
@@ -53,7 +85,15 @@
 </script>
 
 {#if width}
-<svg viewBox="0 0 {width} {height}" {width} {height}>
+<svg viewBox="0 0 {width} {height}" {width} {height}
+	role="document"
+	aria-label='Evolució diària de las la incidència'
+	xml:lang="ca"
+	on:touchmove|preventDefault
+	on:pointermove|preventDefault={mouseMove}
+	on:mouseleave={leave}
+	on:touchend={leave}
+>
 	<g>
 		<path 
 			d={path_bg(data[series[0]])}
@@ -84,6 +124,50 @@
 	<Axis {width} {height} {margin} scale={y} position='left' format={format.y} time= {''} />
 	<Axis {width} {height} {margin} scale={y_bg} position='right' format={format.y} time= {''} />
 	<Axis {width} {height} {margin} scale={x} position='bottom' format={format.x} time= {''} />
+	<g>
+		{#if tooltip}
+		<!-- svelte-ignore component-name-lowercase -->
+		{#each series as d,i }
+			<line
+				x1={x(datum[d][key.x])}
+				y1={y(0)}
+				x2={x(datum[d][key.x])}
+				y2={y(datum[d][key.y])}
+				pointer-events="none"
+				stroke="rgba(0,0,0,.5)"
+				stroke-width=.3
+				class="tooltip"
+			/>
+			<circle
+				r=3
+				cx={x(datum[d][key.x])}
+				cy={y(datum[d][key.y])}
+				stroke="rgba(0,0,0,1)"
+				pointer-events="none"
+				stroke-width=2
+				class="tooltip blue"
+			/>
+			<text
+				x={x(datum[d][key.x])}
+				y={y(datum[d][key.y]) - 8}
+				pointer-events="none"
+				text-anchor={getAnchor(x(datum[d][key.x]))}
+				class="tooltip value"
+			>
+				{format.y(datum[d][key.y])}
+			</text>
+			<text
+				x={x(datum[d][key.x])}
+				y={y(0) + 20}
+				pointer-events="none"
+				text-anchor={getAnchor(x(datum[d][key.x]))}
+				class="tooltip date"
+			>
+				{format.x(datum[d][key.x])}
+			</text>
+			{/each}
+		{/if}
+	</g>
 </svg>
 {/if}
 

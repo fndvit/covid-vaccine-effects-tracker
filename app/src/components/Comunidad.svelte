@@ -16,9 +16,9 @@
         pct: loc.format(',.1f')
     }
 
-    let pob_residencies = 65673; //Obtingut a partir de l'excel catalunya_setmanal
+    let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
                                  //a partir de la IA i el nombre de casos en dues setmanes
-                                 //en data 6/2/21
+                                 //en data 7/2/21
 
     let IA14_1_12 = data['si'].find(d=>d.data.includes("2020-09-01"));
     data['si'].forEach(d => {
@@ -67,7 +67,7 @@ en residències i en no residències. Com es pot veure, en la segona onada (octu
 el comportament de la corba va ser similar entre un grup i un altre. En la tercera onada (gener-febrer 2021),
 veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
 a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), obtenint un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
-En canvi, per a la població no resident, la corba ha passat del {loc.format(',.1d')(max_index_ia14_no)} al  {loc.format(',.1d')(last_index_ia14_no)},
+En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
 obtenint un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
 </p>
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
