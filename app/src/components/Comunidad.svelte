@@ -15,25 +15,25 @@
         y: loc.format(',.1d'),
         pct: loc.format(',.1f')
     }
-
+    
     let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
                                  //a partir de la IA i el nombre de casos en dues setmanes
                                  //en data 7/2/21
 
-    let IA14_1_12 = data['si'].find(d=>d.data.includes("2020-09-01"));
+    let IA14_1_09 = data['si'].find(d=>d.data.includes("2020-09-01"));
     data['si'].forEach(d => {
         d.data2 = new Date(d.data);  
-        d.indexIA = 100 * d.ia14 / IA14_1_12.ia14;
+        d.indexIA = 100 * d.ia14 / IA14_1_09.ia14;
         d.perc_vacunats = 100 * d.vacunats / pob_residencies;
         d.perc_pauta_completa = 100 * d.pauta_completa /pob_residencies;
     });
 
-    let IA14_1_12_no = data['no'].find(d=>d.data.includes("2020-09-01"));
+    let IA14_1_09_no = data['no'].find(d=>d.data.includes("2020-09-01"));
     data['no'].forEach(d => {
         d.data2 = new Date(d.data)                
-        d.indexIA = 100 * d.ia14 / IA14_1_12_no.ia14;
+        d.indexIA = 100 * d.ia14 / IA14_1_09_no.ia14;
     });
-    console.log(data);
+    //console.log(data);
 
     let max_index_ia14_si = data['si'].find(d=>d.data.includes("2021-01-20")).indexIA;
     let last_index_ia14_si = data['si'][data['si'].length -1].indexIA;
