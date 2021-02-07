@@ -1,6 +1,6 @@
 <script>
     import MultiLineWithBb from './charts/MultiLineWithBg.svelte'
-    // import Legend from './common/Legend.svelte'
+    import Legend from './common/Legend.svelte'
     import locale from '@reuters-graphics/d3-locale';
     
     export let data;
@@ -16,6 +16,44 @@
         pct: loc.format(',.1f')
     }
     
+    const legendItems = [
+        {  
+            color:'#00bbc4',
+            label:'Índex IA14 residències'
+        },
+        {  
+            color:'#333',
+            label:'Índex IA14 no residències'
+        },
+        {  
+            color:'url(#diagonalHatch)',
+            label:'Vacunats en 1a dosi'
+        },
+        {  
+            color:'url(#diagonalHatchEnforced)',
+            label:'Vacunats en 2a dosi'
+        },
+    ];
+
+    const legendItems2 = [
+        {  
+            color:'#00bbc4',
+            label:'IA14 residències'
+        },
+        {  
+            color:'#333',
+            label:'IA14 no residències'
+        },
+        {  
+            color:'url(#diagonalHatch)',
+            label:'Vacunats en 1a dosi'
+        },
+        {  
+            color:'url(#diagonalHatchEnforced)',
+            label:'Vacunats en 2a dosi'
+        },
+    ];
+
     let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
                                  //a partir de la IA i el nombre de casos en dues setmanes
                                  //en data 7/2/21
@@ -66,11 +104,12 @@
 en residències i en no residències. Com es pot veure, en la segona onada (octubre-novembre 2020)
 el comportament de la corba va ser similar entre un grup i un altre. En la tercera onada (gener-febrer 2021),
 veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
-a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), obtenint un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
+a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), corresponent a un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
 En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
-obtenint un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
+corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
 </p>
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <Legend {legendItems} />
     <MultiLineWithBb  {data} 
                 series={['si','no']} 
                 {width} 
@@ -86,6 +125,7 @@ obtenint un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducci
     ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
 </p>
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <Legend legendItems={legendItems2} />
     <MultiLineWithBb  {data} 
                 series={['si','no']} 
                 {width} 
