@@ -1,6 +1,6 @@
 import App from './App.svelte';
 
-const url = 'data_residence.json';//'https://raw.githubusercontent.com/fndvit/covid-vaccine-effects-tracker/app/public/catalunya_setmanals.json';
+const url = 'data_residence.json';//'https://raw.githubusercontent.com/fndvit/covid-vaccine-effects-tracker/app/public/data_residence.json';
 
 fetch(url)
   .then((res) => res.json())

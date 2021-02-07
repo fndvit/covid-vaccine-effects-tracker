@@ -4,107 +4,107 @@
       "data": "2020-09-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 482.4648,
-      "taxa_confirmats": 254.9735,
-      "confirmats": 167,
-      "ingressos": 39
+      "ia14": 480.6156,
+      "taxa_confirmats": 252.4753,
+      "confirmats": 166,
+      "ingressos": 38
     },
     {
       "data": "2020-09-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 563.3845,
-      "taxa_confirmats": 254.9735,
-      "confirmats": 167,
-      "ingressos": 36
+      "ia14": 561.2252,
+      "taxa_confirmats": 252.4753,
+      "confirmats": 166,
+      "ingressos": 35
     },
     {
       "data": "2020-09-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 563.3845,
-      "taxa_confirmats": 258.027,
-      "confirmats": 169,
-      "ingressos": 40
+      "ia14": 561.2252,
+      "taxa_confirmats": 255.5171,
+      "confirmats": 168,
+      "ingressos": 39
     },
     {
       "data": "2020-09-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 542.0095,
-      "taxa_confirmats": 241.2324,
-      "confirmats": 158,
-      "ingressos": 40
+      "ia14": 539.9321,
+      "taxa_confirmats": 238.7869,
+      "confirmats": 157,
+      "ingressos": 39
     },
     {
       "data": "2020-09-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 529.7952,
-      "taxa_confirmats": 250.3931,
+      "ia14": 529.2856,
+      "taxa_confirmats": 249.4334,
       "confirmats": 164,
-      "ingressos": 44
+      "ingressos": 43
     },
     {
       "data": "2020-09-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 526.7416,
-      "taxa_confirmats": 256.5002,
+      "ia14": 526.2437,
+      "taxa_confirmats": 255.5171,
       "confirmats": 168,
-      "ingressos": 48
+      "ingressos": 47
     },
     {
       "data": "2020-09-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 535.9024,
-      "taxa_confirmats": 258.027,
-      "confirmats": 169,
-      "ingressos": 49
+      "ia14": 535.3693,
+      "taxa_confirmats": 258.559,
+      "confirmats": 170,
+      "ingressos": 48
     },
     {
       "data": "2020-09-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 500.7862,
-      "taxa_confirmats": 245.8127,
-      "confirmats": 161,
+      "ia14": 498.8669,
+      "taxa_confirmats": 246.3915,
+      "confirmats": 162,
       "ingressos": 49
     },
     {
       "data": "2020-09-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 436.6612,
-      "taxa_confirmats": 181.6877,
-      "confirmats": 119,
+      "ia14": 434.9876,
+      "taxa_confirmats": 182.5122,
+      "confirmats": 120,
       "ingressos": 46
     },
     {
       "data": "2020-09-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 421.3933,
-      "taxa_confirmats": 163.3662,
-      "confirmats": 107,
+      "ia14": 419.7782,
+      "taxa_confirmats": 164.261,
+      "confirmats": 108,
       "ingressos": 44
     },
     {
       "data": "2020-09-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 389.3308,
-      "taxa_confirmats": 148.0983,
-      "confirmats": 97,
+      "ia14": 387.8385,
+      "taxa_confirmats": 149.0516,
+      "confirmats": 98,
       "ingressos": 42
     },
     {
       "data": "2020-09-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 471.7773,
-      "taxa_confirmats": 221.3841,
+      "ia14": 469.9691,
+      "taxa_confirmats": 220.5356,
       "confirmats": 145,
       "ingressos": 41
     },
@@ -112,8 +112,8 @@
       "data": "2020-09-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 543.5363,
-      "taxa_confirmats": 287.036,
+      "ia14": 541.4531,
+      "taxa_confirmats": 285.9359,
       "confirmats": 188,
       "ingressos": 33
     },
@@ -121,8 +121,8 @@
       "data": "2020-09-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 592.3935,
-      "taxa_confirmats": 334.3664,
+      "ia14": 591.6439,
+      "taxa_confirmats": 333.0849,
       "confirmats": 219,
       "ingressos": 29
     },
@@ -130,8 +130,8 @@
       "data": "2020-09-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 574.072,
-      "taxa_confirmats": 328.2593,
+      "ia14": 573.3927,
+      "taxa_confirmats": 327.0011,
       "confirmats": 215,
       "ingressos": 30
     },
@@ -139,8 +139,8 @@
       "data": "2020-09-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 558.8042,
-      "taxa_confirmats": 377.1165,
+      "ia14": 558.1833,
+      "taxa_confirmats": 375.6711,
       "confirmats": 247,
       "ingressos": 38
     },
@@ -148,71 +148,71 @@
       "data": "2020-09-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 548.1167,
-      "taxa_confirmats": 384.7504,
-      "confirmats": 252,
+      "ia14": 549.0577,
+      "taxa_confirmats": 384.7967,
+      "confirmats": 253,
       "ingressos": 34
     },
     {
       "data": "2020-09-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 577.1256,
-      "taxa_confirmats": 429.0272,
-      "confirmats": 281,
+      "ia14": 577.9555,
+      "taxa_confirmats": 428.9038,
+      "confirmats": 282,
       "ingressos": 36
     },
     {
       "data": "2020-09-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 593.9203,
-      "taxa_confirmats": 372.5361,
-      "confirmats": 244,
+      "ia14": 593.1649,
+      "taxa_confirmats": 372.6292,
+      "confirmats": 245,
       "ingressos": 33
     },
     {
       "data": "2020-09-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 600.0274,
-      "taxa_confirmats": 312.9914,
-      "confirmats": 205,
+      "ia14": 599.2486,
+      "taxa_confirmats": 313.3127,
+      "confirmats": 206,
       "ingressos": 41
     },
     {
       "data": "2020-09-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 625.9828,
-      "taxa_confirmats": 291.6164,
-      "confirmats": 191,
+      "ia14": 625.1045,
+      "taxa_confirmats": 292.0196,
+      "confirmats": 192,
       "ingressos": 42
     },
     {
       "data": "2020-09-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 629.0364,
-      "taxa_confirmats": 300.7771,
-      "confirmats": 197,
+      "ia14": 628.1464,
+      "taxa_confirmats": 301.1452,
+      "confirmats": 198,
       "ingressos": 45
     },
     {
       "data": "2020-09-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 629.0364,
-      "taxa_confirmats": 251.9199,
-      "confirmats": 165,
+      "ia14": 628.1464,
+      "taxa_confirmats": 252.4753,
+      "confirmats": 166,
       "ingressos": 45
     },
     {
       "data": "2020-09-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 642.7775,
-      "taxa_confirmats": 258.027,
+      "ia14": 641.8348,
+      "taxa_confirmats": 257.0381,
       "confirmats": 169,
       "ingressos": 51
     },
@@ -220,8 +220,8 @@
       "data": "2020-09-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 661.0989,
-      "taxa_confirmats": 232.0716,
+      "ia14": 660.086,
+      "taxa_confirmats": 231.1822,
       "confirmats": 152,
       "ingressos": 56
     },
@@ -229,8 +229,8 @@
       "data": "2020-09-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 584.7596,
-      "taxa_confirmats": 212.2234,
+      "ia14": 584.0393,
+      "taxa_confirmats": 211.41,
       "confirmats": 139,
       "ingressos": 61
     },
@@ -238,8 +238,8 @@
       "data": "2020-09-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 511.4738,
-      "taxa_confirmats": 198.4823,
+      "ia14": 511.0343,
+      "taxa_confirmats": 197.7216,
       "confirmats": 130,
       "ingressos": 59
     },
@@ -247,8 +247,8 @@
       "data": "2020-09-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 500.7862,
-      "taxa_confirmats": 209.1698,
+      "ia14": 500.3878,
+      "taxa_confirmats": 208.3681,
       "confirmats": 137,
       "ingressos": 57
     },
@@ -256,8 +256,8 @@
       "data": "2020-09-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 612.2417,
-      "taxa_confirmats": 311.4646,
+      "ia14": 611.4161,
+      "taxa_confirmats": 310.2708,
       "confirmats": 204,
       "ingressos": 54
     },
@@ -265,8 +265,8 @@
       "data": "2020-09-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 616.8221,
-      "taxa_confirmats": 364.9022,
+      "ia14": 615.9789,
+      "taxa_confirmats": 363.5036,
       "confirmats": 239,
       "ingressos": 52
     },
@@ -274,8 +274,8 @@
       "data": "2020-10-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 603.081,
-      "taxa_confirmats": 345.0539,
+      "ia14": 600.7695,
+      "taxa_confirmats": 343.7314,
       "confirmats": 226,
       "ingressos": 55
     },
@@ -283,8 +283,8 @@
       "data": "2020-10-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 732.8579,
-      "taxa_confirmats": 500.7862,
+      "ia14": 730.0491,
+      "taxa_confirmats": 498.8669,
       "confirmats": 328,
       "ingressos": 56
     },
@@ -292,8 +292,8 @@
       "data": "2020-10-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 713.0097,
-      "taxa_confirmats": 500.7862,
+      "ia14": 710.2769,
+      "taxa_confirmats": 498.8669,
       "confirmats": 328,
       "ingressos": 55
     },
@@ -301,8 +301,8 @@
       "data": "2020-10-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 702.3222,
-      "taxa_confirmats": 503.8398,
+      "ia14": 699.6304,
+      "taxa_confirmats": 501.9087,
       "confirmats": 330,
       "ingressos": 56
     },
@@ -310,8 +310,8 @@
       "data": "2020-10-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 709.9561,
-      "taxa_confirmats": 500.7862,
+      "ia14": 707.235,
+      "taxa_confirmats": 498.8669,
       "confirmats": 328,
       "ingressos": 65
     },
@@ -319,8 +319,8 @@
       "data": "2020-10-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 749.6526,
-      "taxa_confirmats": 438.188,
+      "ia14": 746.7794,
+      "taxa_confirmats": 436.5085,
       "confirmats": 287,
       "ingressos": 67
     },
@@ -328,8 +328,8 @@
       "data": "2020-10-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 807.6705,
-      "taxa_confirmats": 442.7683,
+      "ia14": 804.5749,
+      "taxa_confirmats": 441.0713,
       "confirmats": 290,
       "ingressos": 72
     },
@@ -337,8 +337,8 @@
       "data": "2020-10-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 909.9653,
-      "taxa_confirmats": 564.9113,
+      "ia14": 906.4776,
+      "taxa_confirmats": 562.7462,
       "confirmats": 370,
       "ingressos": 73
     },
@@ -346,8 +346,8 @@
       "data": "2020-10-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 949.6618,
-      "taxa_confirmats": 448.8755,
+      "ia14": 946.0219,
+      "taxa_confirmats": 447.155,
       "confirmats": 294,
       "ingressos": 78
     },
@@ -355,8 +355,8 @@
       "data": "2020-10-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 966.4564,
-      "taxa_confirmats": 465.6701,
+      "ia14": 962.7522,
+      "taxa_confirmats": 463.8853,
       "confirmats": 305,
       "ingressos": 80
     },
@@ -364,8 +364,8 @@
       "data": "2020-10-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1036.6887,
-      "taxa_confirmats": 532.8488,
+      "ia14": 1032.7153,
+      "taxa_confirmats": 530.8065,
       "confirmats": 349,
       "ingressos": 82
     },
@@ -373,8 +373,8 @@
       "data": "2020-10-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 984.7779,
-      "taxa_confirmats": 483.9916,
+      "ia14": 981.0035,
+      "taxa_confirmats": 482.1366,
       "confirmats": 317,
       "ingressos": 82
     },
@@ -382,8 +382,8 @@
       "data": "2020-10-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 917.5992,
-      "taxa_confirmats": 479.4112,
+      "ia14": 914.0823,
+      "taxa_confirmats": 477.5738,
       "confirmats": 314,
       "ingressos": 81
     },
@@ -391,8 +391,8 @@
       "data": "2020-10-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 971.0368,
-      "taxa_confirmats": 528.2684,
+      "ia14": 967.315,
+      "taxa_confirmats": 526.2437,
       "confirmats": 346,
       "ingressos": 83
     },
@@ -400,8 +400,8 @@
       "data": "2020-10-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1108.4477,
-      "taxa_confirmats": 543.5363,
+      "ia14": 1104.1993,
+      "taxa_confirmats": 541.4531,
       "confirmats": 356,
       "ingressos": 86
     },
@@ -409,8 +409,8 @@
       "data": "2020-10-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1047.3762,
-      "taxa_confirmats": 598.5006,
+      "ia14": 1043.3618,
+      "taxa_confirmats": 596.2067,
       "confirmats": 392,
       "ingressos": 86
     },
@@ -418,8 +418,8 @@
       "data": "2020-10-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1091.653,
-      "taxa_confirmats": 625.9828,
+      "ia14": 1087.469,
+      "taxa_confirmats": 623.5836,
       "confirmats": 410,
       "ingressos": 91
     },
@@ -427,8 +427,8 @@
       "data": "2020-10-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1125.2423,
-      "taxa_confirmats": 592.3935,
+      "ia14": 1120.9295,
+      "taxa_confirmats": 590.123,
       "confirmats": 388,
       "ingressos": 92
     },
@@ -436,8 +436,8 @@
       "data": "2020-10-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1299.2961,
-      "taxa_confirmats": 815.3045,
+      "ia14": 1294.3162,
+      "taxa_confirmats": 812.1796,
       "confirmats": 534,
       "ingressos": 94
     },
@@ -445,44 +445,44 @@
       "data": "2020-10-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1613.8143,
-      "taxa_confirmats": 1134.4031,
-      "confirmats": 743,
+      "ia14": 1609.1499,
+      "taxa_confirmats": 1131.5761,
+      "confirmats": 744,
       "ingressos": 102
     },
     {
       "data": "2020-10-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1984.8237,
-      "taxa_confirmats": 1456.5552,
-      "confirmats": 954,
+      "ia14": 1978.7373,
+      "taxa_confirmats": 1452.4935,
+      "confirmats": 955,
       "ingressos": 104
     },
     {
       "data": "2020-10-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2274.9133,
-      "taxa_confirmats": 1731.377,
-      "confirmats": 1134,
+      "ia14": 2267.715,
+      "taxa_confirmats": 1726.2619,
+      "confirmats": 1135,
       "ingressos": 109
     },
     {
       "data": "2020-10-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2519.1993,
-      "taxa_confirmats": 1920.6986,
-      "confirmats": 1258,
+      "ia14": 2512.5857,
+      "taxa_confirmats": 1916.3789,
+      "confirmats": 1260,
       "ingressos": 114
     },
     {
       "data": "2020-10-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2644.3959,
-      "taxa_confirmats": 2018.413,
+      "ia14": 2634.2605,
+      "taxa_confirmats": 2010.6769,
       "confirmats": 1322,
       "ingressos": 117
     },
@@ -490,8 +490,8 @@
       "data": "2020-10-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2658.137,
-      "taxa_confirmats": 2065.7434,
+      "ia14": 2647.949,
+      "taxa_confirmats": 2057.8259,
       "confirmats": 1353,
       "ingressos": 129
     },
@@ -499,8 +499,8 @@
       "data": "2020-10-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2897.8426,
-      "taxa_confirmats": 2082.5381,
+      "ia14": 2886.7359,
+      "taxa_confirmats": 2074.5562,
       "confirmats": 1364,
       "ingressos": 147
     },
@@ -508,125 +508,125 @@
       "data": "2020-10-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3155.8697,
-      "taxa_confirmats": 2021.4666,
-      "confirmats": 1324,
+      "ia14": 3142.2531,
+      "taxa_confirmats": 2010.6769,
+      "confirmats": 1322,
       "ingressos": 151
     },
     {
       "data": "2020-10-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3250.5305,
-      "taxa_confirmats": 1793.9752,
-      "confirmats": 1175,
+      "ia14": 3236.5511,
+      "taxa_confirmats": 1784.0575,
+      "confirmats": 1173,
       "ingressos": 148
     },
     {
       "data": "2020-10-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3273.4323,
-      "taxa_confirmats": 1542.0553,
-      "confirmats": 1010,
+      "ia14": 3259.3651,
+      "taxa_confirmats": 1533.1031,
+      "confirmats": 1008,
       "ingressos": 144
     },
     {
       "data": "2020-10-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3406.2628,
-      "taxa_confirmats": 1485.5642,
-      "confirmats": 973,
+      "ia14": 3391.6865,
+      "taxa_confirmats": 1475.3076,
+      "confirmats": 970,
       "ingressos": 152
     },
     {
       "data": "2020-10-31T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3505.504,
-      "taxa_confirmats": 1487.091,
+      "ia14": 3492.0683,
+      "taxa_confirmats": 1481.3913,
       "confirmats": 974,
-      "ingressos": 161
+      "ingressos": 162
     },
     {
       "data": "2020-11-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3563.5219,
-      "taxa_confirmats": 1497.7785,
-      "confirmats": 981,
-      "ingressos": 155
+      "ia14": 3551.3848,
+      "taxa_confirmats": 1493.5588,
+      "confirmats": 982,
+      "ingressos": 156
     },
     {
       "data": "2020-11-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3583.3702,
-      "taxa_confirmats": 1500.832,
-      "confirmats": 983,
-      "ingressos": 150
+      "ia14": 3572.6779,
+      "taxa_confirmats": 1498.1216,
+      "confirmats": 985,
+      "ingressos": 151
     },
     {
       "data": "2020-11-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3543.6737,
-      "taxa_confirmats": 1522.2071,
-      "confirmats": 997,
-      "ingressos": 160
+      "ia14": 3531.6126,
+      "taxa_confirmats": 1520.9356,
+      "confirmats": 1000,
+      "ingressos": 161
     },
     {
       "data": "2020-11-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3331.4502,
-      "taxa_confirmats": 1537.4749,
-      "confirmats": 1007,
-      "ingressos": 186
+      "ia14": 3320.2025,
+      "taxa_confirmats": 1536.145,
+      "confirmats": 1010,
+      "ingressos": 187
     },
     {
       "data": "2020-11-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3180.2983,
-      "taxa_confirmats": 1638.2429,
-      "confirmats": 1073,
-      "ingressos": 185
+      "ia14": 3169.6299,
+      "taxa_confirmats": 1636.5267,
+      "confirmats": 1076,
+      "ingressos": 186
     },
     {
       "data": "2020-11-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3065.7892,
-      "taxa_confirmats": 1580.225,
-      "confirmats": 1035,
-      "ingressos": 174
+      "ia14": 3054.0388,
+      "taxa_confirmats": 1578.7312,
+      "confirmats": 1038,
+      "ingressos": 175
     },
     {
       "data": "2020-11-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3128.3875,
-      "taxa_confirmats": 1641.2965,
-      "confirmats": 1075,
+      "ia14": 3119.439,
+      "taxa_confirmats": 1638.0477,
+      "confirmats": 1077,
       "ingressos": 176
     },
     {
       "data": "2020-11-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3081.0571,
-      "taxa_confirmats": 1583.2786,
-      "confirmats": 1037,
+      "ia14": 3072.29,
+      "taxa_confirmats": 1578.7312,
+      "confirmats": 1038,
       "ingressos": 172
     },
     {
       "data": "2020-11-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3018.4588,
-      "taxa_confirmats": 1517.6267,
+      "ia14": 3009.9317,
+      "taxa_confirmats": 1511.81,
       "confirmats": 994,
       "ingressos": 164
     },
@@ -634,8 +634,8 @@
       "data": "2020-11-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3047.4678,
-      "taxa_confirmats": 1525.2606,
+      "ia14": 3040.3504,
+      "taxa_confirmats": 1519.4147,
       "confirmats": 999,
       "ingressos": 152
     },
@@ -643,80 +643,80 @@
       "data": "2020-11-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3018.4588,
-      "taxa_confirmats": 1480.9838,
-      "confirmats": 970,
+      "ia14": 3012.9735,
+      "taxa_confirmats": 1476.8285,
+      "confirmats": 971,
       "ingressos": 133
     },
     {
       "data": "2020-11-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3065.7892,
-      "taxa_confirmats": 1427.5462,
-      "confirmats": 935,
+      "ia14": 3063.1644,
+      "taxa_confirmats": 1426.6376,
+      "confirmats": 938,
       "ingressos": 141
     },
     {
       "data": "2020-11-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 3023.0392,
-      "taxa_confirmats": 1442.8141,
-      "confirmats": 945,
+      "ia14": 3020.5782,
+      "taxa_confirmats": 1441.847,
+      "confirmats": 948,
       "ingressos": 147
     },
     {
       "data": "2020-11-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2961.9677,
-      "taxa_confirmats": 1320.6711,
-      "confirmats": 865,
+      "ia14": 2958.2198,
+      "taxa_confirmats": 1320.1721,
+      "confirmats": 868,
       "ingressos": 136
     },
     {
       "data": "2020-11-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2890.2087,
-      "taxa_confirmats": 1306.93,
-      "confirmats": 856,
+      "ia14": 2885.2149,
+      "taxa_confirmats": 1306.4837,
+      "confirmats": 859,
       "ingressos": 136
     },
     {
       "data": "2020-11-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2761.9585,
-      "taxa_confirmats": 1244.3318,
-      "confirmats": 815,
+      "ia14": 2755.9354,
+      "taxa_confirmats": 1244.1253,
+      "confirmats": 818,
       "ingressos": 151
     },
     {
       "data": "2020-11-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2630.6548,
-      "taxa_confirmats": 1105.3941,
-      "confirmats": 724,
+      "ia14": 2625.1349,
+      "taxa_confirmats": 1105.7202,
+      "confirmats": 727,
       "ingressos": 147
     },
     {
       "data": "2020-11-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2577.2172,
-      "taxa_confirmats": 1096.2334,
-      "confirmats": 718,
+      "ia14": 2573.4231,
+      "taxa_confirmats": 1096.5946,
+      "confirmats": 721,
       "ingressos": 138
     },
     {
       "data": "2020-11-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2497.8243,
-      "taxa_confirmats": 1070.278,
+      "ia14": 2492.8135,
+      "taxa_confirmats": 1066.1759,
       "confirmats": 701,
       "ingressos": 136
     },
@@ -724,8 +724,8 @@
       "data": "2020-11-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2505.4582,
-      "taxa_confirmats": 1062.644,
+      "ia14": 2500.4182,
+      "taxa_confirmats": 1058.5712,
       "confirmats": 696,
       "ingressos": 126
     },
@@ -733,8 +733,8 @@
       "data": "2020-11-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2343.6187,
-      "taxa_confirmats": 1022.9476,
+      "ia14": 2339.199,
+      "taxa_confirmats": 1019.0269,
       "confirmats": 670,
       "ingressos": 124
     },
@@ -742,8 +742,8 @@
       "data": "2020-11-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2314.6098,
-      "taxa_confirmats": 1007.6797,
+      "ia14": 2310.3012,
+      "taxa_confirmats": 1003.8175,
       "confirmats": 660,
       "ingressos": 118
     },
@@ -751,8 +751,8 @@
       "data": "2020-11-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2207.7347,
-      "taxa_confirmats": 963.4029,
+      "ia14": 2203.8357,
+      "taxa_confirmats": 959.7104,
       "confirmats": 631,
       "ingressos": 91
     },
@@ -760,8 +760,8 @@
       "data": "2020-11-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2081.0113,
-      "taxa_confirmats": 975.6172,
+      "ia14": 2077.5981,
+      "taxa_confirmats": 971.8778,
       "confirmats": 639,
       "ingressos": 91
     },
@@ -769,8 +769,8 @@
       "data": "2020-11-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 2000.0916,
-      "taxa_confirmats": 903.8581,
+      "ia14": 1996.9885,
+      "taxa_confirmats": 900.3939,
       "confirmats": 592,
       "ingressos": 92
     },
@@ -778,604 +778,631 @@
       "data": "2020-11-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1939.0201,
-      "taxa_confirmats": 868.742,
-      "confirmats": 569,
+      "ia14": 1934.6301,
+      "taxa_confirmats": 868.4542,
+      "confirmats": 571,
       "ingressos": 83
     },
     {
       "data": "2020-11-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1873.3682,
-      "taxa_confirmats": 810.7241,
-      "confirmats": 531,
+      "ia14": 1869.2299,
+      "taxa_confirmats": 810.6587,
+      "confirmats": 533,
       "ingressos": 84
     },
     {
       "data": "2020-11-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1844.3592,
-      "taxa_confirmats": 821.4116,
-      "confirmats": 538,
+      "ia14": 1840.3321,
+      "taxa_confirmats": 821.3052,
+      "confirmats": 540,
       "ingressos": 90
     },
     {
       "data": "2020-11-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1884.0557,
-      "taxa_confirmats": 876.376,
-      "confirmats": 574,
+      "ia14": 1879.8765,
+      "taxa_confirmats": 876.0589,
+      "confirmats": 576,
       "ingressos": 94
     },
     {
       "data": "2020-11-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1853.52,
-      "taxa_confirmats": 890.1171,
-      "confirmats": 583,
+      "ia14": 1850.9787,
+      "taxa_confirmats": 891.2683,
+      "confirmats": 586,
       "ingressos": 97
     },
     {
       "data": "2020-12-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1758.8591,
-      "taxa_confirmats": 783.2419,
-      "confirmats": 513,
+      "ia14": 1756.6807,
+      "taxa_confirmats": 784.8028,
+      "confirmats": 516,
       "ingressos": 102
     },
     {
       "data": "2020-12-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1682.5198,
-      "taxa_confirmats": 778.6616,
-      "confirmats": 510,
+      "ia14": 1680.6339,
+      "taxa_confirmats": 780.24,
+      "confirmats": 513,
       "ingressos": 102
     },
     {
       "data": "2020-12-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1580.225,
-      "taxa_confirmats": 711.4829,
-      "confirmats": 466,
+      "ia14": 1580.2521,
+      "taxa_confirmats": 711.7978,
+      "confirmats": 468,
       "ingressos": 99
     },
     {
       "data": "2020-12-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1462.6624,
-      "taxa_confirmats": 651.9382,
-      "confirmats": 427,
-      "ingressos": 93
+      "ia14": 1463.1401,
+      "taxa_confirmats": 652.4814,
+      "confirmats": 429,
+      "ingressos": 94
     },
     {
       "data": "2020-12-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1432.1266,
-      "taxa_confirmats": 610.7149,
-      "confirmats": 400,
-      "ingressos": 86
+      "ia14": 1432.7214,
+      "taxa_confirmats": 611.4161,
+      "confirmats": 402,
+      "ingressos": 87
     },
     {
       "data": "2020-12-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1433.6534,
-      "taxa_confirmats": 557.2774,
-      "confirmats": 365,
-      "ingressos": 84
+      "ia14": 1435.7632,
+      "taxa_confirmats": 559.7043,
+      "confirmats": 368,
+      "ingressos": 85
     },
     {
       "data": "2020-12-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1543.5821,
-      "taxa_confirmats": 653.465,
-      "confirmats": 428,
-      "ingressos": 87
+      "ia14": 1545.2706,
+      "taxa_confirmats": 654.0023,
+      "confirmats": 430,
+      "ingressos": 88
     },
     {
       "data": "2020-12-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1366.4748,
-      "taxa_confirmats": 583.2328,
-      "confirmats": 382,
-      "ingressos": 79
+      "ia14": 1368.8421,
+      "taxa_confirmats": 584.0393,
+      "confirmats": 384,
+      "ingressos": 81
     },
     {
       "data": "2020-12-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1410.7516,
-      "taxa_confirmats": 632.09,
-      "confirmats": 414,
-      "ingressos": 84
+      "ia14": 1411.4283,
+      "taxa_confirmats": 631.1883,
+      "confirmats": 415,
+      "ingressos": 87
     },
     {
       "data": "2020-12-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1406.1712,
-      "taxa_confirmats": 694.6883,
-      "confirmats": 455,
-      "ingressos": 82
+      "ia14": 1406.8655,
+      "taxa_confirmats": 695.0676,
+      "confirmats": 457,
+      "ingressos": 86
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1361.8944,
-      "taxa_confirmats": 709.9561,
-      "confirmats": 465,
-      "ingressos": 89
+      "ia14": 1362.7583,
+      "taxa_confirmats": 710.2769,
+      "confirmats": 467,
+      "ingressos": 92
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1368.0015,
-      "taxa_confirmats": 757.2865,
-      "confirmats": 496,
-      "ingressos": 90
+      "ia14": 1370.363,
+      "taxa_confirmats": 758.9469,
+      "confirmats": 499,
+      "ingressos": 93
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1338.9926,
-      "taxa_confirmats": 781.7151,
-      "confirmats": 512,
-      "ingressos": 91
+      "ia14": 1341.4652,
+      "taxa_confirmats": 781.7609,
+      "confirmats": 514,
+      "ingressos": 94
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1348.1533,
-      "taxa_confirmats": 694.6883,
-      "confirmats": 455,
-      "ingressos": 94
+      "ia14": 1352.1118,
+      "taxa_confirmats": 698.1094,
+      "confirmats": 459,
+      "ingressos": 97
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1476.4034,
-      "taxa_confirmats": 893.1706,
-      "confirmats": 585,
-      "ingressos": 95
+      "ia14": 1479.8704,
+      "taxa_confirmats": 895.8311,
+      "confirmats": 589,
+      "ingressos": 97
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1557.3232,
-      "taxa_confirmats": 925.2332,
-      "confirmats": 606,
-      "ingressos": 97
+      "ia14": 1560.48,
+      "taxa_confirmats": 929.2917,
+      "confirmats": 611,
+      "ingressos": 99
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1606.1804,
-      "taxa_confirmats": 911.4921,
-      "confirmats": 597,
-      "ingressos": 103
+      "ia14": 1609.1499,
+      "taxa_confirmats": 914.0823,
+      "confirmats": 601,
+      "ingressos": 104
     },
     {
       "data": "2020-12-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1609.234,
-      "taxa_confirmats": 899.2778,
-      "confirmats": 589,
-      "ingressos": 98
+      "ia14": 1616.7546,
+      "taxa_confirmats": 906.4776,
+      "confirmats": 596,
+      "ingressos": 100
     },
     {
       "data": "2020-12-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1610.7607,
-      "taxa_confirmats": 853.4742,
-      "confirmats": 559,
-      "ingressos": 91
+      "ia14": 1618.2755,
+      "taxa_confirmats": 859.3286,
+      "confirmats": 565,
+      "ingressos": 93
     },
     {
       "data": "2020-12-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1642.8233,
-      "taxa_confirmats": 861.1081,
-      "confirmats": 564,
-      "ingressos": 92
+      "ia14": 1648.6942,
+      "taxa_confirmats": 866.9333,
+      "confirmats": 570,
+      "ingressos": 94
     },
     {
       "data": "2020-12-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1583.2786,
-      "taxa_confirmats": 888.5903,
-      "confirmats": 582,
-      "ingressos": 102
+      "ia14": 1589.3777,
+      "taxa_confirmats": 891.2683,
+      "confirmats": 586,
+      "ingressos": 104
     },
     {
       "data": "2020-12-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1677.9394,
-      "taxa_confirmats": 784.7687,
-      "confirmats": 514,
-      "ingressos": 107
+      "ia14": 1683.6757,
+      "taxa_confirmats": 787.8446,
+      "confirmats": 518,
+      "ingressos": 112
     },
     {
       "data": "2020-12-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1705.4216,
-      "taxa_confirmats": 780.1884,
-      "confirmats": 511,
-      "ingressos": 106
+      "ia14": 1711.0526,
+      "taxa_confirmats": 781.7609,
+      "confirmats": 514,
+      "ingressos": 110
     },
     {
       "data": "2020-12-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1626.0286,
-      "taxa_confirmats": 714.5365,
-      "confirmats": 468,
-      "ingressos": 106
+      "ia14": 1628.9221,
+      "taxa_confirmats": 714.8397,
+      "confirmats": 470,
+      "ingressos": 110
     },
     {
       "data": "2020-12-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1540.5285,
-      "taxa_confirmats": 641.2507,
-      "confirmats": 420,
-      "ingressos": 111
+      "ia14": 1543.7497,
+      "taxa_confirmats": 637.272,
+      "confirmats": 419,
+      "ingressos": 114
     },
     {
       "data": "2020-12-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 1537.4749,
-      "taxa_confirmats": 684.0007,
+      "ia14": 1540.7078,
+      "taxa_confirmats": 681.3791,
       "confirmats": 448,
-      "ingressos": 114
+      "ingressos": 116
     },
     {
       "data": "2020-12-27T00:00:00.000Z",
       "vacunats": 558,
       "pauta_completa": 0,
-      "ia14": 1523.7339,
-      "taxa_confirmats": 662.6257,
+      "ia14": 1527.0194,
+      "taxa_confirmats": 660.086,
       "confirmats": 434,
-      "ingressos": 111
+      "ingressos": 113
     },
     {
       "data": "2020-12-28T00:00:00.000Z",
       "vacunats": 558,
       "pauta_completa": 0,
-      "ia14": 1616.8679,
-      "taxa_confirmats": 728.2776,
-      "confirmats": 477,
-      "ingressos": 104
+      "ia14": 1618.2755,
+      "taxa_confirmats": 727.0072,
+      "confirmats": 478,
+      "ingressos": 106
     },
     {
       "data": "2020-12-29T00:00:00.000Z",
-      "vacunats": 894,
+      "vacunats": 896,
       "pauta_completa": 0,
-      "ia14": 1490.1445,
-      "taxa_confirmats": 705.3758,
-      "confirmats": 462,
-      "ingressos": 105
+      "ia14": 1493.5588,
+      "taxa_confirmats": 705.7141,
+      "confirmats": 464,
+      "ingressos": 104
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
-      "vacunats": 2515,
+      "vacunats": 2518,
       "pauta_completa": 0,
-      "ia14": 1470.2963,
-      "taxa_confirmats": 690.1079,
-      "confirmats": 452,
-      "ingressos": 100
+      "ia14": 1475.3076,
+      "taxa_confirmats": 693.5466,
+      "confirmats": 456,
+      "ingressos": 99
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
-      "vacunats": 4219,
+      "vacunats": 4222,
       "pauta_completa": 0,
-      "ia14": 1487.091,
-      "taxa_confirmats": 772.5544,
-      "confirmats": 506,
+      "ia14": 1493.5588,
+      "taxa_confirmats": 778.719,
+      "confirmats": 512,
       "ingressos": 102
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
-      "vacunats": 4221,
+      "vacunats": 4224,
       "pauta_completa": 0,
-      "ia14": 1450.4481,
-      "taxa_confirmats": 809.1973,
-      "confirmats": 530,
+      "ia14": 1452.4935,
+      "taxa_confirmats": 815.2215,
+      "confirmats": 536,
       "ingressos": 102
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
-      "vacunats": 5521,
+      "vacunats": 5526,
       "pauta_completa": 0,
-      "ia14": 1526.7874,
-      "taxa_confirmats": 842.7866,
-      "confirmats": 552,
-      "ingressos": 103
+      "ia14": 1528.5403,
+      "taxa_confirmats": 847.1611,
+      "confirmats": 557,
+      "ingressos": 104
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
-      "vacunats": 5521,
+      "vacunats": 5526,
       "pauta_completa": 0,
-      "ia14": 1564.9571,
-      "taxa_confirmats": 902.3314,
-      "confirmats": 591,
-      "ingressos": 115
+      "ia14": 1568.0846,
+      "taxa_confirmats": 907.9986,
+      "confirmats": 597,
+      "ingressos": 116
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
-      "vacunats": 6841,
+      "vacunats": 6846,
       "pauta_completa": 0,
-      "ia14": 1583.2786,
-      "taxa_confirmats": 855.0009,
-      "confirmats": 560,
-      "ingressos": 105
-    },
-    {
-      "data": "2021-01-05T00:00:00.000Z",
-      "vacunats": 11922,
-      "pauta_completa": 0,
-      "ia14": 1610.7607,
-      "taxa_confirmats": 905.3849,
-      "confirmats": 593,
-      "ingressos": 106
-    },
-    {
-      "data": "2021-01-06T00:00:00.000Z",
-      "vacunats": 13085,
-      "pauta_completa": 0,
-      "ia14": 1497.7785,
-      "taxa_confirmats": 807.6705,
-      "confirmats": 529,
-      "ingressos": 106
-    },
-    {
-      "data": "2021-01-07T00:00:00.000Z",
-      "vacunats": 19025,
-      "pauta_completa": 0,
-      "ia14": 1722.2162,
-      "taxa_confirmats": 949.6618,
-      "confirmats": 622,
+      "ia14": 1586.3359,
+      "taxa_confirmats": 859.3286,
+      "confirmats": 565,
       "ingressos": 107
     },
     {
-      "data": "2021-01-08T00:00:00.000Z",
-      "vacunats": 24194,
+      "data": "2021-01-05T00:00:00.000Z",
+      "vacunats": 11935,
       "pauta_completa": 0,
-      "ia14": 1958.8683,
-      "taxa_confirmats": 1149.6709,
-      "confirmats": 753,
-      "ingressos": 109
+      "ia14": 1613.7127,
+      "taxa_confirmats": 907.9986,
+      "confirmats": 597,
+      "ingressos": 108
+    },
+    {
+      "data": "2021-01-06T00:00:00.000Z",
+      "vacunats": 13103,
+      "pauta_completa": 0,
+      "ia14": 1501.1635,
+      "taxa_confirmats": 807.6168,
+      "confirmats": 531,
+      "ingressos": 108
+    },
+    {
+      "data": "2021-01-07T00:00:00.000Z",
+      "vacunats": 19056,
+      "pauta_completa": 0,
+      "ia14": 1727.7829,
+      "taxa_confirmats": 949.0638,
+      "confirmats": 624,
+      "ingressos": 110
+    },
+    {
+      "data": "2021-01-08T00:00:00.000Z",
+      "vacunats": 24235,
+      "pauta_completa": 0,
+      "ia14": 1963.5279,
+      "taxa_confirmats": 1148.3064,
+      "confirmats": 755,
+      "ingressos": 112
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
-      "vacunats": 27905,
+      "vacunats": 27974,
       "pauta_completa": 0,
-      "ia14": 2003.1451,
-      "taxa_confirmats": 1160.3584,
-      "confirmats": 760,
-      "ingressos": 118
+      "ia14": 2006.1141,
+      "taxa_confirmats": 1158.9529,
+      "confirmats": 762,
+      "ingressos": 122
     },
     {
       "data": "2021-01-10T00:00:00.000Z",
-      "vacunats": 29932,
+      "vacunats": 30002,
       "pauta_completa": 0,
-      "ia14": 2058.1095,
-      "taxa_confirmats": 1155.7781,
-      "confirmats": 757,
-      "ingressos": 114
+      "ia14": 2060.8678,
+      "taxa_confirmats": 1152.8692,
+      "confirmats": 758,
+      "ingressos": 118
     },
     {
       "data": "2021-01-11T00:00:00.000Z",
-      "vacunats": 32655,
+      "vacunats": 32727,
       "pauta_completa": 0,
-      "ia14": 2152.7703,
-      "taxa_confirmats": 1297.7693,
-      "confirmats": 850,
-      "ingressos": 130
+      "ia14": 2155.1658,
+      "taxa_confirmats": 1295.8371,
+      "confirmats": 852,
+      "ingressos": 135
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
-      "vacunats": 35467,
+      "vacunats": 35543,
       "pauta_completa": 0,
-      "ia14": 2340.5652,
-      "taxa_confirmats": 1435.1802,
-      "confirmats": 940,
-      "ingressos": 141
+      "ia14": 2343.7618,
+      "taxa_confirmats": 1435.7632,
+      "confirmats": 944,
+      "ingressos": 146
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
-      "vacunats": 37898,
+      "vacunats": 37986,
       "pauta_completa": 0,
-      "ia14": 2419.9581,
-      "taxa_confirmats": 1612.2875,
-      "confirmats": 1056,
-      "ingressos": 150
-    },
-    {
-      "data": "2021-01-14T00:00:00.000Z",
-      "vacunats": 40703,
-      "pauta_completa": 0,
-      "ia14": 2430.6456,
-      "taxa_confirmats": 1480.9838,
-      "confirmats": 970,
-      "ingressos": 158
-    },
-    {
-      "data": "2021-01-15T00:00:00.000Z",
-      "vacunats": 42948,
-      "pauta_completa": 0,
-      "ia14": 2543.6279,
-      "taxa_confirmats": 1393.9569,
-      "confirmats": 913,
-      "ingressos": 160
-    },
-    {
-      "data": "2021-01-16T00:00:00.000Z",
-      "vacunats": 43726,
-      "pauta_completa": 0,
-      "ia14": 2568.0565,
-      "taxa_confirmats": 1407.698,
-      "confirmats": 922,
+      "ia14": 2419.8086,
+      "taxa_confirmats": 1612.1918,
+      "confirmats": 1060,
       "ingressos": 156
     },
     {
-      "data": "2021-01-17T00:00:00.000Z",
-      "vacunats": 44128,
-      "pauta_completa": 90,
-      "ia14": 2549.7351,
-      "taxa_confirmats": 1393.9569,
-      "confirmats": 913,
-      "ingressos": 163
-    },
-    {
-      "data": "2021-01-18T00:00:00.000Z",
-      "vacunats": 45506,
-      "pauta_completa": 246,
-      "ia14": 2616.9137,
-      "taxa_confirmats": 1319.1443,
-      "confirmats": 864,
-      "ingressos": 161
-    },
-    {
-      "data": "2021-01-19T00:00:00.000Z",
-      "vacunats": 46426,
-      "pauta_completa": 587,
-      "ia14": 2809.2889,
-      "taxa_confirmats": 1374.1087,
-      "confirmats": 900,
-      "ingressos": 163
-    },
-    {
-      "data": "2021-01-20T00:00:00.000Z",
-      "vacunats": 47640,
-      "pauta_completa": 1505,
-      "ia14": 2925.3248,
-      "taxa_confirmats": 1313.0372,
-      "confirmats": 860,
+      "data": "2021-01-14T00:00:00.000Z",
+      "vacunats": 40803,
+      "pauta_completa": 0,
+      "ia14": 2428.9342,
+      "taxa_confirmats": 1479.8704,
+      "confirmats": 973,
       "ingressos": 162
     },
     {
+      "data": "2021-01-15T00:00:00.000Z",
+      "vacunats": 43050,
+      "pauta_completa": 0,
+      "ia14": 2546.0463,
+      "taxa_confirmats": 1397.7398,
+      "confirmats": 919,
+      "ingressos": 164
+    },
+    {
+      "data": "2021-01-16T00:00:00.000Z",
+      "vacunats": 43828,
+      "pauta_completa": 0,
+      "ia14": 2570.3812,
+      "taxa_confirmats": 1411.4283,
+      "confirmats": 928,
+      "ingressos": 161
+    },
+    {
+      "data": "2021-01-17T00:00:00.000Z",
+      "vacunats": 44140,
+      "pauta_completa": 90,
+      "ia14": 2550.6091,
+      "taxa_confirmats": 1397.7398,
+      "confirmats": 919,
+      "ingressos": 168
+    },
+    {
+      "data": "2021-01-18T00:00:00.000Z",
+      "vacunats": 45362,
+      "pauta_completa": 247,
+      "ia14": 2619.0512,
+      "taxa_confirmats": 1323.214,
+      "confirmats": 870,
+      "ingressos": 164
+    },
+    {
+      "data": "2021-01-19T00:00:00.000Z",
+      "vacunats": 45961,
+      "pauta_completa": 588,
+      "ia14": 2810.6891,
+      "taxa_confirmats": 1374.9258,
+      "confirmats": 904,
+      "ingressos": 166
+    },
+    {
+      "data": "2021-01-20T00:00:00.000Z",
+      "vacunats": 46257,
+      "pauta_completa": 1505,
+      "ia14": 2927.8011,
+      "taxa_confirmats": 1315.6093,
+      "confirmats": 865,
+      "ingressos": 165
+    },
+    {
       "data": "2021-01-21T00:00:00.000Z",
-      "vacunats": 49259,
-      "pauta_completa": 2506,
-      "ia14": 2742.1103,
-      "taxa_confirmats": 1261.1264,
-      "confirmats": 826,
-      "ingressos": 158
+      "vacunats": 46877,
+      "pauta_completa": 2508,
+      "ia14": 2745.2889,
+      "taxa_confirmats": 1265.4184,
+      "confirmats": 832,
+      "ingressos": 163
     },
     {
       "data": "2021-01-22T00:00:00.000Z",
-      "vacunats": 51310,
-      "pauta_completa": 3768,
-      "ia14": 2584.8512,
-      "taxa_confirmats": 1190.8942,
-      "confirmats": 780,
-      "ingressos": 159
+      "vacunats": 47664,
+      "pauta_completa": 3770,
+      "ia14": 2590.1534,
+      "taxa_confirmats": 1192.4135,
+      "confirmats": 784,
+      "ingressos": 165
     },
     {
       "data": "2021-01-23T00:00:00.000Z",
-      "vacunats": 52565,
-      "pauta_completa": 4571,
-      "ia14": 2531.4136,
-      "taxa_confirmats": 1123.7155,
-      "confirmats": 736,
-      "ingressos": 154
+      "vacunats": 48116,
+      "pauta_completa": 4573,
+      "ia14": 2536.9207,
+      "taxa_confirmats": 1125.4924,
+      "confirmats": 740,
+      "ingressos": 160
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
-      "vacunats": 52915,
-      "pauta_completa": 4806,
-      "ia14": 2497.8243,
-      "taxa_confirmats": 1103.8673,
-      "confirmats": 723,
-      "ingressos": 149
+      "vacunats": 48231,
+      "pauta_completa": 4808,
+      "ia14": 2503.4601,
+      "taxa_confirmats": 1105.7202,
+      "confirmats": 727,
+      "ingressos": 155
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
-      "vacunats": 54942,
-      "pauta_completa": 5950,
-      "ia14": 2377.2081,
-      "taxa_confirmats": 1058.0637,
-      "confirmats": 693,
-      "ingressos": 148
+      "vacunats": 49122,
+      "pauta_completa": 5951,
+      "ia14": 2389.3899,
+      "taxa_confirmats": 1066.1759,
+      "confirmats": 701,
+      "ingressos": 156
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
-      "vacunats": 59063,
-      "pauta_completa": 9742,
-      "ia14": 2186.3596,
-      "taxa_confirmats": 812.2509,
-      "confirmats": 532,
-      "ingressos": 133
+      "vacunats": 49455,
+      "pauta_completa": 9743,
+      "ia14": 2196.2311,
+      "taxa_confirmats": 821.3052,
+      "confirmats": 540,
+      "ingressos": 141
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
-      "vacunats": 61023,
-      "pauta_completa": 11357,
-      "ia14": 2013.8326,
-      "taxa_confirmats": 700.7954,
-      "confirmats": 459,
-      "ingressos": 125
+      "vacunats": 49807,
+      "pauta_completa": 11361,
+      "ia14": 2025.8863,
+      "taxa_confirmats": 710.2769,
+      "confirmats": 467,
+      "ingressos": 134
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
-      "vacunats": 66732,
-      "pauta_completa": 16711,
-      "ia14": 1954.2879,
-      "taxa_confirmats": 693.1615,
-      "confirmats": 454,
-      "ingressos": 123
+      "vacunats": 50163,
+      "pauta_completa": 16730,
+      "ia14": 1969.6117,
+      "taxa_confirmats": 704.1932,
+      "confirmats": 463,
+      "ingressos": 133
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
-      "vacunats": 72055,
-      "pauta_completa": 21710,
-      "ia14": 1879.4753,
-      "taxa_confirmats": 688.5811,
-      "confirmats": 451,
-      "ingressos": 114
+      "vacunats": 50488,
+      "pauta_completa": 21741,
+      "ia14": 1890.523,
+      "taxa_confirmats": 698.1094,
+      "confirmats": 459,
+      "ingressos": 124
     },
     {
       "data": "2021-01-30T00:00:00.000Z",
-      "vacunats": 75708,
-      "pauta_completa": 25108,
-      "ia14": 1816.8771,
-      "taxa_confirmats": 693.1615,
-      "confirmats": 454,
-      "ingressos": 113
+      "vacunats": 50746,
+      "pauta_completa": 25169,
+      "ia14": 1828.1646,
+      "taxa_confirmats": 702.6722,
+      "confirmats": 462,
+      "ingressos": 122
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
-      "vacunats": 77852,
-      "pauta_completa": 27070,
-      "ia14": 1778.7074,
-      "taxa_confirmats": 674.84,
-      "confirmats": 442,
-      "ingressos": 101
+      "vacunats": 50928,
+      "pauta_completa": 27131,
+      "ia14": 1793.1831,
+      "taxa_confirmats": 687.4629,
+      "confirmats": 452,
+      "ingressos": 111
+    },
+    {
+      "data": "2021-02-01T00:00:00.000Z",
+      "vacunats": 51203,
+      "pauta_completa": 29824,
+      "ia14": 1666.9455,
+      "taxa_confirmats": 600.7695,
+      "confirmats": 395,
+      "ingressos": 99
+    },
+    {
+      "data": "2021-02-02T00:00:00.000Z",
+      "vacunats": 51398,
+      "pauta_completa": 32509,
+      "ia14": 1384.0514,
+      "taxa_confirmats": 562.7462,
+      "confirmats": 370,
+      "ingressos": 91
+    },
+    {
+      "data": "2021-02-03T00:00:00.000Z",
+      "vacunats": 51560,
+      "pauta_completa": 35136,
+      "ia14": 1245.6463,
+      "taxa_confirmats": 535.3693,
+      "confirmats": 352,
+      "ingressos": 82
     }
   ],
   "no": [
@@ -1383,44 +1410,44 @@
       "data": "2020-09-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 194.8091,
-      "taxa_confirmats": 95.6683,
-      "confirmats": 7301,
-      "ingressos": 453
+      "ia14": 194.8155,
+      "taxa_confirmats": 95.6846,
+      "confirmats": 7302,
+      "ingressos": 454
     },
     {
       "data": "2020-09-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 192.5815,
-      "taxa_confirmats": 92.4842,
-      "confirmats": 7058,
+      "ia14": 192.5879,
+      "taxa_confirmats": 92.5003,
+      "confirmats": 7059,
       "ingressos": 457
     },
     {
       "data": "2020-09-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 191.9656,
-      "taxa_confirmats": 91.9076,
-      "confirmats": 7014,
+      "ia14": 191.972,
+      "taxa_confirmats": 91.9238,
+      "confirmats": 7015,
       "ingressos": 425
     },
     {
       "data": "2020-09-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 191.4939,
-      "taxa_confirmats": 92.3924,
-      "confirmats": 7051,
+      "ia14": 191.5002,
+      "taxa_confirmats": 92.4086,
+      "confirmats": 7052,
       "ingressos": 439
     },
     {
       "data": "2020-09-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 191.2843,
-      "taxa_confirmats": 92.1173,
+      "ia14": 191.2775,
+      "taxa_confirmats": 92.1203,
       "confirmats": 7030,
       "ingressos": 446
     },
@@ -1428,8 +1455,8 @@
       "data": "2020-09-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 190.3015,
-      "taxa_confirmats": 90.5449,
+      "ia14": 190.2947,
+      "taxa_confirmats": 90.5478,
       "confirmats": 6910,
       "ingressos": 455
     },
@@ -1437,53 +1464,53 @@
       "data": "2020-09-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 187.8381,
-      "taxa_confirmats": 90.3352,
-      "confirmats": 6894,
+      "ia14": 187.8312,
+      "taxa_confirmats": 90.3251,
+      "confirmats": 6893,
       "ingressos": 459
     },
     {
       "data": "2020-09-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 185.9249,
-      "taxa_confirmats": 90.2566,
-      "confirmats": 6888,
-      "ingressos": 469
+      "ia14": 185.9311,
+      "taxa_confirmats": 90.2465,
+      "confirmats": 6887,
+      "ingressos": 468
     },
     {
       "data": "2020-09-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 183.0422,
-      "taxa_confirmats": 90.558,
-      "confirmats": 6911,
+      "ia14": 183.0482,
+      "taxa_confirmats": 90.5478,
+      "confirmats": 6910,
       "ingressos": 472
     },
     {
       "data": "2020-09-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 183.278,
-      "taxa_confirmats": 91.3704,
-      "confirmats": 6973,
+      "ia14": 183.2841,
+      "taxa_confirmats": 91.3603,
+      "confirmats": 6972,
       "ingressos": 497
     },
     {
       "data": "2020-09-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 173.6863,
-      "taxa_confirmats": 81.2938,
-      "confirmats": 6204,
+      "ia14": 173.6921,
+      "taxa_confirmats": 81.2834,
+      "confirmats": 6203,
       "ingressos": 483
     },
     {
       "data": "2020-09-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 174.1842,
-      "taxa_confirmats": 82.0669,
+      "ia14": 174.19,
+      "taxa_confirmats": 82.0696,
       "confirmats": 6263,
       "ingressos": 477
     },
@@ -1491,8 +1518,8 @@
       "data": "2020-09-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 173.1753,
-      "taxa_confirmats": 82.6304,
+      "ia14": 173.181,
+      "taxa_confirmats": 82.6331,
       "confirmats": 6306,
       "ingressos": 479
     },
@@ -1500,8 +1527,8 @@
       "data": "2020-09-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 173.8042,
-      "taxa_confirmats": 83.469,
+      "ia14": 173.7969,
+      "taxa_confirmats": 83.4717,
       "confirmats": 6370,
       "ingressos": 476
     },
@@ -1509,8 +1536,8 @@
       "data": "2020-09-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 176.9622,
-      "taxa_confirmats": 86.7055,
+      "ia14": 176.9549,
+      "taxa_confirmats": 86.7084,
       "confirmats": 6617,
       "ingressos": 485
     },
@@ -1518,8 +1545,8 @@
       "data": "2020-09-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 179.727,
-      "taxa_confirmats": 89.169,
+      "ia14": 179.7198,
+      "taxa_confirmats": 89.1719,
       "confirmats": 6805,
       "ingressos": 494
     },
@@ -1527,71 +1554,71 @@
       "data": "2020-09-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 180.736,
-      "taxa_confirmats": 89.3655,
-      "confirmats": 6820,
+      "ia14": 180.7157,
+      "taxa_confirmats": 89.3554,
+      "confirmats": 6819,
       "ingressos": 497
     },
     {
       "data": "2020-09-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 180.9063,
-      "taxa_confirmats": 99.6125,
-      "confirmats": 7602,
+      "ia14": 180.8861,
+      "taxa_confirmats": 99.6026,
+      "confirmats": 7601,
       "ingressos": 530
     },
     {
       "data": "2020-09-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 180.6443,
-      "taxa_confirmats": 98.5773,
-      "confirmats": 7523,
+      "ia14": 180.6371,
+      "taxa_confirmats": 98.5674,
+      "confirmats": 7522,
       "ingressos": 529
     },
     {
       "data": "2020-09-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 182.0332,
-      "taxa_confirmats": 99.4028,
-      "confirmats": 7586,
+      "ia14": 182.0261,
+      "taxa_confirmats": 99.393,
+      "confirmats": 7585,
       "ingressos": 531
     },
     {
       "data": "2020-09-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 184.6146,
-      "taxa_confirmats": 101.1456,
-      "confirmats": 7719,
+      "ia14": 184.6076,
+      "taxa_confirmats": 101.1358,
+      "confirmats": 7718,
       "ingressos": 522
     },
     {
       "data": "2020-09-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 185.558,
-      "taxa_confirmats": 98.8525,
-      "confirmats": 7544,
+      "ia14": 185.5511,
+      "taxa_confirmats": 98.8426,
+      "confirmats": 7543,
       "ingressos": 509
     },
     {
       "data": "2020-09-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 186.9994,
-      "taxa_confirmats": 97.8304,
-      "confirmats": 7466,
+      "ia14": 186.9925,
+      "taxa_confirmats": 97.8205,
+      "confirmats": 7465,
       "ingressos": 507
     },
     {
       "data": "2020-09-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 182.0987,
-      "taxa_confirmats": 92.7331,
+      "ia14": 182.0916,
+      "taxa_confirmats": 92.7362,
       "confirmats": 7077,
       "ingressos": 494
     },
@@ -1599,8 +1626,8 @@
       "data": "2020-09-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 191.0615,
-      "taxa_confirmats": 91.449,
+      "ia14": 191.0547,
+      "taxa_confirmats": 91.452,
       "confirmats": 6979,
       "ingressos": 486
     },
@@ -1608,8 +1635,8 @@
       "data": "2020-09-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 190.5243,
-      "taxa_confirmats": 91.9469,
+      "ia14": 190.5174,
+      "taxa_confirmats": 91.95,
       "confirmats": 7017,
       "ingressos": 498
     },
@@ -1617,8 +1644,8 @@
       "data": "2020-09-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 190.485,
-      "taxa_confirmats": 91.0821,
+      "ia14": 190.4781,
+      "taxa_confirmats": 91.0851,
       "confirmats": 6951,
       "ingressos": 489
     },
@@ -1626,8 +1653,8 @@
       "data": "2020-09-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 192.8436,
-      "taxa_confirmats": 91.698,
+      "ia14": 192.8368,
+      "taxa_confirmats": 91.701,
       "confirmats": 6998,
       "ingressos": 505
     },
@@ -1635,8 +1662,8 @@
       "data": "2020-09-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 192.9091,
-      "taxa_confirmats": 94.0566,
+      "ia14": 192.9024,
+      "taxa_confirmats": 94.0597,
       "confirmats": 7178,
       "ingressos": 521
     },
@@ -1644,8 +1671,8 @@
       "data": "2020-09-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 193.5512,
-      "taxa_confirmats": 95.7207,
+      "ia14": 193.5444,
+      "taxa_confirmats": 95.7239,
       "confirmats": 7305,
       "ingressos": 548
     },
@@ -1653,8 +1680,8 @@
       "data": "2020-10-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 196.8532,
-      "taxa_confirmats": 104.12,
+      "ia14": 196.8597,
+      "taxa_confirmats": 104.1235,
       "confirmats": 7946,
       "ingressos": 581
     },
@@ -1662,8 +1689,8 @@
       "data": "2020-10-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 201.5836,
-      "taxa_confirmats": 110.1345,
+      "ia14": 201.5902,
+      "taxa_confirmats": 110.1382,
       "confirmats": 8405,
       "ingressos": 609
     },
@@ -1671,8 +1698,8 @@
       "data": "2020-10-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 203.6408,
-      "taxa_confirmats": 111.6938,
+      "ia14": 203.6475,
+      "taxa_confirmats": 111.6975,
       "confirmats": 8524,
       "ingressos": 612
     },
@@ -1680,35 +1707,35 @@
       "data": "2020-10-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 204.925,
-      "taxa_confirmats": 113.8428,
-      "confirmats": 8688,
+      "ia14": 204.9448,
+      "taxa_confirmats": 113.8597,
+      "confirmats": 8689,
       "ingressos": 627
     },
     {
       "data": "2020-10-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 212.8264,
-      "taxa_confirmats": 121.1283,
-      "confirmats": 9244,
+      "ia14": 212.8465,
+      "taxa_confirmats": 121.1454,
+      "confirmats": 9245,
       "ingressos": 631
     },
     {
       "data": "2020-10-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 223.1781,
-      "taxa_confirmats": 129.1214,
-      "confirmats": 9854,
+      "ia14": 223.1986,
+      "taxa_confirmats": 129.1388,
+      "confirmats": 9855,
       "ingressos": 653
     },
     {
       "data": "2020-10-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 234.6436,
-      "taxa_confirmats": 138.9228,
+      "ia14": 234.6514,
+      "taxa_confirmats": 138.9274,
       "confirmats": 10602,
       "ingressos": 666
     },
@@ -1716,152 +1743,152 @@
       "data": "2020-10-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 254.2464,
-      "taxa_confirmats": 150.1263,
-      "confirmats": 11457,
+      "ia14": 254.281,
+      "taxa_confirmats": 150.1575,
+      "confirmats": 11459,
       "ingressos": 692
     },
     {
       "data": "2020-10-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 275.2905,
-      "taxa_confirmats": 165.156,
-      "confirmats": 12604,
+      "ia14": 275.3258,
+      "taxa_confirmats": 165.1876,
+      "confirmats": 12606,
       "ingressos": 718
     },
     {
       "data": "2020-10-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 283.4933,
-      "taxa_confirmats": 171.7994,
-      "confirmats": 13111,
+      "ia14": 283.5289,
+      "taxa_confirmats": 171.8313,
+      "confirmats": 13113,
       "ingressos": 746
     },
     {
       "data": "2020-10-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 292.4692,
-      "taxa_confirmats": 178.6263,
-      "confirmats": 13632,
+      "ia14": 292.505,
+      "taxa_confirmats": 178.6453,
+      "confirmats": 13633,
       "ingressos": 781
     },
     {
       "data": "2020-10-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 289.6912,
-      "taxa_confirmats": 168.5629,
-      "confirmats": 12864,
+      "ia14": 289.727,
+      "taxa_confirmats": 168.5815,
+      "confirmats": 12865,
       "ingressos": 793
     },
     {
       "data": "2020-10-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 319.1216,
-      "taxa_confirmats": 190.0001,
-      "confirmats": 14500,
+      "ia14": 319.1584,
+      "taxa_confirmats": 190.0195,
+      "confirmats": 14501,
       "ingressos": 869
     },
     {
       "data": "2020-10-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 348.7879,
-      "taxa_confirmats": 209.865,
-      "confirmats": 16016,
+      "ia14": 348.8256,
+      "taxa_confirmats": 209.8981,
+      "confirmats": 16018,
       "ingressos": 936
     },
     {
       "data": "2020-10-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 375.021,
-      "taxa_confirmats": 224.8946,
-      "confirmats": 17163,
+      "ia14": 375.0465,
+      "taxa_confirmats": 224.889,
+      "confirmats": 17162,
       "ingressos": 1003
     },
     {
       "data": "2020-10-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 405.2769,
-      "taxa_confirmats": 240.1209,
-      "confirmats": 18325,
+      "ia14": 405.3034,
+      "taxa_confirmats": 240.1157,
+      "confirmats": 18324,
       "ingressos": 1063
     },
     {
       "data": "2020-10-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 420.3983,
-      "taxa_confirmats": 248.5988,
-      "confirmats": 18972,
+      "ia14": 420.4252,
+      "taxa_confirmats": 248.5939,
+      "confirmats": 18971,
       "ingressos": 1126
     },
     {
       "data": "2020-10-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 434.039,
-      "taxa_confirmats": 255.4126,
-      "confirmats": 19492,
+      "ia14": 434.0533,
+      "taxa_confirmats": 255.4079,
+      "confirmats": 19491,
       "ingressos": 1174
     },
     {
       "data": "2020-10-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 477.2411,
-      "taxa_confirmats": 308.6782,
-      "confirmats": 23557,
+      "ia14": 477.2568,
+      "taxa_confirmats": 308.6753,
+      "confirmats": 23556,
       "ingressos": 1315
     },
     {
       "data": "2020-10-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 522.0418,
-      "taxa_confirmats": 332.0416,
-      "confirmats": 25340,
-      "ingressos": 1348
+      "ia14": 522.0459,
+      "taxa_confirmats": 332.0264,
+      "confirmats": 25338,
+      "ingressos": 1349
     },
     {
       "data": "2020-10-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 567.6025,
-      "taxa_confirmats": 357.7375,
-      "confirmats": 27301,
-      "ingressos": 1435
+      "ia14": 567.6213,
+      "taxa_confirmats": 357.7231,
+      "confirmats": 27299,
+      "ingressos": 1436
     },
     {
       "data": "2020-10-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 608.1577,
-      "taxa_confirmats": 383.2631,
-      "confirmats": 29249,
-      "ingressos": 1494
+      "ia14": 608.1516,
+      "taxa_confirmats": 383.2626,
+      "confirmats": 29248,
+      "ingressos": 1495
     },
     {
       "data": "2020-10-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 642.2005,
-      "taxa_confirmats": 402.0796,
-      "confirmats": 30685,
+      "ia14": 642.1824,
+      "taxa_confirmats": 402.0667,
+      "confirmats": 30683,
       "ingressos": 1559
     },
     {
       "data": "2020-10-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 658.0295,
-      "taxa_confirmats": 409.4307,
+      "ia14": 658.0381,
+      "taxa_confirmats": 409.4442,
       "confirmats": 31246,
       "ingressos": 1621
     },
@@ -1869,125 +1896,125 @@
       "data": "2020-10-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 668.5647,
-      "taxa_confirmats": 413.1521,
+      "ia14": 668.5737,
+      "taxa_confirmats": 413.1657,
       "confirmats": 31530,
-      "ingressos": 1674
+      "ingressos": 1673
     },
     {
       "data": "2020-10-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 732.2868,
-      "taxa_confirmats": 423.6086,
+      "ia14": 732.2979,
+      "taxa_confirmats": 423.6226,
       "confirmats": 32328,
-      "ingressos": 1721
+      "ingressos": 1720
     },
     {
       "data": "2020-10-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 756.9868,
-      "taxa_confirmats": 424.9452,
-      "confirmats": 32430,
-      "ingressos": 1842
+      "ia14": 757.0118,
+      "taxa_confirmats": 424.9854,
+      "confirmats": 32432,
+      "ingressos": 1839
     },
     {
       "data": "2020-10-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 776.4586,
-      "taxa_confirmats": 418.721,
-      "confirmats": 31955,
-      "ingressos": 1878
+      "ia14": 776.4973,
+      "taxa_confirmats": 418.7742,
+      "confirmats": 31958,
+      "ingressos": 1875
     },
     {
       "data": "2020-10-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 787.9634,
-      "taxa_confirmats": 404.7003,
-      "confirmats": 30885,
-      "ingressos": 1944
+      "ia14": 788.0157,
+      "taxa_confirmats": 404.753,
+      "confirmats": 30888,
+      "ingressos": 1941
     },
     {
       "data": "2020-10-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 797.4372,
-      "taxa_confirmats": 395.3576,
-      "confirmats": 30172,
-      "ingressos": 1980
+      "ia14": 797.4898,
+      "taxa_confirmats": 395.423,
+      "confirmats": 30176,
+      "ingressos": 1978
     },
     {
       "data": "2020-10-31T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 802.731,
-      "taxa_confirmats": 393.3003,
-      "confirmats": 30015,
-      "ingressos": 1985
+      "ia14": 802.7706,
+      "taxa_confirmats": 393.3264,
+      "confirmats": 30016,
+      "ingressos": 1982
     },
     {
       "data": "2020-11-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 801.4207,
-      "taxa_confirmats": 388.2686,
-      "confirmats": 29631,
-      "ingressos": 1972
+      "ia14": 801.4602,
+      "taxa_confirmats": 388.2945,
+      "confirmats": 29632,
+      "ingressos": 1970
     },
     {
       "data": "2020-11-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 804.4476,
-      "taxa_confirmats": 380.8389,
+      "ia14": 804.4741,
+      "taxa_confirmats": 380.8515,
       "confirmats": 29064,
-      "ingressos": 1998
+      "ingressos": 1996
     },
     {
       "data": "2020-11-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 795.8779,
-      "taxa_confirmats": 370.9327,
-      "confirmats": 28308,
-      "ingressos": 1970
+      "ia14": 795.9173,
+      "taxa_confirmats": 370.9318,
+      "confirmats": 28307,
+      "ingressos": 1969
     },
     {
       "data": "2020-11-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 774.6503,
-      "taxa_confirmats": 355.9292,
-      "confirmats": 27163,
-      "ingressos": 1972
+      "ia14": 774.7021,
+      "taxa_confirmats": 355.9279,
+      "confirmats": 27162,
+      "ingressos": 1971
     },
     {
       "data": "2020-11-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 751.2475,
-      "taxa_confirmats": 346.5472,
-      "confirmats": 26447,
-      "ingressos": 1911
+      "ia14": 751.2985,
+      "taxa_confirmats": 346.5455,
+      "confirmats": 26446,
+      "ingressos": 1910
     },
     {
       "data": "2020-11-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 726.4034,
-      "taxa_confirmats": 331.0458,
-      "confirmats": 25264,
-      "ingressos": 1894
+      "ia14": 726.4667,
+      "taxa_confirmats": 331.0436,
+      "confirmats": 25263,
+      "ingressos": 1893
     },
     {
       "data": "2020-11-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 714.3744,
-      "taxa_confirmats": 321.074,
+      "ia14": 714.4111,
+      "taxa_confirmats": 321.0846,
       "confirmats": 24503,
       "ingressos": 1874
     },
@@ -1995,17 +2022,17 @@
       "data": "2020-11-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 701.1137,
-      "taxa_confirmats": 312.8451,
-      "confirmats": 23875,
+      "ia14": 701.1368,
+      "taxa_confirmats": 312.8423,
+      "confirmats": 23874,
       "ingressos": 1857
     },
     {
       "data": "2020-11-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 669.495,
-      "taxa_confirmats": 288.6561,
+      "ia14": 669.5172,
+      "taxa_confirmats": 288.6656,
       "confirmats": 22029,
       "ingressos": 1777
     },
@@ -2013,8 +2040,8 @@
       "data": "2020-11-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 637.4702,
-      "taxa_confirmats": 266.5374,
+      "ia14": 637.4781,
+      "taxa_confirmats": 266.5462,
       "confirmats": 20341,
       "ingressos": 1743
     },
@@ -2022,739 +2049,766 @@
       "data": "2020-11-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 604.7246,
-      "taxa_confirmats": 248.7953,
-      "confirmats": 18987,
+      "ia14": 604.7053,
+      "taxa_confirmats": 248.7774,
+      "confirmats": 18985,
       "ingressos": 1701
     },
     {
       "data": "2020-11-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 577.7708,
-      "taxa_confirmats": 231.2236,
-      "confirmats": 17646,
+      "ia14": 577.7113,
+      "taxa_confirmats": 231.1657,
+      "confirmats": 17641,
       "ingressos": 1671
     },
     {
       "data": "2020-11-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 545.1039,
-      "taxa_confirmats": 214.0581,
-      "confirmats": 16336,
+      "ia14": 545.0433,
+      "taxa_confirmats": 213.9996,
+      "confirmats": 16331,
       "ingressos": 1633
     },
     {
       "data": "2020-11-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 528.1349,
-      "taxa_confirmats": 207.0608,
-      "confirmats": 15802,
+      "ia14": 528.0868,
+      "taxa_confirmats": 207.0021,
+      "confirmats": 15797,
       "ingressos": 1591
     },
     {
       "data": "2020-11-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 515.9225,
-      "taxa_confirmats": 203.0774,
-      "confirmats": 15498,
+      "ia14": 515.874,
+      "taxa_confirmats": 203.0317,
+      "confirmats": 15494,
       "ingressos": 1543
     },
     {
       "data": "2020-11-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 476.3369,
-      "taxa_confirmats": 187.6808,
-      "confirmats": 14323,
+      "ia14": 476.3002,
+      "taxa_confirmats": 187.6346,
+      "confirmats": 14319,
       "ingressos": 1508
     },
     {
       "data": "2020-11-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 442.6217,
-      "taxa_confirmats": 176.0842,
-      "confirmats": 13438,
+      "ia14": 442.5839,
+      "taxa_confirmats": 176.0376,
+      "confirmats": 13434,
       "ingressos": 1419
     },
     {
       "data": "2020-11-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 414.03,
-      "taxa_confirmats": 165.2346,
-      "confirmats": 12610,
-      "ingressos": 1322
+      "ia14": 413.965,
+      "taxa_confirmats": 165.1876,
+      "confirmats": 12606,
+      "ingressos": 1323
     },
     {
       "data": "2020-11-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 384.8486,
-      "taxa_confirmats": 153.6249,
+      "ia14": 384.7958,
+      "taxa_confirmats": 153.63,
       "confirmats": 11724,
-      "ingressos": 1260
+      "ingressos": 1261
     },
     {
       "data": "2020-11-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 357.1479,
-      "taxa_confirmats": 143.0897,
+      "ia14": 357.0941,
+      "taxa_confirmats": 143.0945,
       "confirmats": 10920,
-      "ingressos": 1186
+      "ingressos": 1188
     },
     {
       "data": "2020-11-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 345.7216,
-      "taxa_confirmats": 138.6608,
+      "ia14": 345.6675,
+      "taxa_confirmats": 138.6653,
       "confirmats": 10582,
-      "ingressos": 1141
+      "ingressos": 1143
     },
     {
       "data": "2020-11-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 339.6416,
-      "taxa_confirmats": 136.5642,
+      "ia14": 339.6004,
+      "taxa_confirmats": 136.5687,
       "confirmats": 10422,
-      "ingressos": 1125
+      "ingressos": 1127
     },
     {
       "data": "2020-11-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 312.3995,
-      "taxa_confirmats": 124.7187,
+      "ia14": 312.3574,
+      "taxa_confirmats": 124.7228,
       "confirmats": 9518,
-      "ingressos": 1088
+      "ingressos": 1090
     },
     {
       "data": "2020-11-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 291.2768,
-      "taxa_confirmats": 115.1925,
+      "ia14": 291.234,
+      "taxa_confirmats": 115.1963,
       "confirmats": 8791,
-      "ingressos": 1060
+      "ingressos": 1063
     },
     {
       "data": "2020-11-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 274.3209,
-      "taxa_confirmats": 109.0863,
+      "ia14": 274.2775,
+      "taxa_confirmats": 109.0899,
       "confirmats": 8325,
-      "ingressos": 1038
+      "ingressos": 1040
     },
     {
       "data": "2020-11-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 260.1429,
-      "taxa_confirmats": 106.518,
-      "confirmats": 8129,
-      "ingressos": 1013
+      "ia14": 260.1253,
+      "taxa_confirmats": 106.4953,
+      "confirmats": 8127,
+      "ingressos": 1015
     },
     {
       "data": "2020-11-27T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 248.874,
-      "taxa_confirmats": 105.7842,
-      "confirmats": 8073,
+      "ia14": 248.856,
+      "taxa_confirmats": 105.7615,
+      "confirmats": 8071,
       "ingressos": 963
     },
     {
       "data": "2020-11-28T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 244.3664,
-      "taxa_confirmats": 105.7056,
-      "confirmats": 8067,
+      "ia14": 244.3482,
+      "taxa_confirmats": 105.6828,
+      "confirmats": 8065,
       "ingressos": 941
     },
     {
       "data": "2020-11-29T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 242.0602,
-      "taxa_confirmats": 105.4959,
-      "confirmats": 8051,
+      "ia14": 242.042,
+      "taxa_confirmats": 105.4732,
+      "confirmats": 8049,
       "ingressos": 918
     },
     {
       "data": "2020-11-30T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 228.9174,
-      "taxa_confirmats": 104.1987,
-      "confirmats": 7952,
-      "ingressos": 888
+      "ia14": 228.8856,
+      "taxa_confirmats": 104.1628,
+      "confirmats": 7949,
+      "ingressos": 887
     },
     {
       "data": "2020-12-01T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 218.6705,
-      "taxa_confirmats": 103.478,
-      "confirmats": 7897,
-      "ingressos": 851
+      "ia14": 218.6384,
+      "taxa_confirmats": 103.4421,
+      "confirmats": 7894,
+      "ingressos": 849
     },
     {
       "data": "2020-12-02T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 211.8829,
-      "taxa_confirmats": 102.7966,
-      "confirmats": 7845,
-      "ingressos": 832
+      "ia14": 211.8506,
+      "taxa_confirmats": 102.7607,
+      "confirmats": 7842,
+      "ingressos": 830
     },
     {
       "data": "2020-12-03T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 208.4105,
-      "taxa_confirmats": 101.8925,
-      "confirmats": 7776,
-      "ingressos": 841
+      "ia14": 208.365,
+      "taxa_confirmats": 101.8696,
+      "confirmats": 7774,
+      "ingressos": 839
     },
     {
       "data": "2020-12-04T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 204.7808,
-      "taxa_confirmats": 98.9966,
-      "confirmats": 7555,
-      "ingressos": 862
+      "ia14": 204.7352,
+      "taxa_confirmats": 98.9737,
+      "confirmats": 7553,
+      "ingressos": 861
     },
     {
       "data": "2020-12-05T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 203.1822,
-      "taxa_confirmats": 97.4766,
-      "confirmats": 7439,
-      "ingressos": 891
+      "ia14": 203.1365,
+      "taxa_confirmats": 97.4536,
+      "confirmats": 7437,
+      "ingressos": 890
     },
     {
       "data": "2020-12-06T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 202.2519,
-      "taxa_confirmats": 96.7559,
-      "confirmats": 7384,
-      "ingressos": 887
+      "ia14": 202.193,
+      "taxa_confirmats": 96.7198,
+      "confirmats": 7381,
+      "ingressos": 886
     },
     {
       "data": "2020-12-07T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 199.0022,
-      "taxa_confirmats": 94.8035,
-      "confirmats": 7235,
+      "ia14": 198.9433,
+      "taxa_confirmats": 94.7804,
+      "confirmats": 7233,
       "ingressos": 869
     },
     {
       "data": "2020-12-08T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 186.0822,
-      "taxa_confirmats": 82.6042,
-      "confirmats": 6304,
+      "ia14": 186.0228,
+      "taxa_confirmats": 82.5807,
+      "confirmats": 6302,
       "ingressos": 837
     },
     {
       "data": "2020-12-09T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 193.787,
-      "taxa_confirmats": 90.9904,
-      "confirmats": 6944,
-      "ingressos": 847
+      "ia14": 193.741,
+      "taxa_confirmats": 90.9803,
+      "confirmats": 6943,
+      "ingressos": 846
     },
     {
       "data": "2020-12-10T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 199.2905,
-      "taxa_confirmats": 97.398,
-      "confirmats": 7433,
-      "ingressos": 829
+      "ia14": 199.2446,
+      "taxa_confirmats": 97.375,
+      "confirmats": 7431,
+      "ingressos": 827
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 204.807,
-      "taxa_confirmats": 105.8104,
-      "confirmats": 8075,
-      "ingressos": 838
+      "ia14": 204.7614,
+      "taxa_confirmats": 105.7877,
+      "confirmats": 8073,
+      "ingressos": 836
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 207.4801,
-      "taxa_confirmats": 110.0035,
-      "confirmats": 8395,
-      "ingressos": 816
+      "ia14": 207.4215,
+      "taxa_confirmats": 109.9678,
+      "confirmats": 8392,
+      "ingressos": 814
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 210.625,
-      "taxa_confirmats": 113.869,
-      "confirmats": 8690,
-      "ingressos": 821
+      "ia14": 210.5664,
+      "taxa_confirmats": 113.8466,
+      "confirmats": 8688,
+      "ingressos": 819
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 221.8415,
-      "taxa_confirmats": 127.038,
-      "confirmats": 9695,
+      "ia14": 221.7702,
+      "taxa_confirmats": 126.9898,
+      "confirmats": 9691,
       "ingressos": 865
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 231.276,
-      "taxa_confirmats": 148.6718,
-      "confirmats": 11346,
+      "ia14": 231.2181,
+      "taxa_confirmats": 148.6374,
+      "confirmats": 11343,
       "ingressos": 924
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 240.8415,
-      "taxa_confirmats": 149.8511,
-      "confirmats": 11436,
+      "ia14": 240.7971,
+      "taxa_confirmats": 149.8168,
+      "confirmats": 11433,
       "ingressos": 937
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 250.8264,
-      "taxa_confirmats": 153.4284,
-      "confirmats": 11709,
-      "ingressos": 973
+      "ia14": 250.7691,
+      "taxa_confirmats": 153.3941,
+      "confirmats": 11706,
+      "ingressos": 974
     },
     {
       "data": "2020-12-18T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 264.4933,
-      "taxa_confirmats": 158.6829,
-      "confirmats": 12110,
-      "ingressos": 984
+      "ia14": 264.3841,
+      "taxa_confirmats": 158.5964,
+      "confirmats": 12103,
+      "ingressos": 985
     },
     {
       "data": "2020-12-19T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 272.1588,
-      "taxa_confirmats": 162.1553,
-      "confirmats": 12375,
-      "ingressos": 1008
+      "ia14": 272.0499,
+      "taxa_confirmats": 162.082,
+      "confirmats": 12369,
+      "ingressos": 1011
     },
     {
       "data": "2020-12-20T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 277.6754,
-      "taxa_confirmats": 163.8063,
-      "confirmats": 12501,
-      "ingressos": 1055
+      "ia14": 277.5666,
+      "taxa_confirmats": 163.72,
+      "confirmats": 12494,
+      "ingressos": 1058
     },
     {
       "data": "2020-12-21T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 296.2299,
-      "taxa_confirmats": 169.1918,
-      "confirmats": 12912,
-      "ingressos": 1046
+      "ia14": 296.1217,
+      "taxa_confirmats": 169.1319,
+      "confirmats": 12907,
+      "ingressos": 1047
     },
     {
       "data": "2020-12-22T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 324.4023,
-      "taxa_confirmats": 175.7305,
-      "confirmats": 13411,
+      "ia14": 324.282,
+      "taxa_confirmats": 175.6445,
+      "confirmats": 13404,
       "ingressos": 1069
     },
     {
       "data": "2020-12-23T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 332.723,
-      "taxa_confirmats": 182.8718,
-      "confirmats": 13956,
-      "ingressos": 1095
+      "ia14": 332.6161,
+      "taxa_confirmats": 182.7993,
+      "confirmats": 13950,
+      "ingressos": 1097
     },
     {
       "data": "2020-12-24T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 339.7989,
-      "taxa_confirmats": 186.3705,
-      "confirmats": 14223,
-      "ingressos": 1103
+      "ia14": 339.7184,
+      "taxa_confirmats": 186.3242,
+      "confirmats": 14219,
+      "ingressos": 1107
     },
     {
       "data": "2020-12-25T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 327.8485,
-      "taxa_confirmats": 169.1656,
+      "ia14": 327.7676,
+      "taxa_confirmats": 169.1712,
       "confirmats": 12910,
-      "ingressos": 1073
+      "ingressos": 1078
     },
     {
       "data": "2020-12-26T00:00:00.000Z",
       "vacunats": 0,
       "pauta_completa": 0,
-      "ia14": 331.1113,
-      "taxa_confirmats": 168.956,
+      "ia14": 331.0436,
+      "taxa_confirmats": 168.9615,
       "confirmats": 12894,
-      "ingressos": 1079
+      "ingressos": 1083
     },
     {
       "data": "2020-12-27T00:00:00.000Z",
       "vacunats": 245,
       "pauta_completa": 0,
-      "ia14": 336.9816,
-      "taxa_confirmats": 173.1753,
-      "confirmats": 13216,
-      "ingressos": 1101
+      "ia14": 336.9141,
+      "taxa_confirmats": 173.1941,
+      "confirmats": 13217,
+      "ingressos": 1106
     },
     {
       "data": "2020-12-28T00:00:00.000Z",
       "vacunats": 246,
       "pauta_completa": 0,
-      "ia14": 355.2479,
-      "taxa_confirmats": 186.056,
+      "ia14": 355.1941,
+      "taxa_confirmats": 186.0621,
       "confirmats": 14199,
-      "ingressos": 1181
+      "ingressos": 1186
     },
     {
       "data": "2020-12-29T00:00:00.000Z",
-      "vacunats": 357,
+      "vacunats": 355,
       "pauta_completa": 0,
-      "ia14": 377.4844,
-      "taxa_confirmats": 201.7539,
+      "ia14": 377.4052,
+      "taxa_confirmats": 201.7606,
       "confirmats": 15397,
-      "ingressos": 1219
+      "ingressos": 1225
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
-      "vacunats": 1320,
+      "vacunats": 1318,
       "pauta_completa": 0,
-      "ia14": 398.3189,
-      "taxa_confirmats": 215.447,
-      "confirmats": 16442,
-      "ingressos": 1248
+      "ia14": 398.2142,
+      "taxa_confirmats": 215.4148,
+      "confirmats": 16439,
+      "ingressos": 1255
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
-      "vacunats": 2207,
+      "vacunats": 2205,
       "pauta_completa": 0,
-      "ia14": 415.0783,
-      "taxa_confirmats": 228.7077,
-      "confirmats": 17454,
-      "ingressos": 1272
+      "ia14": 414.9871,
+      "taxa_confirmats": 228.6629,
+      "confirmats": 17450,
+      "ingressos": 1278
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
-      "vacunats": 2208,
+      "vacunats": 2206,
       "pauta_completa": 0,
-      "ia14": 400.9134,
-      "taxa_confirmats": 231.7477,
-      "confirmats": 17686,
-      "ingressos": 1306
+      "ia14": 400.8742,
+      "taxa_confirmats": 231.703,
+      "confirmats": 17682,
+      "ingressos": 1311
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
-      "vacunats": 2921,
+      "vacunats": 2917,
       "pauta_completa": 0,
-      "ia14": 408.0286,
-      "taxa_confirmats": 239.0726,
-      "confirmats": 18245,
-      "ingressos": 1352
+      "ia14": 408.0028,
+      "taxa_confirmats": 239.0412,
+      "confirmats": 18242,
+      "ingressos": 1357
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
-      "vacunats": 2925,
+      "vacunats": 2921,
       "pauta_completa": 0,
-      "ia14": 416.1265,
-      "taxa_confirmats": 242.9512,
-      "confirmats": 18541,
-      "ingressos": 1373
+      "ia14": 416.1141,
+      "taxa_confirmats": 242.9199,
+      "confirmats": 18538,
+      "ingressos": 1379
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
-      "vacunats": 4650,
+      "vacunats": 4648,
       "pauta_completa": 0,
-      "ia14": 439.359,
-      "taxa_confirmats": 253.3029,
-      "confirmats": 19331,
-      "ingressos": 1376
+      "ia14": 439.3342,
+      "taxa_confirmats": 253.272,
+      "confirmats": 19328,
+      "ingressos": 1381
     },
     {
       "data": "2021-01-05T00:00:00.000Z",
-      "vacunats": 11785,
+      "vacunats": 11783,
       "pauta_completa": 0,
-      "ia14": 463.9673,
-      "taxa_confirmats": 262.2133,
+      "ia14": 463.9826,
+      "taxa_confirmats": 262.222,
       "confirmats": 20011,
-      "ingressos": 1397
+      "ingressos": 1403
     },
     {
       "data": "2021-01-06T00:00:00.000Z",
-      "vacunats": 13650,
+      "vacunats": 13643,
       "pauta_completa": 0,
-      "ia14": 449.0686,
-      "taxa_confirmats": 233.6215,
-      "confirmats": 17829,
-      "ingressos": 1370
+      "ia14": 449.0704,
+      "taxa_confirmats": 233.6555,
+      "confirmats": 17831,
+      "ingressos": 1375
     },
     {
       "data": "2021-01-07T00:00:00.000Z",
-      "vacunats": 23072,
+      "vacunats": 23060,
       "pauta_completa": 0,
-      "ia14": 479.0625,
-      "taxa_confirmats": 250.3547,
-      "confirmats": 19106,
-      "ingressos": 1415
+      "ia14": 479.0914,
+      "taxa_confirmats": 250.4284,
+      "confirmats": 19111,
+      "ingressos": 1422
     },
     {
       "data": "2021-01-08T00:00:00.000Z",
-      "vacunats": 35790,
+      "vacunats": 36275,
       "pauta_completa": 0,
-      "ia14": 526.4315,
-      "taxa_confirmats": 294.6837,
-      "confirmats": 22489,
-      "ingressos": 1511
+      "ia14": 526.4488,
+      "taxa_confirmats": 294.7458,
+      "confirmats": 22493,
+      "ingressos": 1522
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
-      "vacunats": 40584,
+      "vacunats": 41037,
       "pauta_completa": 0,
-      "ia14": 538.5391,
-      "taxa_confirmats": 299.4664,
-      "confirmats": 22854,
-      "ingressos": 1556
+      "ia14": 538.5831,
+      "taxa_confirmats": 299.5418,
+      "confirmats": 22859,
+      "ingressos": 1568
     },
     {
       "data": "2021-01-10T00:00:00.000Z",
-      "vacunats": 43024,
+      "vacunats": 43479,
       "pauta_completa": 0,
-      "ia14": 546.8598,
-      "taxa_confirmats": 303.9085,
-      "confirmats": 23193,
-      "ingressos": 1582
+      "ia14": 546.9695,
+      "taxa_confirmats": 304.0496,
+      "confirmats": 23203,
+      "ingressos": 1593
     },
     {
       "data": "2021-01-11T00:00:00.000Z",
-      "vacunats": 50300,
+      "vacunats": 50595,
       "pauta_completa": 0,
-      "ia14": 571.8481,
-      "taxa_confirmats": 318.5451,
-      "confirmats": 24310,
-      "ingressos": 1619
+      "ia14": 572.0111,
+      "taxa_confirmats": 318.739,
+      "confirmats": 24324,
+      "ingressos": 1633
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
-      "vacunats": 61786,
+      "vacunats": 61725,
       "pauta_completa": 0,
-      "ia14": 584.7419,
-      "taxa_confirmats": 322.5285,
-      "confirmats": 24614,
-      "ingressos": 1697
+      "ia14": 584.9446,
+      "taxa_confirmats": 322.7226,
+      "confirmats": 24628,
+      "ingressos": 1717
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
-      "vacunats": 74380,
+      "vacunats": 74307,
       "pauta_completa": 0,
-      "ia14": 592.2632,
-      "taxa_confirmats": 358.6417,
-      "confirmats": 27370,
-      "ingressos": 1778
+      "ia14": 592.4794,
+      "taxa_confirmats": 358.8238,
+      "confirmats": 27383,
+      "ingressos": 1801
     },
     {
       "data": "2021-01-14T00:00:00.000Z",
-      "vacunats": 87302,
+      "vacunats": 87254,
       "pauta_completa": 0,
-      "ia14": 599.6012,
-      "taxa_confirmats": 349.2465,
-      "confirmats": 26653,
-      "ingressos": 1826
+      "ia14": 599.9224,
+      "taxa_confirmats": 349.4939,
+      "confirmats": 26671,
+      "ingressos": 1848
     },
     {
       "data": "2021-01-15T00:00:00.000Z",
-      "vacunats": 100209,
+      "vacunats": 100166,
       "pauta_completa": 0,
-      "ia14": 635.1247,
-      "taxa_confirmats": 340.4409,
-      "confirmats": 25981,
-      "ingressos": 1858
+      "ia14": 635.4994,
+      "taxa_confirmats": 340.7536,
+      "confirmats": 26004,
+      "ingressos": 1881
     },
     {
       "data": "2021-01-16T00:00:00.000Z",
-      "vacunats": 103608,
+      "vacunats": 103569,
       "pauta_completa": 0,
-      "ia14": 638.6757,
-      "taxa_confirmats": 339.2092,
-      "confirmats": 25887,
-      "ingressos": 1876
+      "ia14": 639.103,
+      "taxa_confirmats": 339.5611,
+      "confirmats": 25913,
+      "ingressos": 1897
     },
     {
       "data": "2021-01-17T00:00:00.000Z",
-      "vacunats": 106042,
+      "vacunats": 105938,
       "pauta_completa": 64,
-      "ia14": 638.9378,
-      "taxa_confirmats": 335.0292,
-      "confirmats": 25568,
-      "ingressos": 1877
+      "ia14": 639.4175,
+      "taxa_confirmats": 335.3679,
+      "confirmats": 25593,
+      "ingressos": 1900
     },
     {
       "data": "2021-01-18T00:00:00.000Z",
-      "vacunats": 116134,
-      "pauta_completa": 159,
-      "ia14": 642.6198,
-      "taxa_confirmats": 324.0747,
-      "confirmats": 24732,
-      "ingressos": 1939
+      "vacunats": 115934,
+      "pauta_completa": 162,
+      "ia14": 643.2045,
+      "taxa_confirmats": 324.4654,
+      "confirmats": 24761,
+      "ingressos": 1965
     },
     {
       "data": "2021-01-19T00:00:00.000Z",
-      "vacunats": 120200,
-      "pauta_completa": 290,
-      "ia14": 639.226,
-      "taxa_confirmats": 316.6975,
-      "confirmats": 24169,
-      "ingressos": 1958
+      "vacunats": 119851,
+      "pauta_completa": 294,
+      "ia14": 639.9417,
+      "taxa_confirmats": 317.219,
+      "confirmats": 24208,
+      "ingressos": 1985
     },
     {
       "data": "2021-01-20T00:00:00.000Z",
-      "vacunats": 124074,
-      "pauta_completa": 994,
-      "ia14": 670.2812,
-      "taxa_confirmats": 311.6395,
-      "confirmats": 23783,
-      "ingressos": 2009
+      "vacunats": 123025,
+      "pauta_completa": 997,
+      "ia14": 671.0503,
+      "taxa_confirmats": 312.2264,
+      "confirmats": 23827,
+      "ingressos": 2042
     },
     {
       "data": "2021-01-21T00:00:00.000Z",
-      "vacunats": 126949,
-      "pauta_completa": 1488,
-      "ia14": 657.5054,
-      "taxa_confirmats": 308.2589,
-      "confirmats": 23525,
-      "ingressos": 2025
+      "vacunats": 125406,
+      "pauta_completa": 1489,
+      "ia14": 658.4968,
+      "taxa_confirmats": 309.0028,
+      "confirmats": 23581,
+      "ingressos": 2063
     },
     {
       "data": "2021-01-22T00:00:00.000Z",
-      "vacunats": 131959,
+      "vacunats": 129854,
       "pauta_completa": 2048,
-      "ia14": 643.7074,
-      "taxa_confirmats": 303.2664,
-      "confirmats": 23144,
-      "ingressos": 2015
+      "ia14": 645.0784,
+      "taxa_confirmats": 304.3248,
+      "confirmats": 23224,
+      "ingressos": 2057
     },
     {
       "data": "2021-01-23T00:00:00.000Z",
-      "vacunats": 134542,
+      "vacunats": 132039,
       "pauta_completa": 2446,
-      "ia14": 638.5316,
-      "taxa_confirmats": 299.3223,
-      "confirmats": 22843,
-      "ingressos": 1951
+      "ia14": 640.0334,
+      "taxa_confirmats": 300.4722,
+      "confirmats": 22930,
+      "ingressos": 1998
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
-      "vacunats": 135037,
-      "pauta_completa": 2515,
-      "ia14": 630.6564,
-      "taxa_confirmats": 295.6271,
-      "confirmats": 22561,
-      "ingressos": 1890
+      "vacunats": 132466,
+      "pauta_completa": 2514,
+      "ia14": 632.2104,
+      "taxa_confirmats": 296.8424,
+      "confirmats": 22653,
+      "ingressos": 1943
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
-      "vacunats": 138172,
-      "pauta_completa": 3537,
-      "ia14": 610.9488,
-      "taxa_confirmats": 286.874,
-      "confirmats": 21893,
-      "ingressos": 1823
+      "vacunats": 134570,
+      "pauta_completa": 3539,
+      "ia14": 613.6815,
+      "taxa_confirmats": 289.216,
+      "confirmats": 22071,
+      "ingressos": 1898
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
-      "vacunats": 144448,
-      "pauta_completa": 8720,
-      "ia14": 592.9446,
-      "taxa_confirmats": 276.2471,
-      "confirmats": 21082,
-      "ingressos": 1744
+      "vacunats": 135675,
+      "pauta_completa": 8722,
+      "ia14": 596.3319,
+      "taxa_confirmats": 279.1129,
+      "confirmats": 21300,
+      "ingressos": 1828
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
-      "vacunats": 148935,
-      "pauta_completa": 12398,
-      "ia14": 580.2474,
-      "taxa_confirmats": 268.6078,
-      "confirmats": 20499,
-      "ingressos": 1655
+      "vacunats": 136486,
+      "pauta_completa": 12399,
+      "ia14": 584.3681,
+      "taxa_confirmats": 272.1416,
+      "confirmats": 20768,
+      "ingressos": 1744
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
-      "vacunats": 158064,
-      "pauta_completa": 20521,
-      "ia14": 570.4853,
-      "taxa_confirmats": 262.2264,
-      "confirmats": 20012,
-      "ingressos": 1598
+      "vacunats": 137502,
+      "pauta_completa": 20504,
+      "ia14": 575.2215,
+      "taxa_confirmats": 266.2186,
+      "confirmats": 20316,
+      "ingressos": 1698
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
-      "vacunats": 169993,
-      "pauta_completa": 31466,
-      "ia14": 557.6177,
-      "taxa_confirmats": 254.3512,
-      "confirmats": 19411,
-      "ingressos": 1541
+      "vacunats": 138489,
+      "pauta_completa": 31548,
+      "ia14": 562.9563,
+      "taxa_confirmats": 258.6315,
+      "confirmats": 19737,
+      "ingressos": 1656
     },
     {
       "data": "2021-01-30T00:00:00.000Z",
-      "vacunats": 174619,
-      "pauta_completa": 35486,
-      "ia14": 548.7991,
-      "taxa_confirmats": 249.4767,
-      "confirmats": 19039,
-      "ingressos": 1513
+      "vacunats": 139092,
+      "pauta_completa": 35537,
+      "ia14": 554.7533,
+      "taxa_confirmats": 254.281,
+      "confirmats": 19405,
+      "ingressos": 1640
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
-      "vacunats": 176804,
-      "pauta_completa": 37387,
-      "ia14": 540.2687,
-      "taxa_confirmats": 244.6416,
-      "confirmats": 18670,
-      "ingressos": 1494
+      "vacunats": 139374,
+      "pauta_completa": 37439,
+      "ia14": 546.8385,
+      "taxa_confirmats": 249.996,
+      "confirmats": 19078,
+      "ingressos": 1630
+    },
+    {
+      "data": "2021-02-01T00:00:00.000Z",
+      "vacunats": 140499,
+      "pauta_completa": 44159,
+      "ia14": 524.0377,
+      "taxa_confirmats": 234.8217,
+      "confirmats": 17920,
+      "ingressos": 1527
+    },
+    {
+      "data": "2021-02-02T00:00:00.000Z",
+      "vacunats": 141187,
+      "pauta_completa": 52734,
+      "ia14": 503.2681,
+      "taxa_confirmats": 224.1551,
+      "confirmats": 17106,
+      "ingressos": 1451
+    },
+    {
+      "data": "2021-02-03T00:00:00.000Z",
+      "vacunats": 141649,
+      "pauta_completa": 62522,
+      "ia14": 483.5467,
+      "taxa_confirmats": 211.4051,
+      "confirmats": 16133,
+      "ingressos": 1386
     }
   ],
   "indefinit": [
@@ -2764,7 +2818,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 103,
+      "confirmats": 104,
       "ingressos": 29
     },
     {
@@ -2773,7 +2827,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 104,
+      "confirmats": 105,
       "ingressos": 25
     },
     {
@@ -2782,7 +2836,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 95,
+      "confirmats": 96,
       "ingressos": 22
     },
     {
@@ -2890,7 +2944,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 86,
+      "confirmats": 87,
       "ingressos": 37
     },
     {
@@ -2899,7 +2953,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 84,
+      "confirmats": 85,
       "ingressos": 34
     },
     {
@@ -2908,7 +2962,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 80,
+      "confirmats": 83,
       "ingressos": 30
     },
     {
@@ -2917,7 +2971,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 89,
+      "confirmats": 92,
       "ingressos": 33
     },
     {
@@ -2926,7 +2980,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 82,
+      "confirmats": 85,
       "ingressos": 39
     },
     {
@@ -2935,7 +2989,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 82,
+      "confirmats": 85,
       "ingressos": 43
     },
     {
@@ -2944,7 +2998,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 85,
+      "confirmats": 88,
       "ingressos": 35
     },
     {
@@ -2953,7 +3007,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 92,
+      "confirmats": 96,
       "ingressos": 36
     },
     {
@@ -2962,7 +3016,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 85,
+      "confirmats": 90,
       "ingressos": 37
     },
     {
@@ -2971,7 +3025,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 85,
+      "confirmats": 88,
       "ingressos": 41
     },
     {
@@ -2980,7 +3034,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 90,
+      "confirmats": 92,
       "ingressos": 38
     },
     {
@@ -2989,7 +3043,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 90,
+      "confirmats": 92,
       "ingressos": 34
     },
     {
@@ -2998,7 +3052,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 92,
+      "confirmats": 94,
       "ingressos": 31
     },
     {
@@ -3007,7 +3061,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 92,
+      "confirmats": 94,
       "ingressos": 39
     },
     {
@@ -3025,7 +3079,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 108,
+      "confirmats": 107,
       "ingressos": 41
     },
     {
@@ -3034,7 +3088,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 116,
+      "confirmats": 115,
       "ingressos": 43
     },
     {
@@ -3088,7 +3142,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 190,
+      "confirmats": 191,
       "ingressos": 52
     },
     {
@@ -3097,7 +3151,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 217,
+      "confirmats": 218,
       "ingressos": 49
     },
     {
@@ -3106,7 +3160,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 247,
+      "confirmats": 248,
       "ingressos": 48
     },
     {
@@ -3115,7 +3169,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 248,
+      "confirmats": 249,
       "ingressos": 45
     },
     {
@@ -3124,7 +3178,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 249,
+      "confirmats": 250,
       "ingressos": 43
     },
     {
@@ -3133,7 +3187,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 227,
+      "confirmats": 228,
       "ingressos": 44
     },
     {
@@ -3142,7 +3196,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 228,
+      "confirmats": 229,
       "ingressos": 48
     },
     {
@@ -3214,7 +3268,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 486,
+      "confirmats": 489,
       "ingressos": 102
     },
     {
@@ -3223,7 +3277,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 522,
+      "confirmats": 526,
       "ingressos": 97
     },
     {
@@ -3232,7 +3286,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 556,
+      "confirmats": 561,
       "ingressos": 100
     },
     {
@@ -3241,7 +3295,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 562,
+      "confirmats": 567,
       "ingressos": 100
     },
     {
@@ -3250,7 +3304,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 565,
+      "confirmats": 570,
       "ingressos": 104
     },
     {
@@ -3259,7 +3313,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 608,
+      "confirmats": 613,
       "ingressos": 107
     },
     {
@@ -3268,7 +3322,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 628,
+      "confirmats": 634,
       "ingressos": 109
     },
     {
@@ -3277,7 +3331,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 645,
+      "confirmats": 648,
       "ingressos": 110
     },
     {
@@ -3286,7 +3340,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 647,
+      "confirmats": 648,
       "ingressos": 110
     },
     {
@@ -3295,7 +3349,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 639,
+      "confirmats": 638,
       "ingressos": 112
     },
     {
@@ -3304,7 +3358,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 632,
+      "confirmats": 631,
       "ingressos": 120
     },
     {
@@ -3313,7 +3367,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 641,
+      "confirmats": 640,
       "ingressos": 115
     },
     {
@@ -3322,7 +3376,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 616,
+      "confirmats": 615,
       "ingressos": 112
     },
     {
@@ -3331,7 +3385,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 614,
+      "confirmats": 612,
       "ingressos": 114
     },
     {
@@ -3340,7 +3394,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 575,
+      "confirmats": 573,
       "ingressos": 109
     },
     {
@@ -3358,7 +3412,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 531,
+      "confirmats": 532,
       "ingressos": 102
     },
     {
@@ -3367,7 +3421,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 515,
+      "confirmats": 516,
       "ingressos": 97
     },
     {
@@ -3376,7 +3430,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 492,
+      "confirmats": 493,
       "ingressos": 96
     },
     {
@@ -3385,7 +3439,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 464,
+      "confirmats": 466,
       "ingressos": 85
     },
     {
@@ -3394,7 +3448,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 441,
+      "confirmats": 443,
       "ingressos": 77
     },
     {
@@ -3403,7 +3457,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 413,
+      "confirmats": 416,
       "ingressos": 76
     },
     {
@@ -3412,7 +3466,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 366,
+      "confirmats": 368,
       "ingressos": 71
     },
     {
@@ -3421,7 +3475,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 366,
+      "confirmats": 368,
       "ingressos": 75
     },
     {
@@ -3430,7 +3484,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 374,
+      "confirmats": 376,
       "ingressos": 65
     },
     {
@@ -3439,7 +3493,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 377,
+      "confirmats": 379,
       "ingressos": 64
     },
     {
@@ -3448,7 +3502,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 354,
+      "confirmats": 355,
       "ingressos": 65
     },
     {
@@ -3457,7 +3511,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 318,
+      "confirmats": 319,
       "ingressos": 61
     },
     {
@@ -3556,7 +3610,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 246,
+      "confirmats": 247,
       "ingressos": 47
     },
     {
@@ -3565,7 +3619,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 240,
+      "confirmats": 241,
       "ingressos": 41
     },
     {
@@ -3574,7 +3628,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 226,
+      "confirmats": 227,
       "ingressos": 39
     },
     {
@@ -3583,7 +3637,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 233,
+      "confirmats": 234,
       "ingressos": 39
     },
     {
@@ -3592,7 +3646,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 228,
+      "confirmats": 229,
       "ingressos": 41
     },
     {
@@ -3601,7 +3655,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 209,
+      "confirmats": 210,
       "ingressos": 40
     },
     {
@@ -3610,7 +3664,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 207,
+      "confirmats": 208,
       "ingressos": 42
     },
     {
@@ -3665,7 +3719,7 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 148,
-      "ingressos": 35
+      "ingressos": 36
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
@@ -3674,7 +3728,7 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 167,
-      "ingressos": 36
+      "ingressos": 37
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
@@ -3683,7 +3737,7 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 181,
-      "ingressos": 42
+      "ingressos": 43
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
@@ -3692,7 +3746,7 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 206,
-      "ingressos": 40
+      "ingressos": 41
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
@@ -3700,8 +3754,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 229,
-      "ingressos": 41
+      "confirmats": 231,
+      "ingressos": 42
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
@@ -3709,8 +3763,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 282,
-      "ingressos": 37
+      "confirmats": 284,
+      "ingressos": 38
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
@@ -3718,8 +3772,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 308,
-      "ingressos": 41
+      "confirmats": 310,
+      "ingressos": 42
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
@@ -3727,7 +3781,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 318,
+      "confirmats": 320,
       "ingressos": 54
     },
     {
@@ -3736,7 +3790,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 315,
+      "confirmats": 318,
       "ingressos": 55
     },
     {
@@ -3745,7 +3799,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 320,
+      "confirmats": 323,
       "ingressos": 50
     },
     {
@@ -3754,7 +3808,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 315,
+      "confirmats": 318,
       "ingressos": 50
     },
     {
@@ -3763,7 +3817,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 328,
+      "confirmats": 330,
       "ingressos": 49
     },
     {
@@ -3772,7 +3826,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 354,
+      "confirmats": 356,
       "ingressos": 52
     },
     {
@@ -3781,7 +3835,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 356,
+      "confirmats": 358,
       "ingressos": 49
     },
     {
@@ -3790,7 +3844,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 365,
+      "confirmats": 367,
       "ingressos": 35
     },
     {
@@ -3799,7 +3853,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 337,
+      "confirmats": 338,
       "ingressos": 32
     },
     {
@@ -3808,7 +3862,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 320,
+      "confirmats": 321,
       "ingressos": 39
     },
     {
@@ -3817,7 +3871,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 313,
+      "confirmats": 314,
       "ingressos": 42
     },
     {
@@ -3835,8 +3889,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 327,
-      "ingressos": 46
+      "confirmats": 328,
+      "ingressos": 47
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
@@ -3844,8 +3898,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 347,
-      "ingressos": 50
+      "confirmats": 348,
+      "ingressos": 51
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
@@ -3853,8 +3907,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 351,
-      "ingressos": 63
+      "confirmats": 352,
+      "ingressos": 64
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
@@ -3862,8 +3916,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 341,
-      "ingressos": 61
+      "confirmats": 342,
+      "ingressos": 62
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
@@ -3871,8 +3925,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 362,
-      "ingressos": 61
+      "confirmats": 363,
+      "ingressos": 62
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
@@ -3880,8 +3934,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 368,
-      "ingressos": 62
+      "confirmats": 369,
+      "ingressos": 63
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
@@ -3889,8 +3943,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 405,
-      "ingressos": 69
+      "confirmats": 408,
+      "ingressos": 70
     },
     {
       "data": "2021-01-05T00:00:00.000Z",
@@ -3898,7 +3952,7 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 410,
+      "confirmats": 412,
       "ingressos": 68
     },
     {
@@ -3907,8 +3961,8 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 369,
-      "ingressos": 65
+      "confirmats": 371,
+      "ingressos": 66
     },
     {
       "data": "2021-01-07T00:00:00.000Z",
@@ -3916,224 +3970,251 @@
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 387,
-      "ingressos": 61
+      "confirmats": 389,
+      "ingressos": 62
     },
     {
       "data": "2021-01-08T00:00:00.000Z",
-      "vacunats": 7,
+      "vacunats": 9,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 483,
-      "ingressos": 68
+      "confirmats": 485,
+      "ingressos": 69
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
-      "vacunats": 9,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 493,
-      "ingressos": 65
-    },
-    {
-      "data": "2021-01-10T00:00:00.000Z",
-      "vacunats": 9,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 507,
-      "ingressos": 71
-    },
-    {
-      "data": "2021-01-11T00:00:00.000Z",
       "vacunats": 11,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
+      "confirmats": 495,
+      "ingressos": 66
+    },
+    {
+      "data": "2021-01-10T00:00:00.000Z",
+      "vacunats": 11,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 509,
+      "ingressos": 72
+    },
+    {
+      "data": "2021-01-11T00:00:00.000Z",
+      "vacunats": 14,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
       "confirmats": 511,
-      "ingressos": 71
+      "ingressos": 72
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
-      "vacunats": 29,
+      "vacunats": 31,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 520,
-      "ingressos": 73
+      "ingressos": 74
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
-      "vacunats": 41,
+      "vacunats": 43,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 598,
+      "confirmats": 599,
       "ingressos": 81
     },
     {
       "data": "2021-01-14T00:00:00.000Z",
-      "vacunats": 49,
+      "vacunats": 51,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 628,
-      "ingressos": 79
+      "confirmats": 629,
+      "ingressos": 80
     },
     {
       "data": "2021-01-15T00:00:00.000Z",
-      "vacunats": 57,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 619,
-      "ingressos": 77
-    },
-    {
-      "data": "2021-01-16T00:00:00.000Z",
       "vacunats": 59,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 645,
-      "ingressos": 80
-    },
-    {
-      "data": "2021-01-17T00:00:00.000Z",
-      "vacunats": 60,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 637,
+      "confirmats": 620,
       "ingressos": 78
     },
     {
-      "data": "2021-01-18T00:00:00.000Z",
+      "data": "2021-01-16T00:00:00.000Z",
+      "vacunats": 62,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 646,
+      "ingressos": 81
+    },
+    {
+      "data": "2021-01-17T00:00:00.000Z",
       "vacunats": 63,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 644,
-      "ingressos": 76
-    },
-    {
-      "data": "2021-01-19T00:00:00.000Z",
-      "vacunats": 64,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 643,
-      "ingressos": 76
-    },
-    {
-      "data": "2021-01-20T00:00:00.000Z",
-      "vacunats": 68,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 657,
-      "ingressos": 70
-    },
-    {
-      "data": "2021-01-21T00:00:00.000Z",
-      "vacunats": 70,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 654,
-      "ingressos": 73
-    },
-    {
-      "data": "2021-01-22T00:00:00.000Z",
-      "vacunats": 74,
-      "pauta_completa": 0,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 647,
+      "confirmats": 638,
       "ingressos": 79
     },
     {
-      "data": "2021-01-23T00:00:00.000Z",
+      "data": "2021-01-18T00:00:00.000Z",
+      "vacunats": 66,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 644,
+      "ingressos": 79
+    },
+    {
+      "data": "2021-01-19T00:00:00.000Z",
+      "vacunats": 67,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 642,
+      "ingressos": 80
+    },
+    {
+      "data": "2021-01-20T00:00:00.000Z",
+      "vacunats": 71,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 656,
+      "ingressos": 74
+    },
+    {
+      "data": "2021-01-21T00:00:00.000Z",
+      "vacunats": 73,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 655,
+      "ingressos": 76
+    },
+    {
+      "data": "2021-01-22T00:00:00.000Z",
       "vacunats": 77,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 606,
-      "ingressos": 77
+      "confirmats": 650,
+      "ingressos": 83
+    },
+    {
+      "data": "2021-01-23T00:00:00.000Z",
+      "vacunats": 80,
+      "pauta_completa": 0,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 609,
+      "ingressos": 83
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
-      "vacunats": 78,
+      "vacunats": 81,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 611,
-      "ingressos": 72
+      "confirmats": 615,
+      "ingressos": 79
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
-      "vacunats": 82,
+      "vacunats": 85,
       "pauta_completa": 0,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 592,
-      "ingressos": 70
+      "confirmats": 600,
+      "ingressos": 78
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
-      "vacunats": 90,
+      "vacunats": 91,
       "pauta_completa": 2,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 554,
-      "ingressos": 69
+      "confirmats": 569,
+      "ingressos": 78
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
-      "vacunats": 94,
+      "vacunats": 92,
       "pauta_completa": 5,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 513,
-      "ingressos": 64
+      "confirmats": 527,
+      "ingressos": 75
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
-      "vacunats": 102,
+      "vacunats": 93,
       "pauta_completa": 12,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 470,
-      "ingressos": 63
+      "confirmats": 483,
+      "ingressos": 74
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
-      "vacunats": 117,
-      "pauta_completa": 24,
-      "ia14": 0,
-      "taxa_confirmats": 0,
-      "confirmats": 462,
-      "ingressos": 56
-    },
-    {
-      "data": "2021-01-30T00:00:00.000Z",
-      "vacunats": 119,
+      "vacunats": 96,
       "pauta_completa": 26,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 467,
-      "ingressos": 56
+      "confirmats": 476,
+      "ingressos": 67
+    },
+    {
+      "data": "2021-01-30T00:00:00.000Z",
+      "vacunats": 96,
+      "pauta_completa": 28,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 482,
+      "ingressos": 66
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
-      "vacunats": 120,
-      "pauta_completa": 27,
+      "vacunats": 96,
+      "pauta_completa": 29,
       "ia14": 0,
       "taxa_confirmats": 0,
-      "confirmats": 449,
-      "ingressos": 54
+      "confirmats": 463,
+      "ingressos": 65
+    },
+    {
+      "data": "2021-02-01T00:00:00.000Z",
+      "vacunats": 98,
+      "pauta_completa": 34,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 437,
+      "ingressos": 61
+    },
+    {
+      "data": "2021-02-02T00:00:00.000Z",
+      "vacunats": 99,
+      "pauta_completa": 40,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 433,
+      "ingressos": 50
+    },
+    {
+      "data": "2021-02-03T00:00:00.000Z",
+      "vacunats": 100,
+      "pauta_completa": 44,
+      "ia14": 0,
+      "taxa_confirmats": 0,
+      "confirmats": 417,
+      "ingressos": 52
     }
   ]
 }

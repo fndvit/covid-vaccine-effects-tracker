@@ -8,7 +8,7 @@
   export let time;
 	
 	$: nTicks = (position === 'bottom' || position === 'top' ) 
-		? width / 50
+		? width / 70
     : height / 50;
 
   $: transform = position === 'bottom'
@@ -55,7 +55,6 @@
 			{#if tick.value === '0'}
       <line x2={width}/>
 			{:else}
-      <line x2={width} stroke-dasharray="2 3" />
       <text x={width} y=-5 text-anchor='end'>
         {tick.value}
       </text>

@@ -31,7 +31,7 @@ const main = async () => {
 
   const rename = [{DATA:'data'},{CUM_VACUNATS:'vacunats'}, {CUM_VACUNATS2: 'pauta_completa'},'ia14','taxa_confirmats','confirmats','ingressos'];
   const derive = {
-    CUM_VACUNATS: aq.rolling(d => aq.op.sum(d.VACUNATS + d.VACUNATS2)),
+    CUM_VACUNATS: aq.rolling(d => aq.op.sum(d.VACUNATS)),
     CUM_VACUNATS2: aq.rolling(d => aq.op.sum(d.VACUNATS2))
   }
 
@@ -63,7 +63,6 @@ const main = async () => {
   }
 
   writeJSON(data, 'data_residence', dest)
-
 }
 
 const unzip = async (url, file) => {
