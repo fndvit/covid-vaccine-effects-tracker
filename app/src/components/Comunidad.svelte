@@ -27,63 +27,69 @@
             color:'#333',
             label:'Índex IA14 no residències'
         },
-        {  
-            color:'url(#diagonalHatch)',
-            label:'Vacunats en 1a dosi'
-        },
-        {  
-            color:'url(#diagonalHatchEnforced)',
-            label:'Vacunats en 2a dosi'
-        },
     ];
 
     const legendItems2 = [
         {  
             color:'#00bbc4',
-            label:'IA14 residències'
+            label:'Índex IA14 residències'
         },
         {  
             color:'#333',
-            label:'IA14 no residències'
+            label:'Índex IA14 no residències'
         },
         {  
-            color:'url(#diagonalHatch)',
-            label:'Vacunats en 1a dosi'
-        },
-        {  
-            color:'url(#diagonalHatchEnforced)',
-            label:'Vacunats en 2a dosi'
-        },
+            color:'url(#diagonalHatchOpacity)',
+            label:'Vacunats'
+        }
     ];
 
     let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
                                  //a partir de la IA i el nombre de casos en dues setmanes
                                  //en data 7/2/21
 
-    let IA14_1_09 = data['si'].find(d=>d.data.includes("2020-09-01"));
+    let IA14_02_11 = data['si'].find(d=>d.data.includes("2020-11-02"));
+    let IA14_20_01 = data['si'].find(d=>d.data.includes("2021-01-20"));
     data['si'].forEach(d => {
         d.data2 = new Date(d.data);  
-        d.indexIA = 100 * d.ia14 / IA14_1_09.ia14;
+        d.indexIA_2o = 100 * d.ia14 / IA14_02_11.ia14;
+        d.indexIA_3o = 100 * d.ia14 / IA14_20_01.ia14;
         d.perc_vacunats = 100 * d.vacunats / pob_residencies;
         d.perc_pauta_completa = 100 * d.pauta_completa /pob_residencies;
     });
 
-    let IA14_1_09_no = data['no'].find(d=>d.data.includes("2020-09-01"));
+    let IA14_02_11_no = data['no'].find(d=>d.data.includes("2020-11-02"));
+    let IA14_20_01_no = data['no'].find(d=>d.data.includes("2021-01-20"));
     data['no'].forEach(d => {
         d.data2 = new Date(d.data)                
-        d.indexIA = 100 * d.ia14 / IA14_1_09_no.ia14;
+        d.indexIA_2o = 100 * d.ia14 / IA14_02_11_no.ia14;
+        d.indexIA_3o = 100 * d.ia14 / IA14_20_01_no.ia14;
     });
     //console.log(data);
 
-    let max_index_ia14_si = data['si'].find(d=>d.data.includes("2021-01-20")).indexIA;
-    let last_index_ia14_si = data['si'][data['si'].length -1].indexIA;
+    const init_2aOnada = new Date(2020, 9, 1); //1 d'octubre de 2020
+    const end_2aOnada = new Date(2020, 11, 15); //14 de desembre de 2020
+    const data_si_2o = data['si'].filter(d=>d.data2 >= init_2aOnada && d.data2 <= end_2aOnada);
+    const data_no_2o = data['no'].filter(d=>d.data2 >= init_2aOnada && d.data2 <= end_2aOnada);
+    let data_2aOnada = {si:data_si_2o, no:data_no_2o};
+        
+    const init_3aOnada = new Date(2020, 11, 15); //15 de desembre de 2020
+    const data_si_3o = data['si'].filter(d=>d.data2 >= init_3aOnada );
+    const data_no_3o = data['no'].filter(d=>d.data2 >= init_3aOnada );
+    let data_3aOnada = {si:data_si_3o, no:data_no_3o};
+        
+
+    let max_index_ia14_si = data['si'].find(d=>d.data.includes("2021-01-20")).indexIA_3o;
+    let last_index_ia14_si = data['si'][data['si'].length -1].indexIA_3o;
     let perc_reduction_si = 100 * (1 - (last_index_ia14_si/max_index_ia14_si));
     let last_ia14_si = data['si'][data['si'].length -1].ia14;
 
-    let max_index_ia14_no = data['no'].find(d=>d.data.includes("2021-01-20")).indexIA;
-    let last_index_ia14_no = data['no'][data['no'].length -1].indexIA;
+    let max_index_ia14_no = data['no'].find(d=>d.data.includes("2021-01-20")).indexIA_3o;
+    let last_index_ia14_no = data['no'][data['no'].length -1].indexIA_3o;
     let perc_reduction_no = 100 * (1 - (last_index_ia14_no/max_index_ia14_no));
     let last_ia14_no = data['no'][data['no'].length -1].ia14;
+
+
     // console.log("general:");
     // console.log(general);
     // console.log(height);
@@ -101,32 +107,49 @@
 
 </script>
 
-<li class='ccaa'>
-<p>En la gràfica podem observar l'índex respecte el valor a data de 1 de setembre de 2020 per població 
-en residències i en no residències. Com es pot veure, en la segona onada (octubre-novembre 2020)
-el comportament de la corba va ser similar entre un grup i un altre. En la tercera onada (gener-febrer 2021),
-veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
-a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), corresponent a un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
-En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
-corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
-</p>
+<h3>2a Onada</h3>
+<p>En la gràfica podem observar l'índex respecte el valor màxim de la segona onada (que es produí el 2 de novembre de 2020) 
+en residències i en no residències. Com es pot veure, en aquesta segona onada el comportament de la corba va ser 
+similar entre un grup i un altre. </p>
+
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
     <Legend {legendItems} />
-    <MultiLineWithBb  {data} 
+    <MultiLineWithBb  data = {data_2aOnada} 
                 series={['si','no']} 
                 {width} 
                 height={height + margin.top + margin.bottom} 
-                key={{x: 'data2', y: 'indexIA', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
+                key={{x: 'data2', y: 'indexIA_2o', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
                 format={f} 
                 {margin}
                 color = {["#00bbc4","#333"]}/>
     </div>
 
+<h3>3a Onada</h3>
+<p>En la tercera onada (gener-febrer 2021),
+veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
+a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), corresponent a un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
+En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
+corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
+</p>
+
+<div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <Legend legendItems={legendItems2} />
+    <MultiLineWithBb  data = {data_3aOnada} 
+                series={['si','no']} 
+                {width} 
+                height={height + margin.top + margin.bottom} 
+                key={{x: 'data2', y: 'indexIA_3o', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
+                format={f} 
+                {margin}
+                color = {["#00bbc4","#333"]}/>
+</div>
+
+<h3>Valors absoluts d'incidència acumulada</h3>
 <p>Si representem els valors d'incidència acumulada a 14 dies, s'obtenen les següents dades, on es pot observar 
     que la població en residències encara té una afectació més alta que la població no resident
     ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
 </p>
-<div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+    <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
     <Legend legendItems={legendItems2} />
     <MultiLineWithBb  {data} 
                 series={['si','no']} 
@@ -137,7 +160,7 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 {margin}
                 color = {["#00bbc4","#333"]}/>
     </div>
-</li>
+
 
 <style>
     .ccaa {
