@@ -7,7 +7,7 @@
     export let height;
  
     let width;
-    let margin = {bottom:20, top:20, left:4, right:4};
+    let margin = {bottom:20, top:20, left:40, right:40};
     const loc = new locale('es');
     let formatTimeCat = (d) => d.toLocaleDateString('ca-ES',  { month: 'short', day: 'numeric' });
 
