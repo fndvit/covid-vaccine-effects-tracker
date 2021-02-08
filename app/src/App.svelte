@@ -38,6 +38,12 @@
 					 M3,5 l2,-2" 
 				  style="stroke:#505050; stroke-width:.5" />
 		</pattern>
+		<pattern id="diagonalHatchOpacity" patternUnits="userSpaceOnUse" width="4" height="4">
+			<path d="M-1,1 l2,-2
+					 M0,4 l4,-4
+					 M3,5 l2,-2" 
+				  style="stroke:#000; stroke-width:.5" />
+		</pattern>
 	</svg>
 
 	<p class="text update">Actualizat a <strong>{lastData.toLocaleDateString('ca-ES',  { month: 'long', day: 'numeric' })}</strong></p>

@@ -73,15 +73,6 @@
 				return 'middle'
 		}
 	}
-
-// 	console.log("Hello multiline!");
-// 	console.log(data[series[1]]);
-// //	console.log(max(data, d => d[series[0]][key.y]>d[series[1]][key.y]?d[series[0]][key.y]:d[series[1]][key.y]));
-// 	// console.log(data[0]);
-// 	// console.log(data[0]['ia14']);
-// 	// console.log(format);
-// 	// console.log(key);
-// 	console.log("Bye line!");	
 </script>
 
 {#if width}
@@ -95,19 +86,31 @@
 	on:touchend={leave}
 >
 	<g>
-		<path 
+		{#each data[series[0]] as d,i}
+		<rect 
+			height={height - margin.bottom - margin.top -20}
+			width={(width - margin.left - margin.right) / data[series[0]].length}
+			x={x(d[key.x])}
+			y={margin.top}
+			opacity={(d[key.bg1] + d[key.bg2]) / 200} 
+			class="area"
+		/>
+		{/each}
+
+		<!-- 
+			<path 
 			d={path_bg(data[series[0]])}
 			class="area"
 			role="img"
-		/>
+		/> -->
 		<!-- 'url(#diagonalHatch)' -->
 		<!-- aria-roledescription="barra dosis entregadas diariamente"
 		aria-label="Dosis entregadas: {data[data.length - 1][key.bg]}" -->
-		<path 
+		<!-- <path 
 			d={path_bg2(data[series[0]])}
 			class="area_enforced"
 			role="img"
-		/>
+		/> -->
 
 		{#each series as d,i }
 			<path 
@@ -122,49 +125,67 @@
 		{/each}
     </g>
 	<Axis {width} {height} {margin} scale={y} position='left' format={format.y} time= {''} />
-	<Axis {width} {height} {margin} scale={y_bg} position='right' format={format.y} time= {''} />
+	<!-- <Axis {width} {height} {margin} scale={y_bg} position='right' format={format.y} time= {''} /> -->
 	<Axis {width} {height} {margin} scale={x} position='bottom' format={format.x} time= {''} />
 	<g>
 		{#if tooltip}
-		<!-- svelte-ignore component-name-lowercase -->
-		{#each series as d,i }
-			<line
-				x1={x(datum[d][key.x])}
-				y1={y(0)}
-				x2={x(datum[d][key.x])}
-				y2={y(datum[d][key.y])}
-				pointer-events="none"
-				stroke="rgba(0,0,0,.5)"
-				stroke-width=.3
-				class="tooltip"
-			/>
-			<circle
-				r=3
-				cx={x(datum[d][key.x])}
-				cy={y(datum[d][key.y])}
-				stroke="rgba(0,0,0,1)"
-				pointer-events="none"
-				stroke-width=2
-				class="tooltip blue"
-			/>
 			<text
-				x={x(datum[d][key.x])}
-				y={y(datum[d][key.y]) - 8}
+				x={x(datum[series[0]][key.x])}
+				y={y(0) - 20}
 				pointer-events="none"
-				text-anchor={getAnchor(x(datum[d][key.x]))}
-				class="tooltip value"
+				text-anchor={getAnchor(x(datum[series[0]][key.x]))}
+				class="tooltip vaccine percentage"
 			>
-				{format.y(datum[d][key.y])}
+				{`Vac. 1a dosi: ${format.pct(datum[series[0]][key.bg1])}%`}
 			</text>
 			<text
-				x={x(datum[d][key.x])}
-				y={y(0) + 20}
+				x={x(datum[series[0]][key.x])}
+				y={y(0) - 5}
 				pointer-events="none"
-				text-anchor={getAnchor(x(datum[d][key.x]))}
-				class="tooltip date"
+				text-anchor={getAnchor(x(datum[series[0]][key.x]))}
+				class="tooltip complete vaccine percentage"
 			>
-				{format.x(datum[d][key.x])}
+				{`Vac. 2a dosi: ${format.pct(datum[series[0]][key.bg2])}%`}
 			</text>
+			{#each series as d,i }
+				<!-- svelte-ignore component-name-lowercase -->
+				<line
+					x1={x(datum[d][key.x])}
+					y1={y(0)}
+					x2={x(datum[d][key.x])}
+					y2={y(datum[d][key.y])}
+					pointer-events="none"
+					stroke="rgba(0,0,0,.5)"
+					stroke-width=.3
+					class="tooltip"
+				/>
+				<circle
+					r=3
+					cx={x(datum[d][key.x])}
+					cy={y(datum[d][key.y])}
+					stroke="rgba(0,0,0,1)"
+					pointer-events="none"
+					stroke-width=2
+					class="tooltip blue"
+				/>
+				<text
+					x={x(datum[d][key.x])}
+					y={y(datum[d][key.y]) - 8}
+					pointer-events="none"
+					text-anchor={getAnchor(x(datum[d][key.x]))}
+					class="tooltip value"
+				>
+					{format.y(datum[d][key.y])}
+				</text>
+				<text
+					x={x(datum[d][key.x])}
+					y={y(0) + 20}
+					pointer-events="none"
+					text-anchor={getAnchor(x(datum[d][key.x]))}
+					class="tooltip date"
+				>
+					{format.x(datum[d][key.x])}
+				</text>
 			{/each}
 		{/if}
 	</g>
@@ -177,8 +198,9 @@
 		stroke-width: 2;
 	}
 	.area{
-		stroke: none;
-		fill:url(#diagonalHatch);
+		stroke-width: 0;
+		stroke:none;
+		fill:url(#diagonalHatchOpacity);
 	}
 	.area_enforced{
 		stroke: none;
