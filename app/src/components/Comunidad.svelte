@@ -27,33 +27,21 @@
             color:'#333',
             label:'Índex IA14 no residències'
         },
-        {  
-            color:'url(#diagonalHatch)',
-            label:'Vacunats en 1a dosi'
-        },
-        {  
-            color:'url(#diagonalHatchEnforced)',
-            label:'Vacunats en 2a dosi'
-        },
     ];
 
     const legendItems2 = [
         {  
             color:'#00bbc4',
-            label:'IA14 residències'
+            label:'Índex IA14 residències'
         },
         {  
             color:'#333',
-            label:'IA14 no residències'
+            label:'Índex IA14 no residències'
         },
         {  
-            color:'url(#diagonalHatch)',
-            label:'Vacunats en 1a dosi'
-        },
-        {  
-            color:'url(#diagonalHatchEnforced)',
-            label:'Vacunats en 2a dosi'
-        },
+            color:'url(#diagonalHatchOpacity)',
+            label:'Vacunats'
+        }
     ];
 
     let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
@@ -119,15 +107,11 @@
 
 </script>
 
-<li class='ccaa'>
-<p>En la gràfica podem observar l'índex respecte el valor a data de 1 de setembre de 2020 per població 
-en residències i en no residències. Com es pot veure, en la segona onada (octubre-novembre 2020)
-el comportament de la corba va ser similar entre un grup i un altre. En la tercera onada (gener-febrer 2021),
-veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
-a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), corresponent a un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
-En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
-corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
-</p>
+<h3>2a Onada</h3>
+<p>En la gràfica podem observar l'índex respecte el valor màxim de la segona onada (que es produí el 2 de novembre de 2020) 
+en residències i en no residències. Com es pot veure, en aquesta segona onada el comportament de la corba va ser 
+similar entre un grup i un altre. </p>
+
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
     <Legend {legendItems} />
     <MultiLineWithBb  data = {data_2aOnada} 
@@ -140,12 +124,16 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 color = {["#00bbc4","#333"]}/>
     </div>
 
-<p>Si representem els valors d'incidència acumulada a 14 dies, s'obtenen les següents dades, on es pot observar 
-    que la població en residències encara té una afectació més alta que la població no resident
-    ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
+<h3>3a Onada</h3>
+<p>En la tercera onada (gener-febrer 2021),
+veiem l'efecte de les vacunacions, fent que la corba de passi de l'índex {loc.format(',.1d')(max_index_ia14_si)} (20 de gener) 
+a {loc.format(',.1d')(last_index_ia14_si)} (darrera dada disponible), corresponent a un <strong>{loc.format(',.1d')(perc_reduction_si)}%</strong> de reducció.
+En canvi, per a la població no resident, la corba ha passat de {loc.format(',.1d')(max_index_ia14_no)} a  {loc.format(',.1d')(last_index_ia14_no)},
+corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de reducció.
 </p>
+
 <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
-    <Legend {legendItems} />
+    <Legend legendItems={legendItems2} />
     <MultiLineWithBb  data = {data_3aOnada} 
                 series={['si','no']} 
                 {width} 
@@ -156,6 +144,11 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 color = {["#00bbc4","#333"]}/>
 </div>
 
+<h3>Valors absoluts d'incidència acumulada</h3>
+<p>Si representem els valors d'incidència acumulada a 14 dies, s'obtenen les següents dades, on es pot observar 
+    que la població en residències encara té una afectació més alta que la població no resident
+    ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
+</p>
     <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
     <Legend legendItems={legendItems2} />
     <MultiLineWithBb  {data} 
@@ -167,7 +160,7 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 {margin}
                 color = {["#00bbc4","#333"]}/>
     </div>
-</li>
+
 
 <style>
     .ccaa {
