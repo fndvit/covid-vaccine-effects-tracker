@@ -17,7 +17,7 @@ const main = async () => {
     await unzip('https://dadescovid.cat/static/csv/catalunya_setmanal.zip', 'catalunya_setmanal.csv'),
     {delimiter: ';'}
   )
-    .select({RESIDENCIA:'residencia',DATA_FI:'data',IA14:'ia14',TAXA_CASOS_CONFIRMAT:'taxa_confirmats',CASOS_CONFIRMAT:'confirmats',INGRESSOS_TOTAL:'ingressos'})
+    .select({RESIDENCIA:'residencia',DATA_FI:'data',IA14:'ia14',TAXA_CASOS_CONFIRMAT:'taxa_confirmats',CASOS_CONFIRMAT:'confirmats',INGRESSOS_TOTAL:'ingressos', EXITUS:'exitus'}, )
 
   const daily = aq.fromCSV(
     await unzip('https://dadescovid.cat/static/csv/catalunya_diari.zip', 'catalunya_diari.csv'),
@@ -29,7 +29,7 @@ const main = async () => {
     VACUNATS2: d => aq.op.sum(d.VACUNATS_DOSI_2)
   })
 
-  const rename = [{DATA:'data'},{CUM_VACUNATS:'vacunats'}, {CUM_VACUNATS2: 'pauta_completa'},'ia14','taxa_confirmats','confirmats','ingressos'];
+  const rename = [{DATA:'data'},{CUM_VACUNATS:'vacunats'}, {CUM_VACUNATS2: 'pauta_completa'},'ia14','taxa_confirmats','confirmats','ingressos','exitus'];
   const derive = {
     CUM_VACUNATS: aq.rolling(d => aq.op.sum(d.VACUNATS)),
     CUM_VACUNATS2: aq.rolling(d => aq.op.sum(d.VACUNATS2))

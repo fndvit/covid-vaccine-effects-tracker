@@ -21,7 +21,7 @@
 		.range([margin.left, width - margin.right]);
 	
 	$: y = scaleLinear()
-		.domain([0, max(data[series[0]], d => d[key.y])]).nice()
+		.domain([0, max(series, ds => max(data[ds], dd => dd[key.y]))]).nice()
 		.range([height - margin.bottom - margin.top, margin.top]);
 
 	$: y_bg = scaleLinear()
@@ -78,7 +78,7 @@
 {#if width}
 <svg viewBox="0 0 {width} {height}" {width} {height}
 	role="document"
-	aria-label='Evolució diària de las la incidència'
+	aria-label="Evolució diària de les dades d'incidència acumulada als 14 dies"
 	xml:lang="ca"
 	on:touchmove|preventDefault
 	on:pointermove|preventDefault={mouseMove}

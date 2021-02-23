@@ -44,6 +44,34 @@
         }
     ];
 
+    const legendItems3 = [
+        {  
+            color:'#00bbc4',
+            label:'IA14 residències'
+        },
+        {  
+            color:'#333',
+            label:'IA14 no residències'
+        },
+        {  
+            color:'url(#diagonalHatchOpacity)',
+            label:'Vacunats'
+        }
+    ];
+    const legendItems4 = [
+        {  
+            color:'#00bbc4',
+            label:'Exitus residències'
+        },
+        {  
+            color:'#333',
+            label:'Exitus no residències'
+        },
+        {  
+            color:'url(#diagonalHatchOpacity)',
+            label:'Vacunats'
+        }
+    ];
     let pob_residencies = 65749; //Obtingut a partir de l'excel catalunya_setmanal
                                  //a partir de la IA i el nombre de casos en dues setmanes
                                  //en data 7/2/21
@@ -91,7 +119,7 @@
 
 
     // console.log("general:");
-    // console.log(general);
+    //console.log(data);
     // console.log(height);
     // const legendItems = [
     //     {  
@@ -150,7 +178,7 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
     ({loc.format(',.1d')(last_ia14_si)} respecte a {loc.format(',.1d')(last_ia14_no)}).
 </p>
     <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
-    <Legend legendItems={legendItems2} />
+    <Legend legendItems={legendItems3} />
     <MultiLineWithBb  {data} 
                 series={['si','no']} 
                 {width} 
@@ -161,7 +189,22 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 color = {["#00bbc4","#333"]}/>
     </div>
 
-
+    <h3>Valors absoluts d'exitus</h3>
+    <p>Si representem els exitus, s'obtenen les següents dades:
+    </p>
+        <div class='chart' style='height:{height + margin.top + margin.bottom}' bind:clientWidth={width}> 
+        <Legend legendItems={legendItems4} />
+        <MultiLineWithBb  {data} 
+                    series={['si','no']} 
+                    {width} 
+                    height={height + margin.top + margin.bottom} 
+                    key={{x: 'data2', y: 'exitus', bg1:'perc_vacunats',bg2:'perc_pauta_completa'}} 
+                    format={f} 
+                    {margin}
+                    color = {["#00bbc4","#333"]}/>
+        </div>
+    
+    
 <style>
     .ccaa {
         padding-bottom: 2rem;
