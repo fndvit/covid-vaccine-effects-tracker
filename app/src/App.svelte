@@ -1,5 +1,6 @@
 <script>
 	import Menu from './components/Menu.svelte'
+	import Population from './components/Population.svelte'
 	import Comunidad from './components/Comunidad.svelte'
 	import Credits from './components/Credits.svelte'
 	import {extent, max, min} from 'd3-array'
@@ -51,6 +52,8 @@
 		<h1>Efectes de la vacunació en la població de residències</h1>
 	</div>
 	<p class="text summary">Les vacunacions tenen un gran impacte en la reducció de la incidència</p>
+
+	<Population />
 
 	<ul>
 		<!-- {#each _data as d,i } -->

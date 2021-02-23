@@ -3,8 +3,6 @@
 	import {area, curveStep} from 'd3-shape';
 	import {scaleTime, scaleLinear} from 'd3-scale';
 	import {max, extent, bisector} from 'd3-array'
-	import {timeFriday} from 'd3-time'
-	import {draw} from 'svelte/transition'
     
     export let data;
 	export let margin = {top: 0, right: 0, bottom: 0, left: 0};
