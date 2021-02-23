@@ -93,8 +93,7 @@
         d.indexIA_2o = 100 * d.ia14 / IA14_02_11_no.ia14;
         d.indexIA_3o = 100 * d.ia14 / IA14_20_01_no.ia14;
     });
-    //console.log(data);
-
+    
     const init_2aOnada = new Date(2020, 9, 1); //1 d'octubre de 2020
     const end_2aOnada = new Date(2020, 11, 15); //14 de desembre de 2020
     const data_si_2o = data['si'].filter(d=>d.data2 >= init_2aOnada && d.data2 <= end_2aOnada);
@@ -134,7 +133,7 @@
 
 
 </script>
-
+<h2>Anàlisi de l'incidència acumulada</h2>
 <h3>2a Onada</h3>
 <p>En la gràfica podem observar l'índex respecte el valor màxim de la segona onada (que es produí el 2 de novembre de 2020) 
 en residències i en no residències. Com es pot veure, en aquesta segona onada el comportament de la corba va ser 
@@ -189,6 +188,7 @@ corresponent a un <strong>{loc.format(',.1d')(perc_reduction_no)}%</strong> de r
                 color = {["#00bbc4","#333"]}/>
     </div>
 
+    <h2>Anàlisi de la mortalitat</h2>
     <h3>Valors absoluts d'exitus</h3>
     <p>Si representem els exitus, s'obtenen les següents dades:
     </p>
