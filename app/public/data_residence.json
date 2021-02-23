@@ -7,7 +7,8 @@
       "ia14": 477.3233,
       "taxa_confirmats": 251.3803,
       "confirmats": 168,
-      "ingressos": 40
+      "ingressos": 40,
+      "exitus": 26
     },
     {
       "data": "2020-09-02T00:00:00.000Z",
@@ -16,7 +17,8 @@
       "ia14": 556.6279,
       "taxa_confirmats": 251.3803,
       "confirmats": 168,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 24
     },
     {
       "data": "2020-09-03T00:00:00.000Z",
@@ -25,7 +27,8 @@
       "ia14": 556.6279,
       "taxa_confirmats": 254.3729,
       "confirmats": 170,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 29
     },
     {
       "data": "2020-09-04T00:00:00.000Z",
@@ -34,7 +37,8 @@
       "ia14": 535.6795,
       "taxa_confirmats": 237.9135,
       "confirmats": 159,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 28
     },
     {
       "data": "2020-09-05T00:00:00.000Z",
@@ -43,7 +47,8 @@
       "ia14": 526.7016,
       "taxa_confirmats": 249.884,
       "confirmats": 167,
-      "ingressos": 45
+      "ingressos": 45,
+      "exitus": 26
     },
     {
       "data": "2020-09-06T00:00:00.000Z",
@@ -52,7 +57,8 @@
       "ia14": 523.709,
       "taxa_confirmats": 254.3729,
       "confirmats": 170,
-      "ingressos": 48
+      "ingressos": 48,
+      "exitus": 27
     },
     {
       "data": "2020-09-07T00:00:00.000Z",
@@ -61,7 +67,8 @@
       "ia14": 532.6869,
       "taxa_confirmats": 255.8692,
       "confirmats": 171,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 28
     },
     {
       "data": "2020-09-08T00:00:00.000Z",
@@ -70,7 +77,8 @@
       "ia14": 495.2791,
       "taxa_confirmats": 243.8987,
       "confirmats": 163,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 25
     },
     {
       "data": "2020-09-09T00:00:00.000Z",
@@ -79,7 +87,8 @@
       "ia14": 432.434,
       "taxa_confirmats": 181.0537,
       "confirmats": 121,
-      "ingressos": 46
+      "ingressos": 46,
+      "exitus": 24
     },
     {
       "data": "2020-09-10T00:00:00.000Z",
@@ -88,7 +97,8 @@
       "ia14": 417.4709,
       "taxa_confirmats": 163.0979,
       "confirmats": 109,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 18
     },
     {
       "data": "2020-09-11T00:00:00.000Z",
@@ -97,7 +107,8 @@
       "ia14": 386.0483,
       "taxa_confirmats": 148.1348,
       "confirmats": 99,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 18
     },
     {
       "data": "2020-09-12T00:00:00.000Z",
@@ -106,7 +117,8 @@
       "ia14": 466.8492,
       "taxa_confirmats": 216.9651,
       "confirmats": 145,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 18
     },
     {
       "data": "2020-09-13T00:00:00.000Z",
@@ -115,7 +127,8 @@
       "ia14": 535.6795,
       "taxa_confirmats": 281.3065,
       "confirmats": 188,
-      "ingressos": 33
+      "ingressos": 33,
+      "exitus": 12
     },
     {
       "data": "2020-09-14T00:00:00.000Z",
@@ -124,7 +137,8 @@
       "ia14": 583.5615,
       "taxa_confirmats": 327.6922,
       "confirmats": 219,
-      "ingressos": 29
+      "ingressos": 29,
+      "exitus": 19
     },
     {
       "data": "2020-09-15T00:00:00.000Z",
@@ -133,7 +147,8 @@
       "ia14": 565.6057,
       "taxa_confirmats": 321.7069,
       "confirmats": 215,
-      "ingressos": 30
+      "ingressos": 30,
+      "exitus": 18
     },
     {
       "data": "2020-09-16T00:00:00.000Z",
@@ -142,7 +157,8 @@
       "ia14": 562.6131,
       "taxa_confirmats": 381.5594,
       "confirmats": 255,
-      "ingressos": 38
+      "ingressos": 38,
+      "exitus": 18
     },
     {
       "data": "2020-09-17T00:00:00.000Z",
@@ -151,7 +167,8 @@
       "ia14": 553.6352,
       "taxa_confirmats": 390.5373,
       "confirmats": 261,
-      "ingressos": 34
+      "ingressos": 34,
+      "exitus": 16
     },
     {
       "data": "2020-09-18T00:00:00.000Z",
@@ -160,7 +177,8 @@
       "ia14": 582.0652,
       "taxa_confirmats": 433.9303,
       "confirmats": 290,
-      "ingressos": 36
+      "ingressos": 36,
+      "exitus": 16
     },
     {
       "data": "2020-09-19T00:00:00.000Z",
@@ -169,7 +187,8 @@
       "ia14": 595.532,
       "taxa_confirmats": 378.5668,
       "confirmats": 253,
-      "ingressos": 33
+      "ingressos": 33,
+      "exitus": 22
     },
     {
       "data": "2020-09-20T00:00:00.000Z",
@@ -178,7 +197,8 @@
       "ia14": 601.5172,
       "taxa_confirmats": 320.2106,
       "confirmats": 214,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 22
     },
     {
       "data": "2020-09-21T00:00:00.000Z",
@@ -187,7 +207,8 @@
       "ia14": 626.9545,
       "taxa_confirmats": 299.2623,
       "confirmats": 200,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 19
     },
     {
       "data": "2020-09-22T00:00:00.000Z",
@@ -196,7 +217,8 @@
       "ia14": 629.9471,
       "taxa_confirmats": 308.2401,
       "confirmats": 206,
-      "ingressos": 45
+      "ingressos": 45,
+      "exitus": 20
     },
     {
       "data": "2020-09-23T00:00:00.000Z",
@@ -205,7 +227,8 @@
       "ia14": 629.9471,
       "taxa_confirmats": 248.3877,
       "confirmats": 166,
-      "ingressos": 45
+      "ingressos": 45,
+      "exitus": 24
     },
     {
       "data": "2020-09-24T00:00:00.000Z",
@@ -214,7 +237,8 @@
       "ia14": 643.4139,
       "taxa_confirmats": 252.8766,
       "confirmats": 169,
-      "ingressos": 51
+      "ingressos": 51,
+      "exitus": 32
     },
     {
       "data": "2020-09-25T00:00:00.000Z",
@@ -223,7 +247,8 @@
       "ia14": 661.3697,
       "taxa_confirmats": 227.4393,
       "confirmats": 152,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 34
     },
     {
       "data": "2020-09-26T00:00:00.000Z",
@@ -232,7 +257,8 @@
       "ia14": 586.5541,
       "taxa_confirmats": 207.9873,
       "confirmats": 139,
-      "ingressos": 62
+      "ingressos": 62,
+      "exitus": 29
     },
     {
       "data": "2020-09-27T00:00:00.000Z",
@@ -241,7 +267,8 @@
       "ia14": 514.7311,
       "taxa_confirmats": 194.5205,
       "confirmats": 130,
-      "ingressos": 60
+      "ingressos": 60,
+      "exitus": 34
     },
     {
       "data": "2020-09-28T00:00:00.000Z",
@@ -250,7 +277,8 @@
       "ia14": 504.257,
       "taxa_confirmats": 204.9946,
       "confirmats": 137,
-      "ingressos": 58
+      "ingressos": 58,
+      "exitus": 33
     },
     {
       "data": "2020-09-29T00:00:00.000Z",
@@ -259,7 +287,8 @@
       "ia14": 613.4877,
       "taxa_confirmats": 305.2475,
       "confirmats": 204,
-      "ingressos": 55
+      "ingressos": 55,
+      "exitus": 37
     },
     {
       "data": "2020-09-30T00:00:00.000Z",
@@ -268,7 +297,8 @@
       "ia14": 606.0061,
       "taxa_confirmats": 357.6184,
       "confirmats": 239,
-      "ingressos": 53
+      "ingressos": 53,
+      "exitus": 37
     },
     {
       "data": "2020-10-01T00:00:00.000Z",
@@ -277,7 +307,8 @@
       "ia14": 591.043,
       "taxa_confirmats": 338.1664,
       "confirmats": 226,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 34
     },
     {
       "data": "2020-10-02T00:00:00.000Z",
@@ -286,7 +317,8 @@
       "ia14": 718.2295,
       "taxa_confirmats": 490.7902,
       "confirmats": 328,
-      "ingressos": 58
+      "ingressos": 58,
+      "exitus": 35
     },
     {
       "data": "2020-10-03T00:00:00.000Z",
@@ -295,7 +327,8 @@
       "ia14": 700.2738,
       "taxa_confirmats": 492.2865,
       "confirmats": 329,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 36
     },
     {
       "data": "2020-10-04T00:00:00.000Z",
@@ -304,7 +337,8 @@
       "ia14": 689.7996,
       "taxa_confirmats": 495.2791,
       "confirmats": 331,
-      "ingressos": 57
+      "ingressos": 57,
+      "exitus": 38
     },
     {
       "data": "2020-10-05T00:00:00.000Z",
@@ -313,7 +347,8 @@
       "ia14": 697.2812,
       "taxa_confirmats": 492.2865,
       "confirmats": 329,
-      "ingressos": 66
+      "ingressos": 66,
+      "exitus": 41
     },
     {
       "data": "2020-10-06T00:00:00.000Z",
@@ -322,7 +357,8 @@
       "ia14": 736.1853,
       "taxa_confirmats": 430.9377,
       "confirmats": 288,
-      "ingressos": 68
+      "ingressos": 68,
+      "exitus": 43
     },
     {
       "data": "2020-10-07T00:00:00.000Z",
@@ -331,7 +367,8 @@
       "ia14": 793.0451,
       "taxa_confirmats": 435.4266,
       "confirmats": 291,
-      "ingressos": 73
+      "ingressos": 73,
+      "exitus": 45
     },
     {
       "data": "2020-10-08T00:00:00.000Z",
@@ -340,7 +377,8 @@
       "ia14": 893.298,
       "taxa_confirmats": 555.1316,
       "confirmats": 371,
-      "ingressos": 74
+      "ingressos": 74,
+      "exitus": 46
     },
     {
       "data": "2020-10-09T00:00:00.000Z",
@@ -349,7 +387,8 @@
       "ia14": 932.2021,
       "taxa_confirmats": 441.4119,
       "confirmats": 295,
-      "ingressos": 79
+      "ingressos": 79,
+      "exitus": 50
     },
     {
       "data": "2020-10-10T00:00:00.000Z",
@@ -358,7 +397,8 @@
       "ia14": 950.1578,
       "taxa_confirmats": 457.8713,
       "confirmats": 306,
-      "ingressos": 81
+      "ingressos": 81,
+      "exitus": 57
     },
     {
       "data": "2020-10-11T00:00:00.000Z",
@@ -367,7 +407,8 @@
       "ia14": 1018.9881,
       "taxa_confirmats": 523.709,
       "confirmats": 350,
-      "ingressos": 83
+      "ingressos": 83,
+      "exitus": 55
     },
     {
       "data": "2020-10-12T00:00:00.000Z",
@@ -376,7 +417,8 @@
       "ia14": 968.1135,
       "taxa_confirmats": 475.827,
       "confirmats": 318,
-      "ingressos": 84
+      "ingressos": 84,
+      "exitus": 56
     },
     {
       "data": "2020-10-13T00:00:00.000Z",
@@ -385,7 +427,8 @@
       "ia14": 902.2758,
       "taxa_confirmats": 471.3381,
       "confirmats": 315,
-      "ingressos": 83
+      "ingressos": 83,
+      "exitus": 53
     },
     {
       "data": "2020-10-14T00:00:00.000Z",
@@ -394,7 +437,8 @@
       "ia14": 956.1431,
       "taxa_confirmats": 520.7164,
       "confirmats": 348,
-      "ingressos": 85
+      "ingressos": 85,
+      "exitus": 50
     },
     {
       "data": "2020-10-15T00:00:00.000Z",
@@ -403,7 +447,8 @@
       "ia14": 1090.8111,
       "taxa_confirmats": 535.6795,
       "confirmats": 358,
-      "ingressos": 88
+      "ingressos": 88,
+      "exitus": 50
     },
     {
       "data": "2020-10-16T00:00:00.000Z",
@@ -412,7 +457,8 @@
       "ia14": 1030.9586,
       "taxa_confirmats": 589.5467,
       "confirmats": 394,
-      "ingressos": 87
+      "ingressos": 87,
+      "exitus": 54
     },
     {
       "data": "2020-10-17T00:00:00.000Z",
@@ -421,7 +467,8 @@
       "ia14": 1072.8554,
       "taxa_confirmats": 614.984,
       "confirmats": 411,
-      "ingressos": 92
+      "ingressos": 92,
+      "exitus": 50
     },
     {
       "data": "2020-10-18T00:00:00.000Z",
@@ -430,7 +477,8 @@
       "ia14": 1105.7742,
       "taxa_confirmats": 582.0652,
       "confirmats": 389,
-      "ingressos": 94
+      "ingressos": 94,
+      "exitus": 49
     },
     {
       "data": "2020-10-19T00:00:00.000Z",
@@ -439,7 +487,8 @@
       "ia14": 1276.3537,
       "taxa_confirmats": 800.5267,
       "confirmats": 535,
-      "ingressos": 95
+      "ingressos": 95,
+      "exitus": 58
     },
     {
       "data": "2020-10-20T00:00:00.000Z",
@@ -448,7 +497,8 @@
       "ia14": 1587.5865,
       "taxa_confirmats": 1116.2484,
       "confirmats": 746,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 56
     },
     {
       "data": "2020-10-21T00:00:00.000Z",
@@ -457,7 +507,8 @@
       "ia14": 1951.1903,
       "taxa_confirmats": 1430.4738,
       "confirmats": 956,
-      "ingressos": 105
+      "ingressos": 105,
+      "exitus": 55
     },
     {
       "data": "2020-10-22T00:00:00.000Z",
@@ -466,7 +517,8 @@
       "ia14": 2239.9784,
       "taxa_confirmats": 1704.2989,
       "confirmats": 1139,
-      "ingressos": 110
+      "ingressos": 110,
+      "exitus": 60
     },
     {
       "data": "2020-10-23T00:00:00.000Z",
@@ -475,7 +527,8 @@
       "ia14": 2480.8846,
       "taxa_confirmats": 1891.3378,
       "confirmats": 1264,
-      "ingressos": 115
+      "ingressos": 115,
+      "exitus": 58
     },
     {
       "data": "2020-10-24T00:00:00.000Z",
@@ -484,7 +537,8 @@
       "ia14": 2603.5821,
       "taxa_confirmats": 1988.5981,
       "confirmats": 1329,
-      "ingressos": 118
+      "ingressos": 118,
+      "exitus": 60
     },
     {
       "data": "2020-10-25T00:00:00.000Z",
@@ -493,7 +547,8 @@
       "ia14": 2617.0489,
       "taxa_confirmats": 2034.9837,
       "confirmats": 1360,
-      "ingressos": 129
+      "ingressos": 129,
+      "exitus": 65
     },
     {
       "data": "2020-10-26T00:00:00.000Z",
@@ -502,7 +557,8 @@
       "ia14": 2851.9698,
       "taxa_confirmats": 2051.4431,
       "confirmats": 1371,
-      "ingressos": 147
+      "ingressos": 147,
+      "exitus": 64
     },
     {
       "data": "2020-10-27T00:00:00.000Z",
@@ -511,7 +567,8 @@
       "ia14": 3104.8465,
       "taxa_confirmats": 1988.5981,
       "confirmats": 1329,
-      "ingressos": 151
+      "ingressos": 151,
+      "exitus": 71
     },
     {
       "data": "2020-10-28T00:00:00.000Z",
@@ -520,7 +577,8 @@
       "ia14": 3197.6178,
       "taxa_confirmats": 1767.1439,
       "confirmats": 1181,
-      "ingressos": 148
+      "ingressos": 148,
+      "exitus": 81
     },
     {
       "data": "2020-10-29T00:00:00.000Z",
@@ -529,7 +587,8 @@
       "ia14": 3221.5588,
       "taxa_confirmats": 1517.2599,
       "confirmats": 1014,
-      "ingressos": 144
+      "ingressos": 144,
+      "exitus": 78
     },
     {
       "data": "2020-10-30T00:00:00.000Z",
@@ -538,7 +597,8 @@
       "ia14": 3354.7305,
       "taxa_confirmats": 1463.3927,
       "confirmats": 978,
-      "ingressos": 152
+      "ingressos": 152,
+      "exitus": 94
     },
     {
       "data": "2020-10-31T00:00:00.000Z",
@@ -547,7 +607,8 @@
       "ia14": 3453.4871,
       "taxa_confirmats": 1464.889,
       "confirmats": 979,
-      "ingressos": 162
+      "ingressos": 162,
+      "exitus": 112
     },
     {
       "data": "2020-11-01T00:00:00.000Z",
@@ -556,7 +617,8 @@
       "ia14": 3511.8433,
       "taxa_confirmats": 1476.8595,
       "confirmats": 987,
-      "ingressos": 156
+      "ingressos": 156,
+      "exitus": 121
     },
     {
       "data": "2020-11-02T00:00:00.000Z",
@@ -565,7 +627,8 @@
       "ia14": 3534.2879,
       "taxa_confirmats": 1482.8447,
       "confirmats": 991,
-      "ingressos": 153
+      "ingressos": 153,
+      "exitus": 126
     },
     {
       "data": "2020-11-03T00:00:00.000Z",
@@ -574,7 +637,8 @@
       "ia14": 3495.3838,
       "taxa_confirmats": 1506.7857,
       "confirmats": 1007,
-      "ingressos": 163
+      "ingressos": 163,
+      "exitus": 143
     },
     {
       "data": "2020-11-04T00:00:00.000Z",
@@ -583,7 +647,8 @@
       "ia14": 3288.8928,
       "taxa_confirmats": 1521.7488,
       "confirmats": 1017,
-      "ingressos": 189
+      "ingressos": 189,
+      "exitus": 147
     },
     {
       "data": "2020-11-05T00:00:00.000Z",
@@ -592,7 +657,8 @@
       "ia14": 3139.2617,
       "taxa_confirmats": 1622.0017,
       "confirmats": 1084,
-      "ingressos": 189
+      "ingressos": 189,
+      "exitus": 166
     },
     {
       "data": "2020-11-06T00:00:00.000Z",
@@ -601,7 +667,8 @@
       "ia14": 3025.542,
       "taxa_confirmats": 1562.1493,
       "confirmats": 1044,
-      "ingressos": 178
+      "ingressos": 178,
+      "exitus": 163
     },
     {
       "data": "2020-11-07T00:00:00.000Z",
@@ -610,7 +677,8 @@
       "ia14": 3086.8908,
       "taxa_confirmats": 1622.0017,
       "confirmats": 1084,
-      "ingressos": 179
+      "ingressos": 179,
+      "exitus": 152
     },
     {
       "data": "2020-11-08T00:00:00.000Z",
@@ -619,7 +687,8 @@
       "ia14": 3040.5051,
       "taxa_confirmats": 1563.6456,
       "confirmats": 1045,
-      "ingressos": 175
+      "ingressos": 175,
+      "exitus": 160
     },
     {
       "data": "2020-11-09T00:00:00.000Z",
@@ -628,7 +697,8 @@
       "ia14": 2979.1563,
       "taxa_confirmats": 1496.3115,
       "confirmats": 1000,
-      "ingressos": 165
+      "ingressos": 165,
+      "exitus": 165
     },
     {
       "data": "2020-11-10T00:00:00.000Z",
@@ -637,7 +707,8 @@
       "ia14": 3009.0826,
       "taxa_confirmats": 1502.2968,
       "confirmats": 1004,
-      "ingressos": 153
+      "ingressos": 153,
+      "exitus": 161
     },
     {
       "data": "2020-11-11T00:00:00.000Z",
@@ -646,7 +717,8 @@
       "ia14": 2982.149,
       "taxa_confirmats": 1460.4001,
       "confirmats": 976,
-      "ingressos": 134
+      "ingressos": 134,
+      "exitus": 170
     },
     {
       "data": "2020-11-12T00:00:00.000Z",
@@ -655,7 +727,8 @@
       "ia14": 3030.0309,
       "taxa_confirmats": 1408.0292,
       "confirmats": 941,
-      "ingressos": 141
+      "ingressos": 141,
+      "exitus": 166
     },
     {
       "data": "2020-11-13T00:00:00.000Z",
@@ -664,7 +737,8 @@
       "ia14": 2985.1416,
       "taxa_confirmats": 1422.9923,
       "confirmats": 951,
-      "ingressos": 147
+      "ingressos": 147,
+      "exitus": 162
     },
     {
       "data": "2020-11-14T00:00:00.000Z",
@@ -673,7 +747,8 @@
       "ia14": 2923.7928,
       "taxa_confirmats": 1301.791,
       "confirmats": 870,
-      "ingressos": 136
+      "ingressos": 136,
+      "exitus": 167
     },
     {
       "data": "2020-11-15T00:00:00.000Z",
@@ -682,7 +757,8 @@
       "ia14": 2851.9698,
       "taxa_confirmats": 1288.3242,
       "confirmats": 861,
-      "ingressos": 136
+      "ingressos": 136,
+      "exitus": 161
     },
     {
       "data": "2020-11-16T00:00:00.000Z",
@@ -691,7 +767,8 @@
       "ia14": 2724.7834,
       "taxa_confirmats": 1228.4718,
       "confirmats": 821,
-      "ingressos": 151
+      "ingressos": 151,
+      "exitus": 154
     },
     {
       "data": "2020-11-17T00:00:00.000Z",
@@ -700,7 +777,8 @@
       "ia14": 2596.1006,
       "taxa_confirmats": 1093.8037,
       "confirmats": 731,
-      "ingressos": 147
+      "ingressos": 147,
+      "exitus": 157
     },
     {
       "data": "2020-11-18T00:00:00.000Z",
@@ -709,7 +787,8 @@
       "ia14": 2543.7297,
       "taxa_confirmats": 1083.3295,
       "confirmats": 724,
-      "ingressos": 138
+      "ingressos": 138,
+      "exitus": 157
     },
     {
       "data": "2020-11-19T00:00:00.000Z",
@@ -718,7 +797,8 @@
       "ia14": 2462.9288,
       "taxa_confirmats": 1054.8996,
       "confirmats": 705,
-      "ingressos": 136
+      "ingressos": 136,
+      "exitus": 156
     },
     {
       "data": "2020-11-20T00:00:00.000Z",
@@ -727,7 +807,8 @@
       "ia14": 2470.4104,
       "taxa_confirmats": 1047.4181,
       "confirmats": 700,
-      "ingressos": 126
+      "ingressos": 126,
+      "exitus": 146
     },
     {
       "data": "2020-11-21T00:00:00.000Z",
@@ -736,7 +817,8 @@
       "ia14": 2311.8014,
       "taxa_confirmats": 1010.0103,
       "confirmats": 675,
-      "ingressos": 126
+      "ingressos": 126,
+      "exitus": 137
     },
     {
       "data": "2020-11-22T00:00:00.000Z",
@@ -745,7 +827,8 @@
       "ia14": 2284.8678,
       "taxa_confirmats": 996.5435,
       "confirmats": 666,
-      "ingressos": 120
+      "ingressos": 120,
+      "exitus": 130
     },
     {
       "data": "2020-11-23T00:00:00.000Z",
@@ -754,7 +837,8 @@
       "ia14": 2183.1186,
       "taxa_confirmats": 954.6467,
       "confirmats": 638,
-      "ingressos": 93
+      "ingressos": 93,
+      "exitus": 127
     },
     {
       "data": "2020-11-24T00:00:00.000Z",
@@ -763,7 +847,8 @@
       "ia14": 2061.9173,
       "taxa_confirmats": 968.1135,
       "confirmats": 647,
-      "ingressos": 93
+      "ingressos": 93,
+      "exitus": 107
     },
     {
       "data": "2020-11-25T00:00:00.000Z",
@@ -772,7 +857,8 @@
       "ia14": 1981.1165,
       "taxa_confirmats": 897.7869,
       "confirmats": 600,
-      "ingressos": 94
+      "ingressos": 94,
+      "exitus": 109
     },
     {
       "data": "2020-11-26T00:00:00.000Z",
@@ -781,7 +867,8 @@
       "ia14": 1921.264,
       "taxa_confirmats": 866.3644,
       "confirmats": 579,
-      "ingressos": 85
+      "ingressos": 85,
+      "exitus": 107
     },
     {
       "data": "2020-11-27T00:00:00.000Z",
@@ -790,7 +877,8 @@
       "ia14": 1859.9153,
       "taxa_confirmats": 812.4971,
       "confirmats": 543,
-      "ingressos": 86
+      "ingressos": 86,
+      "exitus": 109
     },
     {
       "data": "2020-11-28T00:00:00.000Z",
@@ -799,7 +887,8 @@
       "ia14": 1831.4853,
       "taxa_confirmats": 821.475,
       "confirmats": 549,
-      "ingressos": 91
+      "ingressos": 91,
+      "exitus": 124
     },
     {
       "data": "2020-11-29T00:00:00.000Z",
@@ -808,7 +897,8 @@
       "ia14": 1868.8931,
       "taxa_confirmats": 872.3496,
       "confirmats": 583,
-      "ingressos": 95
+      "ingressos": 95,
+      "exitus": 127
     },
     {
       "data": "2020-11-30T00:00:00.000Z",
@@ -817,7 +907,8 @@
       "ia14": 1840.4632,
       "taxa_confirmats": 885.8164,
       "confirmats": 592,
-      "ingressos": 98
+      "ingressos": 98,
+      "exitus": 130
     },
     {
       "data": "2020-12-01T00:00:00.000Z",
@@ -826,7 +917,8 @@
       "ia14": 1744.6993,
       "taxa_confirmats": 776.5857,
       "confirmats": 519,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 141
     },
     {
       "data": "2020-12-02T00:00:00.000Z",
@@ -835,7 +927,8 @@
       "ia14": 1669.8837,
       "taxa_confirmats": 772.0967,
       "confirmats": 516,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 127
     },
     {
       "data": "2020-12-03T00:00:00.000Z",
@@ -844,7 +937,8 @@
       "ia14": 1571.1271,
       "taxa_confirmats": 704.7627,
       "confirmats": 471,
-      "ingressos": 101
+      "ingressos": 101,
+      "exitus": 125
     },
     {
       "data": "2020-12-04T00:00:00.000Z",
@@ -853,7 +947,8 @@
       "ia14": 1457.4074,
       "taxa_confirmats": 644.9102,
       "confirmats": 431,
-      "ingressos": 97
+      "ingressos": 97,
+      "exitus": 127
     },
     {
       "data": "2020-12-05T00:00:00.000Z",
@@ -862,7 +957,8 @@
       "ia14": 1427.4812,
       "taxa_confirmats": 606.0061,
       "confirmats": 405,
-      "ingressos": 91
+      "ingressos": 91,
+      "exitus": 113
     },
     {
       "data": "2020-12-06T00:00:00.000Z",
@@ -871,7 +967,8 @@
       "ia14": 1428.9775,
       "taxa_confirmats": 556.6279,
       "confirmats": 372,
-      "ingressos": 89
+      "ingressos": 89,
+      "exitus": 118
     },
     {
       "data": "2020-12-07T00:00:00.000Z",
@@ -880,7 +977,8 @@
       "ia14": 1535.2156,
       "taxa_confirmats": 649.3992,
       "confirmats": 434,
-      "ingressos": 92
+      "ingressos": 92,
+      "exitus": 111
     },
     {
       "data": "2020-12-08T00:00:00.000Z",
@@ -889,7 +987,8 @@
       "ia14": 1357.1546,
       "taxa_confirmats": 580.5688,
       "confirmats": 388,
-      "ingressos": 87
+      "ingressos": 87,
+      "exitus": 108
     },
     {
       "data": "2020-12-09T00:00:00.000Z",
@@ -898,7 +997,8 @@
       "ia14": 1406.5328,
       "taxa_confirmats": 634.4361,
       "confirmats": 424,
-      "ingressos": 93
+      "ingressos": 93,
+      "exitus": 113
     },
     {
       "data": "2020-12-10T00:00:00.000Z",
@@ -907,7 +1007,8 @@
       "ia14": 1403.5402,
       "taxa_confirmats": 698.7775,
       "confirmats": 467,
-      "ingressos": 93
+      "ingressos": 93,
+      "exitus": 115
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
@@ -916,7 +1017,8 @@
       "ia14": 1357.1546,
       "taxa_confirmats": 712.2443,
       "confirmats": 476,
-      "ingressos": 98
+      "ingressos": 98,
+      "exitus": 115
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
@@ -925,7 +1027,8 @@
       "ia14": 1364.6361,
       "taxa_confirmats": 758.6299,
       "confirmats": 507,
-      "ingressos": 97
+      "ingressos": 97,
+      "exitus": 116
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
@@ -934,7 +1037,8 @@
       "ia14": 1337.7025,
       "taxa_confirmats": 781.0746,
       "confirmats": 522,
-      "ingressos": 99
+      "ingressos": 99,
+      "exitus": 106
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
@@ -943,7 +1047,8 @@
       "ia14": 1349.673,
       "taxa_confirmats": 700.2738,
       "confirmats": 468,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 106
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
@@ -952,7 +1057,8 @@
       "ia14": 1475.3632,
       "taxa_confirmats": 894.7943,
       "confirmats": 598,
-      "ingressos": 101
+      "ingressos": 101,
+      "exitus": 104
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
@@ -961,7 +1067,8 @@
       "ia14": 1554.6677,
       "taxa_confirmats": 920.2316,
       "confirmats": 615,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 96
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
@@ -970,7 +1077,8 @@
       "ia14": 1601.0534,
       "taxa_confirmats": 902.2758,
       "confirmats": 603,
-      "ingressos": 106
+      "ingressos": 106,
+      "exitus": 87
     },
     {
       "data": "2020-12-18T00:00:00.000Z",
@@ -979,7 +1087,8 @@
       "ia14": 1607.0386,
       "taxa_confirmats": 894.7943,
       "confirmats": 598,
-      "ingressos": 102
+      "ingressos": 102,
+      "exitus": 83
     },
     {
       "data": "2020-12-19T00:00:00.000Z",
@@ -988,7 +1097,8 @@
       "ia14": 1607.0386,
       "taxa_confirmats": 848.4086,
       "confirmats": 567,
-      "ingressos": 95
+      "ingressos": 95,
+      "exitus": 82
     },
     {
       "data": "2020-12-20T00:00:00.000Z",
@@ -997,7 +1107,8 @@
       "ia14": 1638.4611,
       "taxa_confirmats": 857.3865,
       "confirmats": 573,
-      "ingressos": 95
+      "ingressos": 95,
+      "exitus": 80
     },
     {
       "data": "2020-12-21T00:00:00.000Z",
@@ -1006,7 +1117,8 @@
       "ia14": 1583.0976,
       "taxa_confirmats": 882.8238,
       "confirmats": 590,
-      "ingressos": 105
+      "ingressos": 105,
+      "exitus": 86
     },
     {
       "data": "2020-12-22T00:00:00.000Z",
@@ -1015,7 +1127,8 @@
       "ia14": 1678.8616,
       "taxa_confirmats": 784.0672,
       "confirmats": 524,
-      "ingressos": 113
+      "ingressos": 113,
+      "exitus": 93
     },
     {
       "data": "2020-12-23T00:00:00.000Z",
@@ -1024,7 +1137,8 @@
       "ia14": 1699.8099,
       "taxa_confirmats": 779.5783,
       "confirmats": 521,
-      "ingressos": 111
+      "ingressos": 111,
+      "exitus": 100
     },
     {
       "data": "2020-12-24T00:00:00.000Z",
@@ -1033,7 +1147,8 @@
       "ia14": 1620.5054,
       "taxa_confirmats": 718.2295,
       "confirmats": 480,
-      "ingressos": 111
+      "ingressos": 111,
+      "exitus": 103
     },
     {
       "data": "2020-12-25T00:00:00.000Z",
@@ -1042,7 +1157,8 @@
       "ia14": 1536.712,
       "taxa_confirmats": 641.9176,
       "confirmats": 429,
-      "ingressos": 117
+      "ingressos": 117,
+      "exitus": 105
     },
     {
       "data": "2020-12-26T00:00:00.000Z",
@@ -1051,7 +1167,8 @@
       "ia14": 1533.7193,
       "taxa_confirmats": 685.3107,
       "confirmats": 458,
-      "ingressos": 119
+      "ingressos": 119,
+      "exitus": 107
     },
     {
       "data": "2020-12-27T00:00:00.000Z",
@@ -1060,7 +1177,8 @@
       "ia14": 1523.2452,
       "taxa_confirmats": 665.8586,
       "confirmats": 445,
-      "ingressos": 117
+      "ingressos": 117,
+      "exitus": 115
     },
     {
       "data": "2020-12-28T00:00:00.000Z",
@@ -1069,7 +1187,8 @@
       "ia14": 1613.0238,
       "taxa_confirmats": 730.2,
       "confirmats": 488,
-      "ingressos": 111
+      "ingressos": 111,
+      "exitus": 108
     },
     {
       "data": "2020-12-29T00:00:00.000Z",
@@ -1078,7 +1197,8 @@
       "ia14": 1490.3263,
       "taxa_confirmats": 706.259,
       "confirmats": 472,
-      "ingressos": 109
+      "ingressos": 109,
+      "exitus": 96
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
@@ -1087,7 +1207,8 @@
       "ia14": 1475.3632,
       "taxa_confirmats": 695.7848,
       "confirmats": 465,
-      "ingressos": 104
+      "ingressos": 104,
+      "exitus": 90
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
@@ -1096,7 +1217,8 @@
       "ia14": 1494.8152,
       "taxa_confirmats": 776.5857,
       "confirmats": 519,
-      "ingressos": 109
+      "ingressos": 109,
+      "exitus": 90
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
@@ -1105,7 +1227,8 @@
       "ia14": 1454.4148,
       "taxa_confirmats": 812.4971,
       "confirmats": 543,
-      "ingressos": 107
+      "ingressos": 107,
+      "exitus": 86
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
@@ -1114,7 +1237,8 @@
       "ia14": 1529.2304,
       "taxa_confirmats": 843.9197,
       "confirmats": 564,
-      "ingressos": 111
+      "ingressos": 111,
+      "exitus": 88
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
@@ -1123,7 +1247,8 @@
       "ia14": 1568.1345,
       "taxa_confirmats": 902.2758,
       "confirmats": 603,
-      "ingressos": 122
+      "ingressos": 122,
+      "exitus": 72
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
@@ -1132,7 +1257,8 @@
       "ia14": 1584.5939,
       "taxa_confirmats": 854.3939,
       "confirmats": 571,
-      "ingressos": 112
+      "ingressos": 112,
+      "exitus": 69
     },
     {
       "data": "2021-01-05T00:00:00.000Z",
@@ -1141,7 +1267,8 @@
       "ia14": 1616.0165,
       "taxa_confirmats": 909.7574,
       "confirmats": 608,
-      "ingressos": 113
+      "ingressos": 113,
+      "exitus": 86
     },
     {
       "data": "2021-01-06T00:00:00.000Z",
@@ -1150,7 +1277,8 @@
       "ia14": 1503.7931,
       "taxa_confirmats": 808.0082,
       "confirmats": 540,
-      "ingressos": 114
+      "ingressos": 114,
+      "exitus": 94
     },
     {
       "data": "2021-01-07T00:00:00.000Z",
@@ -1159,7 +1287,8 @@
       "ia14": 1731.2325,
       "taxa_confirmats": 954.6467,
       "confirmats": 638,
-      "ingressos": 115
+      "ingressos": 115,
+      "exitus": 95
     },
     {
       "data": "2021-01-08T00:00:00.000Z",
@@ -1168,7 +1297,8 @@
       "ia14": 1966.1534,
       "taxa_confirmats": 1153.6562,
       "confirmats": 771,
-      "ingressos": 118
+      "ingressos": 118,
+      "exitus": 105
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
@@ -1177,7 +1307,8 @@
       "ia14": 2009.5464,
       "taxa_confirmats": 1165.6267,
       "confirmats": 779,
-      "ingressos": 126
+      "ingressos": 126,
+      "exitus": 111
     },
     {
       "data": "2021-01-10T00:00:00.000Z",
@@ -1186,7 +1317,8 @@
       "ia14": 2063.4136,
       "taxa_confirmats": 1161.1377,
       "confirmats": 776,
-      "ingressos": 122
+      "ingressos": 122,
+      "exitus": 123
     },
     {
       "data": "2021-01-11T00:00:00.000Z",
@@ -1195,7 +1327,8 @@
       "ia14": 2166.6591,
       "taxa_confirmats": 1312.2652,
       "confirmats": 877,
-      "ingressos": 139
+      "ingressos": 139,
+      "exitus": 130
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
@@ -1204,7 +1337,8 @@
       "ia14": 2361.1796,
       "taxa_confirmats": 1451.4222,
       "confirmats": 970,
-      "ingressos": 155
+      "ingressos": 155,
+      "exitus": 127
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
@@ -1213,7 +1347,8 @@
       "ia14": 2430.01,
       "taxa_confirmats": 1622.0017,
       "confirmats": 1084,
-      "ingressos": 164
+      "ingressos": 164,
+      "exitus": 123
     },
     {
       "data": "2021-01-14T00:00:00.000Z",
@@ -1222,7 +1357,8 @@
       "ia14": 2438.9878,
       "taxa_confirmats": 1484.341,
       "confirmats": 992,
-      "ingressos": 172
+      "ingressos": 172,
+      "exitus": 127
     },
     {
       "data": "2021-01-15T00:00:00.000Z",
@@ -1231,7 +1367,8 @@
       "ia14": 2560.1891,
       "taxa_confirmats": 1406.5328,
       "confirmats": 940,
-      "ingressos": 177
+      "ingressos": 177,
+      "exitus": 129
     },
     {
       "data": "2021-01-16T00:00:00.000Z",
@@ -1240,7 +1377,8 @@
       "ia14": 2587.1227,
       "taxa_confirmats": 1421.496,
       "confirmats": 950,
-      "ingressos": 175
+      "ingressos": 175,
+      "exitus": 128
     },
     {
       "data": "2021-01-17T00:00:00.000Z",
@@ -1249,7 +1387,8 @@
       "ia14": 2567.6706,
       "taxa_confirmats": 1406.5328,
       "confirmats": 940,
-      "ingressos": 183
+      "ingressos": 183,
+      "exitus": 137
     },
     {
       "data": "2021-01-18T00:00:00.000Z",
@@ -1258,7 +1397,8 @@
       "ia14": 2635.0047,
       "taxa_confirmats": 1322.7394,
       "confirmats": 884,
-      "ingressos": 179
+      "ingressos": 179,
+      "exitus": 145
     },
     {
       "data": "2021-01-19T00:00:00.000Z",
@@ -1267,7 +1407,8 @@
       "ia14": 2825.0362,
       "taxa_confirmats": 1373.614,
       "confirmats": 918,
-      "ingressos": 180
+      "ingressos": 180,
+      "exitus": 152
     },
     {
       "data": "2021-01-20T00:00:00.000Z",
@@ -1276,7 +1417,8 @@
       "ia14": 2944.7412,
       "taxa_confirmats": 1322.7394,
       "confirmats": 884,
-      "ingressos": 179
+      "ingressos": 179,
+      "exitus": 158
     },
     {
       "data": "2021-01-21T00:00:00.000Z",
@@ -1285,7 +1427,8 @@
       "ia14": 2762.1911,
       "taxa_confirmats": 1277.85,
       "confirmats": 854,
-      "ingressos": 174
+      "ingressos": 174,
+      "exitus": 162
     },
     {
       "data": "2021-01-22T00:00:00.000Z",
@@ -1294,7 +1437,8 @@
       "ia14": 2614.0563,
       "taxa_confirmats": 1207.5234,
       "confirmats": 807,
-      "ingressos": 175
+      "ingressos": 175,
+      "exitus": 174
     },
     {
       "data": "2021-01-23T00:00:00.000Z",
@@ -1303,7 +1447,8 @@
       "ia14": 2566.1743,
       "taxa_confirmats": 1144.6783,
       "confirmats": 765,
-      "ingressos": 171
+      "ingressos": 171,
+      "exitus": 171
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
@@ -1312,7 +1457,8 @@
       "ia14": 2531.7592,
       "taxa_confirmats": 1125.2263,
       "confirmats": 752,
-      "ingressos": 165
+      "ingressos": 165,
+      "exitus": 176
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
@@ -1321,7 +1467,8 @@
       "ia14": 2415.0469,
       "taxa_confirmats": 1092.3074,
       "confirmats": 730,
-      "ingressos": 167
+      "ingressos": 167,
+      "exitus": 188
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
@@ -1330,7 +1477,8 @@
       "ia14": 2223.519,
       "taxa_confirmats": 849.9049,
       "confirmats": 568,
-      "ingressos": 149
+      "ingressos": 149,
+      "exitus": 174
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
@@ -1339,7 +1487,8 @@
       "ia14": 2061.9173,
       "taxa_confirmats": 739.1779,
       "confirmats": 494,
-      "ingressos": 145
+      "ingressos": 145,
+      "exitus": 176
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
@@ -1348,7 +1497,8 @@
       "ia14": 2009.5464,
       "taxa_confirmats": 731.6963,
       "confirmats": 489,
-      "ingressos": 151
+      "ingressos": 151,
+      "exitus": 168
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
@@ -1357,7 +1507,8 @@
       "ia14": 1930.2419,
       "taxa_confirmats": 722.7184,
       "confirmats": 483,
-      "ingressos": 145
+      "ingressos": 145,
+      "exitus": 168
     },
     {
       "data": "2021-01-30T00:00:00.000Z",
@@ -1366,7 +1517,8 @@
       "ia14": 1867.3968,
       "taxa_confirmats": 722.7184,
       "confirmats": 483,
-      "ingressos": 143
+      "ingressos": 143,
+      "exitus": 170
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
@@ -1375,7 +1527,8 @@
       "ia14": 1832.9817,
       "taxa_confirmats": 707.7553,
       "confirmats": 473,
-      "ingressos": 135
+      "ingressos": 135,
+      "exitus": 158
     },
     {
       "data": "2021-02-01T00:00:00.000Z",
@@ -1384,7 +1537,8 @@
       "ia14": 1711.7804,
       "taxa_confirmats": 619.4729,
       "confirmats": 414,
-      "ingressos": 123
+      "ingressos": 123,
+      "exitus": 141
     },
     {
       "data": "2021-02-02T00:00:00.000Z",
@@ -1393,7 +1547,8 @@
       "ia14": 1436.4591,
       "taxa_confirmats": 586.5541,
       "confirmats": 392,
-      "ingressos": 115
+      "ingressos": 115,
+      "exitus": 137
     },
     {
       "data": "2021-02-03T00:00:00.000Z",
@@ -1402,7 +1557,8 @@
       "ia14": 1298.7984,
       "taxa_confirmats": 559.6205,
       "confirmats": 374,
-      "ingressos": 107
+      "ingressos": 107,
+      "exitus": 125
     },
     {
       "data": "2021-02-04T00:00:00.000Z",
@@ -1411,7 +1567,8 @@
       "ia14": 1241.9386,
       "taxa_confirmats": 510.2422,
       "confirmats": 341,
-      "ingressos": 85
+      "ingressos": 85,
+      "exitus": 126
     },
     {
       "data": "2021-02-05T00:00:00.000Z",
@@ -1420,7 +1577,8 @@
       "ia14": 1179.0935,
       "taxa_confirmats": 456.375,
       "confirmats": 305,
-      "ingressos": 78
+      "ingressos": 78,
+      "exitus": 108
     },
     {
       "data": "2021-02-06T00:00:00.000Z",
@@ -1429,7 +1587,8 @@
       "ia14": 1131.2115,
       "taxa_confirmats": 408.493,
       "confirmats": 273,
-      "ingressos": 72
+      "ingressos": 72,
+      "exitus": 103
     },
     {
       "data": "2021-02-07T00:00:00.000Z",
@@ -1438,7 +1597,8 @@
       "ia14": 1093.8037,
       "taxa_confirmats": 386.0483,
       "confirmats": 258,
-      "ingressos": 73
+      "ingressos": 73,
+      "exitus": 100
     },
     {
       "data": "2021-02-08T00:00:00.000Z",
@@ -1447,7 +1607,8 @@
       "ia14": 957.6394,
       "taxa_confirmats": 338.1664,
       "confirmats": 226,
-      "ingressos": 67
+      "ingressos": 67,
+      "exitus": 96
     },
     {
       "data": "2021-02-09T00:00:00.000Z",
@@ -1456,7 +1617,8 @@
       "ia14": 939.6836,
       "taxa_confirmats": 353.1295,
       "confirmats": 236,
-      "ingressos": 66
+      "ingressos": 66,
+      "exitus": 87
     },
     {
       "data": "2021-02-10T00:00:00.000Z",
@@ -1465,7 +1627,8 @@
       "ia14": 902.2758,
       "taxa_confirmats": 342.6553,
       "confirmats": 229,
-      "ingressos": 60
+      "ingressos": 60,
+      "exitus": 87
     },
     {
       "data": "2021-02-11T00:00:00.000Z",
@@ -1474,7 +1637,8 @@
       "ia14": 813.9935,
       "taxa_confirmats": 303.7512,
       "confirmats": 203,
-      "ingressos": 60
+      "ingressos": 60,
+      "exitus": 73
     },
     {
       "data": "2021-02-12T00:00:00.000Z",
@@ -1483,7 +1647,8 @@
       "ia14": 730.2,
       "taxa_confirmats": 273.825,
       "confirmats": 183,
-      "ingressos": 52
+      "ingressos": 52,
+      "exitus": 64
     },
     {
       "data": "2021-02-13T00:00:00.000Z",
@@ -1492,7 +1657,8 @@
       "ia14": 680.8217,
       "taxa_confirmats": 272.3287,
       "confirmats": 182,
-      "ingressos": 51
+      "ingressos": 51,
+      "exitus": 62
     },
     {
       "data": "2021-02-14T00:00:00.000Z",
@@ -1501,7 +1667,8 @@
       "ia14": 659.8734,
       "taxa_confirmats": 273.825,
       "confirmats": 183,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 51
     },
     {
       "data": "2021-02-15T00:00:00.000Z",
@@ -1510,7 +1677,8 @@
       "ia14": 585.0578,
       "taxa_confirmats": 246.8914,
       "confirmats": 165,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 40
     },
     {
       "data": "2021-02-16T00:00:00.000Z",
@@ -1519,7 +1687,8 @@
       "ia14": 507.2496,
       "taxa_confirmats": 154.12,
       "confirmats": 103,
-      "ingressos": 38
+      "ingressos": 38,
+      "exitus": 39
     },
     {
       "data": "2021-02-17T00:00:00.000Z",
@@ -1528,7 +1697,8 @@
       "ia14": 460.8639,
       "taxa_confirmats": 118.2086,
       "confirmats": 79,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 33
     },
     {
       "data": "2021-02-18T00:00:00.000Z",
@@ -1537,7 +1707,8 @@
       "ia14": 420.4635,
       "taxa_confirmats": 116.7123,
       "confirmats": 78,
-      "ingressos": 31
+      "ingressos": 31,
+      "exitus": 33
     },
     {
       "data": "2021-02-19T00:00:00.000Z",
@@ -1546,7 +1717,8 @@
       "ia14": 402.5078,
       "taxa_confirmats": 128.6827,
       "confirmats": 86,
-      "ingressos": 31
+      "ingressos": 31,
+      "exitus": 31
     }
   ],
   "no": [
@@ -1557,7 +1729,8 @@
       "ia14": 194.8038,
       "taxa_confirmats": 95.6719,
       "confirmats": 7300,
-      "ingressos": 452
+      "ingressos": 452,
+      "exitus": 48
     },
     {
       "data": "2020-09-02T00:00:00.000Z",
@@ -1566,7 +1739,8 @@
       "ia14": 192.5759,
       "taxa_confirmats": 92.4872,
       "confirmats": 7057,
-      "ingressos": 456
+      "ingressos": 456,
+      "exitus": 50
     },
     {
       "data": "2020-09-03T00:00:00.000Z",
@@ -1575,7 +1749,8 @@
       "ia14": 191.973,
       "taxa_confirmats": 91.9106,
       "confirmats": 7013,
-      "ingressos": 424
+      "ingressos": 424,
+      "exitus": 46
     },
     {
       "data": "2020-09-04T00:00:00.000Z",
@@ -1584,7 +1759,8 @@
       "ia14": 191.4881,
       "taxa_confirmats": 92.3955,
       "confirmats": 7050,
-      "ingressos": 438
+      "ingressos": 438,
+      "exitus": 49
     },
     {
       "data": "2020-09-05T00:00:00.000Z",
@@ -1593,7 +1769,8 @@
       "ia14": 191.2522,
       "taxa_confirmats": 92.0941,
       "confirmats": 7027,
-      "ingressos": 446
+      "ingressos": 446,
+      "exitus": 55
     },
     {
       "data": "2020-09-06T00:00:00.000Z",
@@ -1602,7 +1779,8 @@
       "ia14": 190.2692,
       "taxa_confirmats": 90.5345,
       "confirmats": 6908,
-      "ingressos": 456
+      "ingressos": 456,
+      "exitus": 53
     },
     {
       "data": "2020-09-07T00:00:00.000Z",
@@ -1611,7 +1789,8 @@
       "ia14": 187.8185,
       "taxa_confirmats": 90.3379,
       "confirmats": 6893,
-      "ingressos": 460
+      "ingressos": 460,
+      "exitus": 53
     },
     {
       "data": "2020-09-08T00:00:00.000Z",
@@ -1620,7 +1799,8 @@
       "ia14": 185.9312,
       "taxa_confirmats": 90.2593,
       "confirmats": 6887,
-      "ingressos": 470
+      "ingressos": 470,
+      "exitus": 50
     },
     {
       "data": "2020-09-09T00:00:00.000Z",
@@ -1629,7 +1809,8 @@
       "ia14": 183.048,
       "taxa_confirmats": 90.5607,
       "confirmats": 6910,
-      "ingressos": 473
+      "ingressos": 473,
+      "exitus": 54
     },
     {
       "data": "2020-09-10T00:00:00.000Z",
@@ -1638,7 +1819,8 @@
       "ia14": 183.2839,
       "taxa_confirmats": 91.3732,
       "confirmats": 6972,
-      "ingressos": 498
+      "ingressos": 498,
+      "exitus": 61
     },
     {
       "data": "2020-09-11T00:00:00.000Z",
@@ -1647,7 +1829,8 @@
       "ia14": 173.6905,
       "taxa_confirmats": 81.2949,
       "confirmats": 6203,
-      "ingressos": 484
+      "ingressos": 484,
+      "exitus": 55
     },
     {
       "data": "2020-09-12T00:00:00.000Z",
@@ -1656,7 +1839,8 @@
       "ia14": 174.1885,
       "taxa_confirmats": 82.0944,
       "confirmats": 6264,
-      "ingressos": 477
+      "ingressos": 477,
+      "exitus": 50
     },
     {
       "data": "2020-09-13T00:00:00.000Z",
@@ -1665,7 +1849,8 @@
       "ia14": 173.1925,
       "taxa_confirmats": 82.6579,
       "confirmats": 6307,
-      "ingressos": 479
+      "ingressos": 479,
+      "exitus": 54
     },
     {
       "data": "2020-09-14T00:00:00.000Z",
@@ -1674,7 +1859,8 @@
       "ia14": 173.8215,
       "taxa_confirmats": 83.4836,
       "confirmats": 6370,
-      "ingressos": 476
+      "ingressos": 476,
+      "exitus": 54
     },
     {
       "data": "2020-09-15T00:00:00.000Z",
@@ -1683,7 +1869,8 @@
       "ia14": 176.98,
       "taxa_confirmats": 86.7207,
       "confirmats": 6617,
-      "ingressos": 485
+      "ingressos": 485,
+      "exitus": 55
     },
     {
       "data": "2020-09-16T00:00:00.000Z",
@@ -1692,7 +1879,8 @@
       "ia14": 179.6405,
       "taxa_confirmats": 89.0797,
       "confirmats": 6797,
-      "ingressos": 494
+      "ingressos": 494,
+      "exitus": 57
     },
     {
       "data": "2020-09-17T00:00:00.000Z",
@@ -1701,7 +1889,8 @@
       "ia14": 180.6365,
       "taxa_confirmats": 89.2632,
       "confirmats": 6811,
-      "ingressos": 497
+      "ingressos": 497,
+      "exitus": 59
     },
     {
       "data": "2020-09-18T00:00:00.000Z",
@@ -1710,7 +1899,8 @@
       "ia14": 180.8069,
       "taxa_confirmats": 99.5119,
       "confirmats": 7593,
-      "ingressos": 530
+      "ingressos": 530,
+      "exitus": 63
     },
     {
       "data": "2020-09-19T00:00:00.000Z",
@@ -1719,7 +1909,8 @@
       "ia14": 180.5579,
       "taxa_confirmats": 98.4635,
       "confirmats": 7513,
-      "ingressos": 529
+      "ingressos": 529,
+      "exitus": 66
     },
     {
       "data": "2020-09-20T00:00:00.000Z",
@@ -1728,7 +1919,8 @@
       "ia14": 181.9602,
       "taxa_confirmats": 99.3022,
       "confirmats": 7577,
-      "ingressos": 531
+      "ingressos": 531,
+      "exitus": 65
     },
     {
       "data": "2020-09-21T00:00:00.000Z",
@@ -1737,7 +1929,8 @@
       "ia14": 184.5158,
       "taxa_confirmats": 101.0322,
       "confirmats": 7709,
-      "ingressos": 522
+      "ingressos": 522,
+      "exitus": 68
     },
     {
       "data": "2020-09-22T00:00:00.000Z",
@@ -1746,7 +1939,8 @@
       "ia14": 185.4725,
       "taxa_confirmats": 98.7518,
       "confirmats": 7535,
-      "ingressos": 509
+      "ingressos": 509,
+      "exitus": 63
     },
     {
       "data": "2020-09-23T00:00:00.000Z",
@@ -1755,7 +1949,8 @@
       "ia14": 186.9011,
       "taxa_confirmats": 97.8213,
       "confirmats": 7464,
-      "ingressos": 507
+      "ingressos": 507,
+      "exitus": 55
     },
     {
       "data": "2020-09-24T00:00:00.000Z",
@@ -1764,7 +1959,8 @@
       "ia14": 182.0126,
       "taxa_confirmats": 92.7494,
       "confirmats": 7077,
-      "ingressos": 494
+      "ingressos": 494,
+      "exitus": 51
     },
     {
       "data": "2020-09-25T00:00:00.000Z",
@@ -1773,7 +1969,8 @@
       "ia14": 190.977,
       "taxa_confirmats": 91.465,
       "confirmats": 6979,
-      "ingressos": 486
+      "ingressos": 486,
+      "exitus": 51
     },
     {
       "data": "2020-09-26T00:00:00.000Z",
@@ -1782,7 +1979,8 @@
       "ia14": 190.4396,
       "taxa_confirmats": 91.9761,
       "confirmats": 7018,
-      "ingressos": 497
+      "ingressos": 497,
+      "exitus": 48
     },
     {
       "data": "2020-09-27T00:00:00.000Z",
@@ -1791,7 +1989,8 @@
       "ia14": 190.4003,
       "taxa_confirmats": 91.098,
       "confirmats": 6951,
-      "ingressos": 488
+      "ingressos": 488,
+      "exitus": 54
     },
     {
       "data": "2020-09-28T00:00:00.000Z",
@@ -1800,7 +1999,8 @@
       "ia14": 192.7593,
       "taxa_confirmats": 91.7271,
       "confirmats": 6999,
-      "ingressos": 504
+      "ingressos": 504,
+      "exitus": 50
     },
     {
       "data": "2020-09-29T00:00:00.000Z",
@@ -1809,7 +2009,8 @@
       "ia14": 192.8249,
       "taxa_confirmats": 94.073,
       "confirmats": 7178,
-      "ingressos": 520
+      "ingressos": 520,
+      "exitus": 60
     },
     {
       "data": "2020-09-30T00:00:00.000Z",
@@ -1818,7 +2019,8 @@
       "ia14": 193.5719,
       "taxa_confirmats": 95.7506,
       "confirmats": 7306,
-      "ingressos": 547
+      "ingressos": 547,
+      "exitus": 68
     },
     {
       "data": "2020-10-01T00:00:00.000Z",
@@ -1827,7 +2029,8 @@
       "ia14": 196.9008,
       "taxa_confirmats": 104.1514,
       "confirmats": 7947,
-      "ingressos": 580
+      "ingressos": 580,
+      "exitus": 67
     },
     {
       "data": "2020-10-02T00:00:00.000Z",
@@ -1836,7 +2039,8 @@
       "ia14": 201.6319,
       "taxa_confirmats": 110.1669,
       "confirmats": 8406,
-      "ingressos": 607
+      "ingressos": 607,
+      "exitus": 65
     },
     {
       "data": "2020-10-03T00:00:00.000Z",
@@ -1845,7 +2049,8 @@
       "ia14": 203.6895,
       "taxa_confirmats": 111.7134,
       "confirmats": 8524,
-      "ingressos": 611
+      "ingressos": 611,
+      "exitus": 66
     },
     {
       "data": "2020-10-04T00:00:00.000Z",
@@ -1854,7 +2059,8 @@
       "ia14": 204.9739,
       "taxa_confirmats": 113.8758,
       "confirmats": 8689,
-      "ingressos": 626
+      "ingressos": 626,
+      "exitus": 62
     },
     {
       "data": "2020-10-05T00:00:00.000Z",
@@ -1863,7 +2069,8 @@
       "ia14": 212.8898,
       "taxa_confirmats": 121.1626,
       "confirmats": 9245,
-      "ingressos": 630
+      "ingressos": 630,
+      "exitus": 60
     },
     {
       "data": "2020-10-06T00:00:00.000Z",
@@ -1872,7 +2079,8 @@
       "ia14": 223.2171,
       "taxa_confirmats": 129.144,
       "confirmats": 9854,
-      "ingressos": 652
+      "ingressos": 652,
+      "exitus": 56
     },
     {
       "data": "2020-10-07T00:00:00.000Z",
@@ -1881,7 +2089,8 @@
       "ia14": 234.6846,
       "taxa_confirmats": 138.934,
       "confirmats": 10601,
-      "ingressos": 665
+      "ingressos": 665,
+      "exitus": 47
     },
     {
       "data": "2020-10-08T00:00:00.000Z",
@@ -1890,7 +2099,8 @@
       "ia14": 254.317,
       "taxa_confirmats": 150.1656,
       "confirmats": 11458,
-      "ingressos": 691
+      "ingressos": 691,
+      "exitus": 47
     },
     {
       "data": "2020-10-09T00:00:00.000Z",
@@ -1899,7 +2109,8 @@
       "ia14": 275.3649,
       "taxa_confirmats": 165.1979,
       "confirmats": 12605,
-      "ingressos": 717
+      "ingressos": 717,
+      "exitus": 51
     },
     {
       "data": "2020-10-10T00:00:00.000Z",
@@ -1908,7 +2119,8 @@
       "ia14": 283.556,
       "taxa_confirmats": 171.8426,
       "confirmats": 13112,
-      "ingressos": 745
+      "ingressos": 745,
+      "exitus": 57
     },
     {
       "data": "2020-10-11T00:00:00.000Z",
@@ -1917,7 +2129,8 @@
       "ia14": 292.5465,
       "taxa_confirmats": 178.6707,
       "confirmats": 13633,
-      "ingressos": 781
+      "ingressos": 781,
+      "exitus": 64
     },
     {
       "data": "2020-10-12T00:00:00.000Z",
@@ -1926,7 +2139,8 @@
       "ia14": 289.7681,
       "taxa_confirmats": 168.6054,
       "confirmats": 12865,
-      "ingressos": 792
+      "ingressos": 792,
+      "exitus": 71
     },
     {
       "data": "2020-10-13T00:00:00.000Z",
@@ -1935,7 +2149,8 @@
       "ia14": 319.2167,
       "taxa_confirmats": 190.0727,
       "confirmats": 14503,
-      "ingressos": 869
+      "ingressos": 869,
+      "exitus": 72
     },
     {
       "data": "2020-10-14T00:00:00.000Z",
@@ -1944,7 +2159,8 @@
       "ia14": 348.875,
       "taxa_confirmats": 209.941,
       "confirmats": 16019,
-      "ingressos": 936
+      "ingressos": 936,
+      "exitus": 77
     },
     {
       "data": "2020-10-15T00:00:00.000Z",
@@ -1953,7 +2169,8 @@
       "ia14": 375.0997,
       "taxa_confirmats": 224.934,
       "confirmats": 17163,
-      "ingressos": 1003
+      "ingressos": 1003,
+      "exitus": 84
     },
     {
       "data": "2020-10-16T00:00:00.000Z",
@@ -1962,7 +2179,8 @@
       "ia14": 405.3477,
       "taxa_confirmats": 240.1497,
       "confirmats": 18324,
-      "ingressos": 1065
+      "ingressos": 1065,
+      "exitus": 88
     },
     {
       "data": "2020-10-17T00:00:00.000Z",
@@ -1971,7 +2189,8 @@
       "ia14": 420.4849,
       "taxa_confirmats": 248.6423,
       "confirmats": 18972,
-      "ingressos": 1128
+      "ingressos": 1128,
+      "exitus": 100
     },
     {
       "data": "2020-10-18T00:00:00.000Z",
@@ -1980,7 +2199,8 @@
       "ia14": 434.128,
       "taxa_confirmats": 255.4573,
       "confirmats": 19492,
-      "ingressos": 1174
+      "ingressos": 1174,
+      "exitus": 104
     },
     {
       "data": "2020-10-19T00:00:00.000Z",
@@ -1989,7 +2209,8 @@
       "ia14": 477.3376,
       "taxa_confirmats": 308.7321,
       "confirmats": 23557,
-      "ingressos": 1316
+      "ingressos": 1316,
+      "exitus": 112
     },
     {
       "data": "2020-10-20T00:00:00.000Z",
@@ -1998,7 +2219,8 @@
       "ia14": 522.1462,
       "taxa_confirmats": 332.0735,
       "confirmats": 25338,
-      "ingressos": 1349
+      "ingressos": 1349,
+      "exitus": 123
     },
     {
       "data": "2020-10-21T00:00:00.000Z",
@@ -2007,7 +2229,8 @@
       "ia14": 567.7149,
       "taxa_confirmats": 357.7738,
       "confirmats": 27299,
-      "ingressos": 1436
+      "ingressos": 1436,
+      "exitus": 137
     },
     {
       "data": "2020-10-22T00:00:00.000Z",
@@ -2016,7 +2239,8 @@
       "ia14": 608.1985,
       "taxa_confirmats": 383.2645,
       "confirmats": 29244,
-      "ingressos": 1495
+      "ingressos": 1495,
+      "exitus": 148
     },
     {
       "data": "2020-10-23T00:00:00.000Z",
@@ -2025,7 +2249,8 @@
       "ia14": 642.2604,
       "taxa_confirmats": 402.1106,
       "confirmats": 30682,
-      "ingressos": 1558
+      "ingressos": 1558,
+      "exitus": 167
     },
     {
       "data": "2020-10-24T00:00:00.000Z",
@@ -2034,7 +2259,8 @@
       "ia14": 658.0921,
       "taxa_confirmats": 409.4498,
       "confirmats": 31242,
-      "ingressos": 1620
+      "ingressos": 1620,
+      "exitus": 171
     },
     {
       "data": "2020-10-25T00:00:00.000Z",
@@ -2043,7 +2269,8 @@
       "ia14": 668.6161,
       "taxa_confirmats": 413.1588,
       "confirmats": 31525,
-      "ingressos": 1674
+      "ingressos": 1674,
+      "exitus": 173
     },
     {
       "data": "2020-10-26T00:00:00.000Z",
@@ -2052,7 +2279,8 @@
       "ia14": 732.3886,
       "taxa_confirmats": 423.6565,
       "confirmats": 32326,
-      "ingressos": 1721
+      "ingressos": 1721,
+      "exitus": 195
     },
     {
       "data": "2020-10-27T00:00:00.000Z",
@@ -2061,7 +2289,8 @@
       "ia14": 757.0537,
       "taxa_confirmats": 424.9801,
       "confirmats": 32427,
-      "ingressos": 1840
+      "ingressos": 1840,
+      "exitus": 209
     },
     {
       "data": "2020-10-28T00:00:00.000Z",
@@ -2070,7 +2299,8 @@
       "ia14": 776.5026,
       "taxa_confirmats": 418.7287,
       "confirmats": 31950,
-      "ingressos": 1876
+      "ingressos": 1876,
+      "exitus": 225
     },
     {
       "data": "2020-10-29T00:00:00.000Z",
@@ -2079,7 +2309,8 @@
       "ia14": 788.0094,
       "taxa_confirmats": 404.7449,
       "confirmats": 30883,
-      "ingressos": 1942
+      "ingressos": 1942,
+      "exitus": 236
     },
     {
       "data": "2020-10-30T00:00:00.000Z",
@@ -2088,7 +2319,8 @@
       "ia14": 797.498,
       "taxa_confirmats": 395.3874,
       "confirmats": 30169,
-      "ingressos": 1979
+      "ingressos": 1979,
+      "exitus": 251
     },
     {
       "data": "2020-10-31T00:00:00.000Z",
@@ -2097,7 +2329,8 @@
       "ia14": 802.7534,
       "taxa_confirmats": 393.3035,
       "confirmats": 30010,
-      "ingressos": 1983
+      "ingressos": 1983,
+      "exitus": 266
     },
     {
       "data": "2020-11-01T00:00:00.000Z",
@@ -2106,7 +2339,8 @@
       "ia14": 801.4297,
       "taxa_confirmats": 388.2709,
       "confirmats": 29626,
-      "ingressos": 1970
+      "ingressos": 1970,
+      "exitus": 280
     },
     {
       "data": "2020-11-02T00:00:00.000Z",
@@ -2115,7 +2349,8 @@
       "ia14": 804.4834,
       "taxa_confirmats": 380.8269,
       "confirmats": 29058,
-      "ingressos": 1994
+      "ingressos": 1994,
+      "exitus": 287
     },
     {
       "data": "2020-11-03T00:00:00.000Z",
@@ -2124,7 +2359,8 @@
       "ia14": 795.9122,
       "taxa_confirmats": 370.932,
       "confirmats": 28303,
-      "ingressos": 1967
+      "ingressos": 1967,
+      "exitus": 301
     },
     {
       "data": "2020-11-04T00:00:00.000Z",
@@ -2133,7 +2369,8 @@
       "ia14": 774.7071,
       "taxa_confirmats": 355.9784,
       "confirmats": 27162,
-      "ingressos": 1970
+      "ingressos": 1970,
+      "exitus": 320
     },
     {
       "data": "2020-11-05T00:00:00.000Z",
@@ -2142,7 +2379,8 @@
       "ia14": 751.3396,
       "taxa_confirmats": 346.5946,
       "confirmats": 26446,
-      "ingressos": 1908
+      "ingressos": 1908,
+      "exitus": 344
     },
     {
       "data": "2020-11-06T00:00:00.000Z",
@@ -2151,7 +2389,8 @@
       "ia14": 726.4911,
       "taxa_confirmats": 331.1036,
       "confirmats": 25264,
-      "ingressos": 1891
+      "ingressos": 1891,
+      "exitus": 337
     },
     {
       "data": "2020-11-07T00:00:00.000Z",
@@ -2160,7 +2399,8 @@
       "ia14": 714.4862,
       "taxa_confirmats": 321.1826,
       "confirmats": 24507,
-      "ingressos": 1872
+      "ingressos": 1872,
+      "exitus": 341
     },
     {
       "data": "2020-11-08T00:00:00.000Z",
@@ -2169,7 +2409,8 @@
       "ia14": 701.2232,
       "taxa_confirmats": 312.9522,
       "confirmats": 23879,
-      "ingressos": 1857
+      "ingressos": 1857,
+      "exitus": 346
     },
     {
       "data": "2020-11-09T00:00:00.000Z",
@@ -2178,7 +2419,8 @@
       "ia14": 669.5335,
       "taxa_confirmats": 288.7065,
       "confirmats": 22029,
-      "ingressos": 1779
+      "ingressos": 1779,
+      "exitus": 346
     },
     {
       "data": "2020-11-10T00:00:00.000Z",
@@ -2187,7 +2429,8 @@
       "ia14": 637.503,
       "taxa_confirmats": 266.5709,
       "confirmats": 20340,
-      "ingressos": 1745
+      "ingressos": 1745,
+      "exitus": 343
     },
     {
       "data": "2020-11-11T00:00:00.000Z",
@@ -2196,7 +2439,8 @@
       "ia14": 604.7779,
       "taxa_confirmats": 248.7995,
       "confirmats": 18984,
-      "ingressos": 1702
+      "ingressos": 1702,
+      "exitus": 325
     },
     {
       "data": "2020-11-12T00:00:00.000Z",
@@ -2205,7 +2449,8 @@
       "ia14": 577.7932,
       "taxa_confirmats": 231.1985,
       "confirmats": 17641,
-      "ingressos": 1673
+      "ingressos": 1673,
+      "exitus": 317
     },
     {
       "data": "2020-11-13T00:00:00.000Z",
@@ -2214,7 +2459,8 @@
       "ia14": 545.1337,
       "taxa_confirmats": 214.03,
       "confirmats": 16331,
-      "ingressos": 1636
+      "ingressos": 1636,
+      "exitus": 317
     },
     {
       "data": "2020-11-14T00:00:00.000Z",
@@ -2223,7 +2469,8 @@
       "ia14": 528.201,
       "taxa_confirmats": 207.0184,
       "confirmats": 15796,
-      "ingressos": 1595
+      "ingressos": 1595,
+      "exitus": 311
     },
     {
       "data": "2020-11-15T00:00:00.000Z",
@@ -2232,7 +2479,8 @@
       "ia14": 516.0389,
       "taxa_confirmats": 203.0867,
       "confirmats": 15496,
-      "ingressos": 1545
+      "ingressos": 1545,
+      "exitus": 302
     },
     {
       "data": "2020-11-16T00:00:00.000Z",
@@ -2241,7 +2489,8 @@
       "ia14": 476.394,
       "taxa_confirmats": 187.6874,
       "confirmats": 14321,
-      "ingressos": 1510
+      "ingressos": 1510,
+      "exitus": 304
     },
     {
       "data": "2020-11-17T00:00:00.000Z",
@@ -2250,7 +2499,8 @@
       "ia14": 442.6467,
       "taxa_confirmats": 176.0757,
       "confirmats": 13435,
-      "ingressos": 1421
+      "ingressos": 1421,
+      "exitus": 298
     },
     {
       "data": "2020-11-18T00:00:00.000Z",
@@ -2259,7 +2509,8 @@
       "ia14": 414.0237,
       "taxa_confirmats": 165.2242,
       "confirmats": 12607,
-      "ingressos": 1326
+      "ingressos": 1326,
+      "exitus": 293
     },
     {
       "data": "2020-11-19T00:00:00.000Z",
@@ -2268,7 +2519,8 @@
       "ia14": 384.8503,
       "taxa_confirmats": 153.6518,
       "confirmats": 11724,
-      "ingressos": 1264
+      "ingressos": 1264,
+      "exitus": 274
     },
     {
       "data": "2020-11-20T00:00:00.000Z",
@@ -2277,7 +2529,8 @@
       "ia14": 357.1317,
       "taxa_confirmats": 143.1016,
       "confirmats": 10919,
-      "ingressos": 1190
+      "ingressos": 1190,
+      "exitus": 277
     },
     {
       "data": "2020-11-21T00:00:00.000Z",
@@ -2286,7 +2539,8 @@
       "ia14": 345.6641,
       "taxa_confirmats": 138.6457,
       "confirmats": 10579,
-      "ingressos": 1142
+      "ingressos": 1142,
+      "exitus": 279
     },
     {
       "data": "2020-11-22T00:00:00.000Z",
@@ -2295,7 +2549,8 @@
       "ia14": 339.5831,
       "taxa_confirmats": 136.4963,
       "confirmats": 10415,
-      "ingressos": 1126
+      "ingressos": 1126,
+      "exitus": 277
     },
     {
       "data": "2020-11-23T00:00:00.000Z",
@@ -2304,7 +2559,8 @@
       "ia14": 312.3493,
       "taxa_confirmats": 124.6619,
       "confirmats": 9512,
-      "ingressos": 1089
+      "ingressos": 1089,
+      "exitus": 258
     },
     {
       "data": "2020-11-24T00:00:00.000Z",
@@ -2313,7 +2569,8 @@
       "ia14": 291.2097,
       "taxa_confirmats": 115.134,
       "confirmats": 8785,
-      "ingressos": 1062
+      "ingressos": 1062,
+      "exitus": 236
     },
     {
       "data": "2020-11-25T00:00:00.000Z",
@@ -2322,7 +2579,8 @@
       "ia14": 274.2509,
       "taxa_confirmats": 109.0267,
       "confirmats": 8319,
-      "ingressos": 1040
+      "ingressos": 1040,
+      "exitus": 232
     },
     {
       "data": "2020-11-26T00:00:00.000Z",
@@ -2331,7 +2589,8 @@
       "ia14": 260.0705,
       "taxa_confirmats": 106.4186,
       "confirmats": 8120,
-      "ingressos": 1015
+      "ingressos": 1015,
+      "exitus": 233
     },
     {
       "data": "2020-11-27T00:00:00.000Z",
@@ -2340,7 +2599,8 @@
       "ia14": 248.7733,
       "taxa_confirmats": 105.6716,
       "confirmats": 8063,
-      "ingressos": 965
+      "ingressos": 965,
+      "exitus": 222
     },
     {
       "data": "2020-11-28T00:00:00.000Z",
@@ -2349,7 +2609,8 @@
       "ia14": 244.2649,
       "taxa_confirmats": 105.6192,
       "confirmats": 8059,
-      "ingressos": 944
+      "ingressos": 944,
+      "exitus": 210
     },
     {
       "data": "2020-11-29T00:00:00.000Z",
@@ -2358,7 +2619,8 @@
       "ia14": 241.9059,
       "taxa_confirmats": 105.4095,
       "confirmats": 8043,
-      "ingressos": 923
+      "ingressos": 923,
+      "exitus": 214
     },
     {
       "data": "2020-11-30T00:00:00.000Z",
@@ -2367,7 +2629,8 @@
       "ia14": 228.7608,
       "taxa_confirmats": 104.0989,
       "confirmats": 7943,
-      "ingressos": 891
+      "ingressos": 891,
+      "exitus": 210
     },
     {
       "data": "2020-12-01T00:00:00.000Z",
@@ -2376,7 +2639,8 @@
       "ia14": 218.5908,
       "taxa_confirmats": 103.4567,
       "confirmats": 7894,
-      "ingressos": 854
+      "ingressos": 854,
+      "exitus": 227
     },
     {
       "data": "2020-12-02T00:00:00.000Z",
@@ -2385,7 +2649,8 @@
       "ia14": 211.8151,
       "taxa_confirmats": 102.7884,
       "confirmats": 7843,
-      "ingressos": 833
+      "ingressos": 833,
+      "exitus": 227
     },
     {
       "data": "2020-12-03T00:00:00.000Z",
@@ -2394,7 +2659,8 @@
       "ia14": 208.329,
       "taxa_confirmats": 101.9103,
       "confirmats": 7776,
-      "ingressos": 842
+      "ingressos": 842,
+      "exitus": 236
     },
     {
       "data": "2020-12-04T00:00:00.000Z",
@@ -2403,7 +2669,8 @@
       "ia14": 204.6987,
       "taxa_confirmats": 99.027,
       "confirmats": 7556,
-      "ingressos": 861
+      "ingressos": 861,
+      "exitus": 234
     },
     {
       "data": "2020-12-05T00:00:00.000Z",
@@ -2412,7 +2679,8 @@
       "ia14": 203.1129,
       "taxa_confirmats": 97.4936,
       "confirmats": 7439,
-      "ingressos": 889
+      "ingressos": 889,
+      "exitus": 225
     },
     {
       "data": "2020-12-06T00:00:00.000Z",
@@ -2421,7 +2689,8 @@
       "ia14": 202.1693,
       "taxa_confirmats": 96.7597,
       "confirmats": 7383,
-      "ingressos": 883
+      "ingressos": 883,
+      "exitus": 207
     },
     {
       "data": "2020-12-07T00:00:00.000Z",
@@ -2430,7 +2699,8 @@
       "ia14": 198.9059,
       "taxa_confirmats": 94.807,
       "confirmats": 7234,
-      "ingressos": 870
+      "ingressos": 870,
+      "exitus": 202
     },
     {
       "data": "2020-12-08T00:00:00.000Z",
@@ -2439,7 +2709,8 @@
       "ia14": 186.0492,
       "taxa_confirmats": 82.5924,
       "confirmats": 6302,
-      "ingressos": 835
+      "ingressos": 835,
+      "exitus": 188
     },
     {
       "data": "2020-12-09T00:00:00.000Z",
@@ -2448,7 +2719,8 @@
       "ia14": 193.703,
       "taxa_confirmats": 90.9145,
       "confirmats": 6937,
-      "ingressos": 846
+      "ingressos": 846,
+      "exitus": 180
     },
     {
       "data": "2020-12-10T00:00:00.000Z",
@@ -2457,7 +2729,8 @@
       "ia14": 199.2074,
       "taxa_confirmats": 97.297,
       "confirmats": 7424,
-      "ingressos": 825
+      "ingressos": 825,
+      "exitus": 164
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
@@ -2466,7 +2739,8 @@
       "ia14": 204.7511,
       "taxa_confirmats": 105.724,
       "confirmats": 8067,
-      "ingressos": 835
+      "ingressos": 835,
+      "exitus": 151
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
@@ -2475,7 +2749,8 @@
       "ia14": 207.4247,
       "taxa_confirmats": 109.931,
       "confirmats": 8388,
-      "ingressos": 817
+      "ingressos": 817,
+      "exitus": 153
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
@@ -2484,7 +2759,8 @@
       "ia14": 210.5832,
       "taxa_confirmats": 113.8234,
       "confirmats": 8685,
-      "ingressos": 821
+      "ingressos": 821,
+      "exitus": 162
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
@@ -2493,7 +2769,8 @@
       "ia14": 221.7886,
       "taxa_confirmats": 126.9816,
       "confirmats": 9689,
-      "ingressos": 864
+      "ingressos": 864,
+      "exitus": 154
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
@@ -2502,7 +2779,8 @@
       "ia14": 231.2247,
       "taxa_confirmats": 148.6323,
       "confirmats": 11341,
-      "ingressos": 924
+      "ingressos": 924,
+      "exitus": 153
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
@@ -2511,7 +2789,8 @@
       "ia14": 240.805,
       "taxa_confirmats": 149.8904,
       "confirmats": 11437,
-      "ingressos": 938
+      "ingressos": 938,
+      "exitus": 151
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
@@ -2520,7 +2799,8 @@
       "ia14": 250.7916,
       "taxa_confirmats": 153.4945,
       "confirmats": 11712,
-      "ingressos": 976
+      "ingressos": 976,
+      "exitus": 141
     },
     {
       "data": "2020-12-18T00:00:00.000Z",
@@ -2529,7 +2809,8 @@
       "ia14": 264.3823,
       "taxa_confirmats": 158.6582,
       "confirmats": 12106,
-      "ingressos": 990
+      "ingressos": 990,
+      "exitus": 151
     },
     {
       "data": "2020-12-19T00:00:00.000Z",
@@ -2538,7 +2819,8 @@
       "ia14": 272.0622,
       "taxa_confirmats": 162.1312,
       "confirmats": 12371,
-      "ingressos": 1014
+      "ingressos": 1014,
+      "exitus": 152
     },
     {
       "data": "2020-12-20T00:00:00.000Z",
@@ -2547,7 +2829,8 @@
       "ia14": 277.5667,
       "taxa_confirmats": 163.7432,
       "confirmats": 12494,
-      "ingressos": 1062
+      "ingressos": 1062,
+      "exitus": 159
     },
     {
       "data": "2020-12-21T00:00:00.000Z",
@@ -2556,7 +2839,8 @@
       "ia14": 296.1244,
       "taxa_confirmats": 169.1428,
       "confirmats": 12906,
-      "ingressos": 1054
+      "ingressos": 1054,
+      "exitus": 161
     },
     {
       "data": "2020-12-22T00:00:00.000Z",
@@ -2565,7 +2849,8 @@
       "ia14": 324.2362,
       "taxa_confirmats": 175.6039,
       "confirmats": 13399,
-      "ingressos": 1078
+      "ingressos": 1078,
+      "exitus": 164
     },
     {
       "data": "2020-12-23T00:00:00.000Z",
@@ -2574,7 +2859,8 @@
       "ia14": 332.637,
       "taxa_confirmats": 182.7465,
       "confirmats": 13944,
-      "ingressos": 1108
+      "ingressos": 1108,
+      "exitus": 174
     },
     {
       "data": "2020-12-24T00:00:00.000Z",
@@ -2583,7 +2869,8 @@
       "ia14": 339.7272,
       "taxa_confirmats": 186.2327,
       "confirmats": 14210,
-      "ingressos": 1122
+      "ingressos": 1122,
+      "exitus": 174
     },
     {
       "data": "2020-12-25T00:00:00.000Z",
@@ -2592,7 +2879,8 @@
       "ia14": 327.7617,
       "taxa_confirmats": 169.1035,
       "confirmats": 12903,
-      "ingressos": 1089
+      "ingressos": 1089,
+      "exitus": 169
     },
     {
       "data": "2020-12-26T00:00:00.000Z",
@@ -2601,7 +2889,8 @@
       "ia14": 331.025,
       "taxa_confirmats": 168.8938,
       "confirmats": 12887,
-      "ingressos": 1097
+      "ingressos": 1097,
+      "exitus": 169
     },
     {
       "data": "2020-12-27T00:00:00.000Z",
@@ -2610,7 +2899,8 @@
       "ia14": 336.8571,
       "taxa_confirmats": 173.1138,
       "confirmats": 13209,
-      "ingressos": 1120
+      "ingressos": 1120,
+      "exitus": 162
     },
     {
       "data": "2020-12-28T00:00:00.000Z",
@@ -2619,7 +2909,8 @@
       "ia14": 355.1265,
       "taxa_confirmats": 185.9837,
       "confirmats": 14191,
-      "ingressos": 1203
+      "ingressos": 1203,
+      "exitus": 180
     },
     {
       "data": "2020-12-29T00:00:00.000Z",
@@ -2628,7 +2919,8 @@
       "ia14": 377.3407,
       "taxa_confirmats": 201.7368,
       "confirmats": 15393,
-      "ingressos": 1244
+      "ingressos": 1244,
+      "exitus": 193
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
@@ -2637,7 +2929,8 @@
       "ia14": 398.1265,
       "taxa_confirmats": 215.3799,
       "confirmats": 16434,
-      "ingressos": 1271
+      "ingressos": 1271,
+      "exitus": 196
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
@@ -2646,7 +2939,8 @@
       "ia14": 414.9018,
       "taxa_confirmats": 228.6691,
       "confirmats": 17448,
-      "ingressos": 1296
+      "ingressos": 1296,
+      "exitus": 211
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
@@ -2655,7 +2949,8 @@
       "ia14": 400.8262,
       "taxa_confirmats": 231.7227,
       "confirmats": 17681,
-      "ingressos": 1335
+      "ingressos": 1335,
+      "exitus": 221
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
@@ -2664,7 +2959,8 @@
       "ia14": 407.9689,
       "taxa_confirmats": 239.0751,
       "confirmats": 18242,
-      "ingressos": 1376
+      "ingressos": 1376,
+      "exitus": 228
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
@@ -2673,7 +2969,8 @@
       "ia14": 416.1075,
       "taxa_confirmats": 242.9937,
       "confirmats": 18541,
-      "ingressos": 1401
+      "ingressos": 1401,
+      "exitus": 213
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
@@ -2682,7 +2979,8 @@
       "ia14": 439.3571,
       "taxa_confirmats": 253.3734,
       "confirmats": 19333,
-      "ingressos": 1403
+      "ingressos": 1403,
+      "exitus": 217
     },
     {
       "data": "2021-01-05T00:00:00.000Z",
@@ -2691,7 +2989,8 @@
       "ia14": 463.996,
       "taxa_confirmats": 262.2591,
       "confirmats": 20011,
-      "ingressos": 1430
+      "ingressos": 1430,
+      "exitus": 236
     },
     {
       "data": "2021-01-06T00:00:00.000Z",
@@ -2700,7 +2999,8 @@
       "ia14": 449.0816,
       "taxa_confirmats": 233.7017,
       "confirmats": 17832,
-      "ingressos": 1406
+      "ingressos": 1406,
+      "exitus": 229
     },
     {
       "data": "2021-01-07T00:00:00.000Z",
@@ -2709,7 +3009,8 @@
       "ia14": 479.1069,
       "taxa_confirmats": 250.4377,
       "confirmats": 19109,
-      "ingressos": 1453
+      "ingressos": 1453,
+      "exitus": 242
     },
     {
       "data": "2021-01-08T00:00:00.000Z",
@@ -2718,7 +3019,8 @@
       "ia14": 526.5235,
       "taxa_confirmats": 294.8007,
       "confirmats": 22494,
-      "ingressos": 1553
+      "ingressos": 1553,
+      "exitus": 249
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
@@ -2727,7 +3029,8 @@
       "ia14": 538.6987,
       "taxa_confirmats": 299.6236,
       "confirmats": 22862,
-      "ingressos": 1604
+      "ingressos": 1604,
+      "exitus": 263
     },
     {
       "data": "2021-01-10T00:00:00.000Z",
@@ -2736,7 +3039,8 @@
       "ia14": 547.1388,
       "taxa_confirmats": 304.1451,
       "confirmats": 23207,
-      "ingressos": 1629
+      "ingressos": 1629,
+      "exitus": 299
     },
     {
       "data": "2021-01-11T00:00:00.000Z",
@@ -2745,7 +3049,8 @@
       "ia14": 572.1446,
       "taxa_confirmats": 318.7711,
       "confirmats": 24323,
-      "ingressos": 1673
+      "ingressos": 1673,
+      "exitus": 309
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
@@ -2754,7 +3059,8 @@
       "ia14": 584.9883,
       "taxa_confirmats": 322.7291,
       "confirmats": 24625,
-      "ingressos": 1763
+      "ingressos": 1763,
+      "exitus": 299
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
@@ -2763,7 +3069,8 @@
       "ia14": 592.5372,
       "taxa_confirmats": 358.8354,
       "confirmats": 27380,
-      "ingressos": 1848
+      "ingressos": 1848,
+      "exitus": 317
     },
     {
       "data": "2021-01-14T00:00:00.000Z",
@@ -2772,7 +3079,8 @@
       "ia14": 599.955,
       "taxa_confirmats": 349.5172,
       "confirmats": 26669,
-      "ingressos": 1900
+      "ingressos": 1900,
+      "exitus": 329
     },
     {
       "data": "2021-01-15T00:00:00.000Z",
@@ -2781,7 +3089,8 @@
       "ia14": 635.5109,
       "taxa_confirmats": 340.7102,
       "confirmats": 25997,
-      "ingressos": 1941
+      "ingressos": 1941,
+      "exitus": 334
     },
     {
       "data": "2021-01-16T00:00:00.000Z",
@@ -2790,7 +3099,8 @@
       "ia14": 639.1281,
       "taxa_confirmats": 339.5044,
       "confirmats": 25905,
-      "ingressos": 1971
+      "ingressos": 1971,
+      "exitus": 333
     },
     {
       "data": "2021-01-17T00:00:00.000Z",
@@ -2799,7 +3109,8 @@
       "ia14": 639.4427,
       "taxa_confirmats": 335.2975,
       "confirmats": 25584,
-      "ingressos": 1982
+      "ingressos": 1982,
+      "exitus": 344
     },
     {
       "data": "2021-01-18T00:00:00.000Z",
@@ -2808,7 +3119,8 @@
       "ia14": 643.4792,
       "taxa_confirmats": 324.708,
       "confirmats": 24776,
-      "ingressos": 2061
+      "ingressos": 2061,
+      "exitus": 343
     },
     {
       "data": "2021-01-19T00:00:00.000Z",
@@ -2817,7 +3129,8 @@
       "ia14": 640.3601,
       "taxa_confirmats": 317.6309,
       "confirmats": 24236,
-      "ingressos": 2083
+      "ingressos": 2083,
+      "exitus": 354
     },
     {
       "data": "2021-01-20T00:00:00.000Z",
@@ -2826,7 +3139,8 @@
       "ia14": 671.5255,
       "taxa_confirmats": 312.6901,
       "confirmats": 23859,
-      "ingressos": 2151
+      "ingressos": 2151,
+      "exitus": 365
     },
     {
       "data": "2021-01-21T00:00:00.000Z",
@@ -2835,7 +3149,8 @@
       "ia14": 659.311,
       "taxa_confirmats": 309.7937,
       "confirmats": 23638,
-      "ingressos": 2178
+      "ingressos": 2178,
+      "exitus": 357
     },
     {
       "data": "2021-01-22T00:00:00.000Z",
@@ -2844,7 +3159,8 @@
       "ia14": 646.0348,
       "taxa_confirmats": 305.3246,
       "confirmats": 23297,
-      "ingressos": 2173
+      "ingressos": 2173,
+      "exitus": 370
     },
     {
       "data": "2021-01-23T00:00:00.000Z",
@@ -2853,7 +3169,8 @@
       "ia14": 641.1071,
       "taxa_confirmats": 301.6026,
       "confirmats": 23013,
-      "ingressos": 2101
+      "ingressos": 2101,
+      "exitus": 372
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
@@ -2862,7 +3179,8 @@
       "ia14": 633.3223,
       "taxa_confirmats": 298.0247,
       "confirmats": 22740,
-      "ingressos": 2047
+      "ingressos": 2047,
+      "exitus": 375
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
@@ -2871,7 +3189,8 @@
       "ia14": 615.5902,
       "taxa_confirmats": 290.8821,
       "confirmats": 22195,
-      "ingressos": 2030
+      "ingressos": 2030,
+      "exitus": 392
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
@@ -2880,7 +3199,8 @@
       "ia14": 599.1031,
       "taxa_confirmats": 281.4722,
       "confirmats": 21477,
-      "ingressos": 1960
+      "ingressos": 1960,
+      "exitus": 396
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
@@ -2889,7 +3209,8 @@
       "ia14": 587.8322,
       "taxa_confirmats": 275.1421,
       "confirmats": 20994,
-      "ingressos": 1885
+      "ingressos": 1885,
+      "exitus": 391
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
@@ -2898,7 +3219,8 @@
       "ia14": 579.7066,
       "taxa_confirmats": 269.9129,
       "confirmats": 20595,
-      "ingressos": 1857
+      "ingressos": 1857,
+      "exitus": 399
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
@@ -2907,7 +3229,8 @@
       "ia14": 568.4881,
       "taxa_confirmats": 263.1634,
       "confirmats": 20080,
-      "ingressos": 1819
+      "ingressos": 1819,
+      "exitus": 396
     },
     {
       "data": "2021-01-30T00:00:00.000Z",
@@ -2916,7 +3239,8 @@
       "ia14": 560.913,
       "taxa_confirmats": 259.3103,
       "confirmats": 19786,
-      "ingressos": 1825
+      "ingressos": 1825,
+      "exitus": 413
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
@@ -2925,7 +3249,8 @@
       "ia14": 553.5607,
       "taxa_confirmats": 255.5359,
       "confirmats": 19498,
-      "ingressos": 1828
+      "ingressos": 1828,
+      "exitus": 409
     },
     {
       "data": "2021-02-01T00:00:00.000Z",
@@ -2934,7 +3259,8 @@
       "ia14": 532.8798,
       "taxa_confirmats": 241.9976,
       "confirmats": 18465,
-      "ingressos": 1719
+      "ingressos": 1719,
+      "exitus": 376
     },
     {
       "data": "2021-02-02T00:00:00.000Z",
@@ -2943,7 +3269,8 @@
       "ia14": 513.8371,
       "taxa_confirmats": 232.3649,
       "confirmats": 17730,
-      "ingressos": 1691
+      "ingressos": 1691,
+      "exitus": 369
     },
     {
       "data": "2021-02-03T00:00:00.000Z",
@@ -2952,7 +3279,8 @@
       "ia14": 496.1182,
       "taxa_confirmats": 220.976,
       "confirmats": 16861,
-      "ingressos": 1645
+      "ingressos": 1645,
+      "exitus": 367
     },
     {
       "data": "2021-02-04T00:00:00.000Z",
@@ -2961,7 +3289,8 @@
       "ia14": 478.9889,
       "taxa_confirmats": 209.076,
       "confirmats": 15953,
-      "ingressos": 1562
+      "ingressos": 1562,
+      "exitus": 356
     },
     {
       "data": "2021-02-05T00:00:00.000Z",
@@ -2970,7 +3299,8 @@
       "ia14": 460.7719,
       "taxa_confirmats": 197.6085,
       "confirmats": 15078,
-      "ingressos": 1489
+      "ingressos": 1489,
+      "exitus": 351
     },
     {
       "data": "2021-02-06T00:00:00.000Z",
@@ -2979,7 +3309,8 @@
       "ia14": 450.4184,
       "taxa_confirmats": 191.108,
       "confirmats": 14582,
-      "ingressos": 1457
+      "ingressos": 1457,
+      "exitus": 338
     },
     {
       "data": "2021-02-07T00:00:00.000Z",
@@ -2988,7 +3319,8 @@
       "ia14": 443.1709,
       "taxa_confirmats": 187.635,
       "confirmats": 14317,
-      "ingressos": 1427
+      "ingressos": 1427,
+      "exitus": 322
     },
     {
       "data": "2021-02-08T00:00:00.000Z",
@@ -2997,7 +3329,8 @@
       "ia14": 418.0996,
       "taxa_confirmats": 176.1019,
       "confirmats": 13437,
-      "ingressos": 1388
+      "ingressos": 1388,
+      "exitus": 334
     },
     {
       "data": "2021-02-09T00:00:00.000Z",
@@ -3006,7 +3339,8 @@
       "ia14": 398.1002,
       "taxa_confirmats": 165.7353,
       "confirmats": 12646,
-      "ingressos": 1315
+      "ingressos": 1315,
+      "exitus": 329
     },
     {
       "data": "2021-02-10T00:00:00.000Z",
@@ -3015,7 +3349,8 @@
       "ia14": 376.5151,
       "taxa_confirmats": 155.539,
       "confirmats": 11868,
-      "ingressos": 1272
+      "ingressos": 1272,
+      "exitus": 318
     },
     {
       "data": "2021-02-11T00:00:00.000Z",
@@ -3024,7 +3359,8 @@
       "ia14": 356.6599,
       "taxa_confirmats": 147.5838,
       "confirmats": 11261,
-      "ingressos": 1236
+      "ingressos": 1236,
+      "exitus": 314
     },
     {
       "data": "2021-02-12T00:00:00.000Z",
@@ -3033,7 +3369,8 @@
       "ia14": 339.0064,
       "taxa_confirmats": 141.3979,
       "confirmats": 10789,
-      "ingressos": 1238
+      "ingressos": 1238,
+      "exitus": 302
     },
     {
       "data": "2021-02-13T00:00:00.000Z",
@@ -3042,7 +3379,8 @@
       "ia14": 331.4575,
       "taxa_confirmats": 140.3494,
       "confirmats": 10709,
-      "ingressos": 1199
+      "ingressos": 1199,
+      "exitus": 287
     },
     {
       "data": "2021-02-14T00:00:00.000Z",
@@ -3051,7 +3389,8 @@
       "ia14": 326.3725,
       "taxa_confirmats": 138.7374,
       "confirmats": 10586,
-      "ingressos": 1165
+      "ingressos": 1165,
+      "exitus": 273
     },
     {
       "data": "2021-02-15T00:00:00.000Z",
@@ -3060,7 +3399,8 @@
       "ia14": 308.7321,
       "taxa_confirmats": 132.6302,
       "confirmats": 10120,
-      "ingressos": 1138
+      "ingressos": 1138,
+      "exitus": 270
     },
     {
       "data": "2021-02-16T00:00:00.000Z",
@@ -3069,7 +3409,8 @@
       "ia14": 296.6224,
       "taxa_confirmats": 130.8871,
       "confirmats": 9987,
-      "ingressos": 1114
+      "ingressos": 1114,
+      "exitus": 273
     },
     {
       "data": "2021-02-17T00:00:00.000Z",
@@ -3078,7 +3419,8 @@
       "ia14": 286.0199,
       "taxa_confirmats": 130.4808,
       "confirmats": 9956,
-      "ingressos": 1073
+      "ingressos": 1073,
+      "exitus": 266
     },
     {
       "data": "2021-02-18T00:00:00.000Z",
@@ -3087,7 +3429,8 @@
       "ia14": 277.4225,
       "taxa_confirmats": 129.8386,
       "confirmats": 9907,
-      "ingressos": 1038
+      "ingressos": 1038,
+      "exitus": 261
     },
     {
       "data": "2021-02-19T00:00:00.000Z",
@@ -3096,7 +3439,8 @@
       "ia14": 268.7989,
       "taxa_confirmats": 127.401,
       "confirmats": 9721,
-      "ingressos": 951
+      "ingressos": 951,
+      "exitus": 236
     }
   ],
   "indefinit": [
@@ -3107,7 +3451,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 104,
-      "ingressos": 29
+      "ingressos": 29,
+      "exitus": 0
     },
     {
       "data": "2020-09-02T00:00:00.000Z",
@@ -3116,7 +3461,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 105,
-      "ingressos": 25
+      "ingressos": 25,
+      "exitus": 0
     },
     {
       "data": "2020-09-03T00:00:00.000Z",
@@ -3125,7 +3471,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 96,
-      "ingressos": 22
+      "ingressos": 22,
+      "exitus": 0
     },
     {
       "data": "2020-09-04T00:00:00.000Z",
@@ -3134,7 +3481,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 96,
-      "ingressos": 25
+      "ingressos": 25,
+      "exitus": 0
     },
     {
       "data": "2020-09-05T00:00:00.000Z",
@@ -3143,7 +3491,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 95,
-      "ingressos": 27
+      "ingressos": 27,
+      "exitus": 0
     },
     {
       "data": "2020-09-06T00:00:00.000Z",
@@ -3152,7 +3501,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 95,
-      "ingressos": 32
+      "ingressos": 32,
+      "exitus": 0
     },
     {
       "data": "2020-09-07T00:00:00.000Z",
@@ -3161,7 +3511,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 107,
-      "ingressos": 34
+      "ingressos": 34,
+      "exitus": 0
     },
     {
       "data": "2020-09-08T00:00:00.000Z",
@@ -3170,7 +3521,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 110,
-      "ingressos": 34
+      "ingressos": 34,
+      "exitus": 0
     },
     {
       "data": "2020-09-09T00:00:00.000Z",
@@ -3179,7 +3531,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 113,
-      "ingressos": 40
+      "ingressos": 40,
+      "exitus": 0
     },
     {
       "data": "2020-09-10T00:00:00.000Z",
@@ -3188,7 +3541,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 121,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 0
     },
     {
       "data": "2020-09-11T00:00:00.000Z",
@@ -3197,7 +3551,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 103,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 0
     },
     {
       "data": "2020-09-12T00:00:00.000Z",
@@ -3206,7 +3561,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 109,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 0
     },
     {
       "data": "2020-09-13T00:00:00.000Z",
@@ -3215,7 +3571,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 108,
-      "ingressos": 35
+      "ingressos": 35,
+      "exitus": 0
     },
     {
       "data": "2020-09-14T00:00:00.000Z",
@@ -3224,7 +3581,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 97,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 0
     },
     {
       "data": "2020-09-15T00:00:00.000Z",
@@ -3233,7 +3591,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 88,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 0
     },
     {
       "data": "2020-09-16T00:00:00.000Z",
@@ -3242,7 +3601,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 86,
-      "ingressos": 34
+      "ingressos": 34,
+      "exitus": 0
     },
     {
       "data": "2020-09-17T00:00:00.000Z",
@@ -3251,7 +3611,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 83,
-      "ingressos": 30
+      "ingressos": 30,
+      "exitus": 0
     },
     {
       "data": "2020-09-18T00:00:00.000Z",
@@ -3260,7 +3621,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 92,
-      "ingressos": 33
+      "ingressos": 33,
+      "exitus": 0
     },
     {
       "data": "2020-09-19T00:00:00.000Z",
@@ -3269,7 +3631,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 86,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 0
     },
     {
       "data": "2020-09-20T00:00:00.000Z",
@@ -3278,7 +3641,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 86,
-      "ingressos": 43
+      "ingressos": 43,
+      "exitus": 0
     },
     {
       "data": "2020-09-21T00:00:00.000Z",
@@ -3287,7 +3651,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 90,
-      "ingressos": 35
+      "ingressos": 35,
+      "exitus": 0
     },
     {
       "data": "2020-09-22T00:00:00.000Z",
@@ -3296,7 +3661,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 98,
-      "ingressos": 36
+      "ingressos": 36,
+      "exitus": 0
     },
     {
       "data": "2020-09-23T00:00:00.000Z",
@@ -3305,7 +3671,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 92,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 0
     },
     {
       "data": "2020-09-24T00:00:00.000Z",
@@ -3314,7 +3681,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 90,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 0
     },
     {
       "data": "2020-09-25T00:00:00.000Z",
@@ -3323,7 +3691,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 94,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 0
     },
     {
       "data": "2020-09-26T00:00:00.000Z",
@@ -3332,7 +3701,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 94,
-      "ingressos": 35
+      "ingressos": 35,
+      "exitus": 0
     },
     {
       "data": "2020-09-27T00:00:00.000Z",
@@ -3341,7 +3711,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 96,
-      "ingressos": 32
+      "ingressos": 32,
+      "exitus": 0
     },
     {
       "data": "2020-09-28T00:00:00.000Z",
@@ -3350,7 +3721,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 96,
-      "ingressos": 40
+      "ingressos": 40,
+      "exitus": 0
     },
     {
       "data": "2020-09-29T00:00:00.000Z",
@@ -3359,7 +3731,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 95,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 0
     },
     {
       "data": "2020-09-30T00:00:00.000Z",
@@ -3368,7 +3741,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 109,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 0
     },
     {
       "data": "2020-10-01T00:00:00.000Z",
@@ -3377,7 +3751,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 119,
-      "ingressos": 43
+      "ingressos": 43,
+      "exitus": 0
     },
     {
       "data": "2020-10-02T00:00:00.000Z",
@@ -3386,7 +3761,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 123,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 0
     },
     {
       "data": "2020-10-03T00:00:00.000Z",
@@ -3395,7 +3771,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 133,
-      "ingressos": 53
+      "ingressos": 53,
+      "exitus": 0
     },
     {
       "data": "2020-10-04T00:00:00.000Z",
@@ -3404,7 +3781,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 133,
-      "ingressos": 54
+      "ingressos": 54,
+      "exitus": 0
     },
     {
       "data": "2020-10-05T00:00:00.000Z",
@@ -3413,7 +3791,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 154,
-      "ingressos": 48
+      "ingressos": 48,
+      "exitus": 0
     },
     {
       "data": "2020-10-06T00:00:00.000Z",
@@ -3422,7 +3801,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 186,
-      "ingressos": 48
+      "ingressos": 48,
+      "exitus": 0
     },
     {
       "data": "2020-10-07T00:00:00.000Z",
@@ -3431,7 +3811,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 200,
-      "ingressos": 52
+      "ingressos": 52,
+      "exitus": 0
     },
     {
       "data": "2020-10-08T00:00:00.000Z",
@@ -3440,7 +3821,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 226,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 0
     },
     {
       "data": "2020-10-09T00:00:00.000Z",
@@ -3449,7 +3831,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 257,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 1
     },
     {
       "data": "2020-10-10T00:00:00.000Z",
@@ -3458,7 +3841,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 258,
-      "ingressos": 46
+      "ingressos": 46,
+      "exitus": 2
     },
     {
       "data": "2020-10-11T00:00:00.000Z",
@@ -3467,7 +3851,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 259,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 2
     },
     {
       "data": "2020-10-12T00:00:00.000Z",
@@ -3476,7 +3861,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 234,
-      "ingressos": 45
+      "ingressos": 45,
+      "exitus": 2
     },
     {
       "data": "2020-10-13T00:00:00.000Z",
@@ -3485,7 +3871,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 234,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 2
     },
     {
       "data": "2020-10-14T00:00:00.000Z",
@@ -3494,7 +3881,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 250,
-      "ingressos": 47
+      "ingressos": 47,
+      "exitus": 2
     },
     {
       "data": "2020-10-15T00:00:00.000Z",
@@ -3503,7 +3891,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 274,
-      "ingressos": 62
+      "ingressos": 62,
+      "exitus": 2
     },
     {
       "data": "2020-10-16T00:00:00.000Z",
@@ -3512,7 +3901,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 285,
-      "ingressos": 63
+      "ingressos": 63,
+      "exitus": 1
     },
     {
       "data": "2020-10-17T00:00:00.000Z",
@@ -3521,7 +3911,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 310,
-      "ingressos": 67
+      "ingressos": 67,
+      "exitus": 0
     },
     {
       "data": "2020-10-18T00:00:00.000Z",
@@ -3530,7 +3921,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 323,
-      "ingressos": 75
+      "ingressos": 75,
+      "exitus": 0
     },
     {
       "data": "2020-10-19T00:00:00.000Z",
@@ -3539,7 +3931,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 398,
-      "ingressos": 88
+      "ingressos": 88,
+      "exitus": 0
     },
     {
       "data": "2020-10-20T00:00:00.000Z",
@@ -3548,7 +3941,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 433,
-      "ingressos": 94
+      "ingressos": 94,
+      "exitus": 0
     },
     {
       "data": "2020-10-21T00:00:00.000Z",
@@ -3557,7 +3951,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 495,
-      "ingressos": 103
+      "ingressos": 103,
+      "exitus": 0
     },
     {
       "data": "2020-10-22T00:00:00.000Z",
@@ -3566,7 +3961,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 533,
-      "ingressos": 98
+      "ingressos": 98,
+      "exitus": 0
     },
     {
       "data": "2020-10-23T00:00:00.000Z",
@@ -3575,7 +3971,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 566,
-      "ingressos": 101
+      "ingressos": 101,
+      "exitus": 0
     },
     {
       "data": "2020-10-24T00:00:00.000Z",
@@ -3584,7 +3981,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 572,
-      "ingressos": 102
+      "ingressos": 102,
+      "exitus": 0
     },
     {
       "data": "2020-10-25T00:00:00.000Z",
@@ -3593,7 +3991,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 575,
-      "ingressos": 106
+      "ingressos": 106,
+      "exitus": 0
     },
     {
       "data": "2020-10-26T00:00:00.000Z",
@@ -3602,7 +4001,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 615,
-      "ingressos": 108
+      "ingressos": 108,
+      "exitus": 1
     },
     {
       "data": "2020-10-27T00:00:00.000Z",
@@ -3611,7 +4011,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 636,
-      "ingressos": 110
+      "ingressos": 110,
+      "exitus": 1
     },
     {
       "data": "2020-10-28T00:00:00.000Z",
@@ -3620,7 +4021,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 649,
-      "ingressos": 112
+      "ingressos": 112,
+      "exitus": 1
     },
     {
       "data": "2020-10-29T00:00:00.000Z",
@@ -3629,7 +4031,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 648,
-      "ingressos": 112
+      "ingressos": 112,
+      "exitus": 1
     },
     {
       "data": "2020-10-30T00:00:00.000Z",
@@ -3638,7 +4041,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 640,
-      "ingressos": 114
+      "ingressos": 114,
+      "exitus": 1
     },
     {
       "data": "2020-10-31T00:00:00.000Z",
@@ -3647,7 +4051,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 634,
-      "ingressos": 121
+      "ingressos": 121,
+      "exitus": 1
     },
     {
       "data": "2020-11-01T00:00:00.000Z",
@@ -3656,7 +4061,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 645,
-      "ingressos": 117
+      "ingressos": 117,
+      "exitus": 1
     },
     {
       "data": "2020-11-02T00:00:00.000Z",
@@ -3665,7 +4071,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 622,
-      "ingressos": 114
+      "ingressos": 114,
+      "exitus": 0
     },
     {
       "data": "2020-11-03T00:00:00.000Z",
@@ -3674,7 +4081,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 619,
-      "ingressos": 117
+      "ingressos": 117,
+      "exitus": 0
     },
     {
       "data": "2020-11-04T00:00:00.000Z",
@@ -3683,7 +4091,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 582,
-      "ingressos": 112
+      "ingressos": 112,
+      "exitus": 1
     },
     {
       "data": "2020-11-05T00:00:00.000Z",
@@ -3692,7 +4101,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 567,
-      "ingressos": 110
+      "ingressos": 110,
+      "exitus": 1
     },
     {
       "data": "2020-11-06T00:00:00.000Z",
@@ -3701,7 +4111,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 539,
-      "ingressos": 110
+      "ingressos": 110,
+      "exitus": 1
     },
     {
       "data": "2020-11-07T00:00:00.000Z",
@@ -3710,7 +4121,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 522,
-      "ingressos": 110
+      "ingressos": 110,
+      "exitus": 1
     },
     {
       "data": "2020-11-08T00:00:00.000Z",
@@ -3719,7 +4131,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 498,
-      "ingressos": 108
+      "ingressos": 108,
+      "exitus": 2
     },
     {
       "data": "2020-11-09T00:00:00.000Z",
@@ -3728,7 +4141,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 471,
-      "ingressos": 102
+      "ingressos": 102,
+      "exitus": 2
     },
     {
       "data": "2020-11-10T00:00:00.000Z",
@@ -3737,7 +4151,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 447,
-      "ingressos": 98
+      "ingressos": 98,
+      "exitus": 2
     },
     {
       "data": "2020-11-11T00:00:00.000Z",
@@ -3746,7 +4161,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 418,
-      "ingressos": 96
+      "ingressos": 96,
+      "exitus": 1
     },
     {
       "data": "2020-11-12T00:00:00.000Z",
@@ -3755,7 +4171,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 370,
-      "ingressos": 91
+      "ingressos": 91,
+      "exitus": 1
     },
     {
       "data": "2020-11-13T00:00:00.000Z",
@@ -3764,7 +4181,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 372,
-      "ingressos": 90
+      "ingressos": 90,
+      "exitus": 2
     },
     {
       "data": "2020-11-14T00:00:00.000Z",
@@ -3773,7 +4191,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 380,
-      "ingressos": 75
+      "ingressos": 75,
+      "exitus": 2
     },
     {
       "data": "2020-11-15T00:00:00.000Z",
@@ -3782,7 +4201,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 382,
-      "ingressos": 74
+      "ingressos": 74,
+      "exitus": 2
     },
     {
       "data": "2020-11-16T00:00:00.000Z",
@@ -3791,7 +4211,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 357,
-      "ingressos": 70
+      "ingressos": 70,
+      "exitus": 2
     },
     {
       "data": "2020-11-17T00:00:00.000Z",
@@ -3800,7 +4221,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 321,
-      "ingressos": 61
+      "ingressos": 61,
+      "exitus": 2
     },
     {
       "data": "2020-11-18T00:00:00.000Z",
@@ -3809,7 +4231,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 292,
-      "ingressos": 60
+      "ingressos": 60,
+      "exitus": 2
     },
     {
       "data": "2020-11-19T00:00:00.000Z",
@@ -3818,7 +4241,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 287,
-      "ingressos": 62
+      "ingressos": 62,
+      "exitus": 2
     },
     {
       "data": "2020-11-20T00:00:00.000Z",
@@ -3827,7 +4251,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 274,
-      "ingressos": 54
+      "ingressos": 54,
+      "exitus": 1
     },
     {
       "data": "2020-11-21T00:00:00.000Z",
@@ -3836,7 +4261,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 265,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 1
     },
     {
       "data": "2020-11-22T00:00:00.000Z",
@@ -3845,7 +4271,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 262,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 0
     },
     {
       "data": "2020-11-23T00:00:00.000Z",
@@ -3854,7 +4281,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 253,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 0
     },
     {
       "data": "2020-11-24T00:00:00.000Z",
@@ -3863,7 +4291,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 243,
-      "ingressos": 57
+      "ingressos": 57,
+      "exitus": 0
     },
     {
       "data": "2020-11-25T00:00:00.000Z",
@@ -3872,7 +4301,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 243,
-      "ingressos": 53
+      "ingressos": 53,
+      "exitus": 0
     },
     {
       "data": "2020-11-26T00:00:00.000Z",
@@ -3881,7 +4311,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 258,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 0
     },
     {
       "data": "2020-11-27T00:00:00.000Z",
@@ -3890,7 +4321,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 243,
-      "ingressos": 46
+      "ingressos": 46,
+      "exitus": 0
     },
     {
       "data": "2020-11-28T00:00:00.000Z",
@@ -3899,7 +4331,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 248,
-      "ingressos": 47
+      "ingressos": 47,
+      "exitus": 0
     },
     {
       "data": "2020-11-29T00:00:00.000Z",
@@ -3908,7 +4341,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 242,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 1
     },
     {
       "data": "2020-11-30T00:00:00.000Z",
@@ -3917,7 +4351,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 229,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 1
     },
     {
       "data": "2020-12-01T00:00:00.000Z",
@@ -3926,7 +4361,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 235,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 1
     },
     {
       "data": "2020-12-02T00:00:00.000Z",
@@ -3935,7 +4371,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 230,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 1
     },
     {
       "data": "2020-12-03T00:00:00.000Z",
@@ -3944,7 +4381,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 212,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 2
     },
     {
       "data": "2020-12-04T00:00:00.000Z",
@@ -3953,7 +4391,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 211,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 2
     },
     {
       "data": "2020-12-05T00:00:00.000Z",
@@ -3962,7 +4401,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 197,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 2
     },
     {
       "data": "2020-12-06T00:00:00.000Z",
@@ -3971,7 +4411,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 195,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 1
     },
     {
       "data": "2020-12-07T00:00:00.000Z",
@@ -3980,7 +4421,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 191,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 1
     },
     {
       "data": "2020-12-08T00:00:00.000Z",
@@ -3989,7 +4431,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 154,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 2
     },
     {
       "data": "2020-12-09T00:00:00.000Z",
@@ -3998,7 +4441,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 149,
-      "ingressos": 38
+      "ingressos": 38,
+      "exitus": 3
     },
     {
       "data": "2020-12-10T00:00:00.000Z",
@@ -4007,7 +4451,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 149,
-      "ingressos": 36
+      "ingressos": 36,
+      "exitus": 3
     },
     {
       "data": "2020-12-11T00:00:00.000Z",
@@ -4016,7 +4461,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 168,
-      "ingressos": 37
+      "ingressos": 37,
+      "exitus": 3
     },
     {
       "data": "2020-12-12T00:00:00.000Z",
@@ -4025,7 +4471,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 182,
-      "ingressos": 43
+      "ingressos": 43,
+      "exitus": 3
     },
     {
       "data": "2020-12-13T00:00:00.000Z",
@@ -4034,7 +4481,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 206,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 3
     },
     {
       "data": "2020-12-14T00:00:00.000Z",
@@ -4043,7 +4491,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 231,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 3
     },
     {
       "data": "2020-12-15T00:00:00.000Z",
@@ -4052,7 +4501,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 284,
-      "ingressos": 38
+      "ingressos": 38,
+      "exitus": 3
     },
     {
       "data": "2020-12-16T00:00:00.000Z",
@@ -4061,7 +4511,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 310,
-      "ingressos": 42
+      "ingressos": 42,
+      "exitus": 2
     },
     {
       "data": "2020-12-17T00:00:00.000Z",
@@ -4070,7 +4521,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 319,
-      "ingressos": 54
+      "ingressos": 54,
+      "exitus": 1
     },
     {
       "data": "2020-12-18T00:00:00.000Z",
@@ -4079,7 +4531,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 318,
-      "ingressos": 56
+      "ingressos": 56,
+      "exitus": 1
     },
     {
       "data": "2020-12-19T00:00:00.000Z",
@@ -4088,7 +4541,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 323,
-      "ingressos": 51
+      "ingressos": 51,
+      "exitus": 1
     },
     {
       "data": "2020-12-20T00:00:00.000Z",
@@ -4097,7 +4551,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 319,
-      "ingressos": 52
+      "ingressos": 52,
+      "exitus": 1
     },
     {
       "data": "2020-12-21T00:00:00.000Z",
@@ -4106,7 +4561,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 331,
-      "ingressos": 51
+      "ingressos": 51,
+      "exitus": 1
     },
     {
       "data": "2020-12-22T00:00:00.000Z",
@@ -4115,7 +4571,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 358,
-      "ingressos": 55
+      "ingressos": 55,
+      "exitus": 1
     },
     {
       "data": "2020-12-23T00:00:00.000Z",
@@ -4124,7 +4581,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 363,
-      "ingressos": 52
+      "ingressos": 52,
+      "exitus": 1
     },
     {
       "data": "2020-12-24T00:00:00.000Z",
@@ -4133,7 +4591,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 374,
-      "ingressos": 38
+      "ingressos": 38,
+      "exitus": 1
     },
     {
       "data": "2020-12-25T00:00:00.000Z",
@@ -4142,7 +4601,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 343,
-      "ingressos": 34
+      "ingressos": 34,
+      "exitus": 1
     },
     {
       "data": "2020-12-26T00:00:00.000Z",
@@ -4151,7 +4611,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 326,
-      "ingressos": 41
+      "ingressos": 41,
+      "exitus": 1
     },
     {
       "data": "2020-12-27T00:00:00.000Z",
@@ -4160,7 +4621,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 319,
-      "ingressos": 43
+      "ingressos": 43,
+      "exitus": 1
     },
     {
       "data": "2020-12-28T00:00:00.000Z",
@@ -4169,7 +4631,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 324,
-      "ingressos": 44
+      "ingressos": 44,
+      "exitus": 2
     },
     {
       "data": "2020-12-29T00:00:00.000Z",
@@ -4178,7 +4641,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 332,
-      "ingressos": 49
+      "ingressos": 49,
+      "exitus": 1
     },
     {
       "data": "2020-12-30T00:00:00.000Z",
@@ -4187,7 +4651,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 349,
-      "ingressos": 54
+      "ingressos": 54,
+      "exitus": 1
     },
     {
       "data": "2020-12-31T00:00:00.000Z",
@@ -4196,7 +4661,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 351,
-      "ingressos": 67
+      "ingressos": 67,
+      "exitus": 1
     },
     {
       "data": "2021-01-01T00:00:00.000Z",
@@ -4205,7 +4671,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 341,
-      "ingressos": 65
+      "ingressos": 65,
+      "exitus": 1
     },
     {
       "data": "2021-01-02T00:00:00.000Z",
@@ -4214,7 +4681,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 364,
-      "ingressos": 65
+      "ingressos": 65,
+      "exitus": 1
     },
     {
       "data": "2021-01-03T00:00:00.000Z",
@@ -4223,7 +4691,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 371,
-      "ingressos": 68
+      "ingressos": 68,
+      "exitus": 1
     },
     {
       "data": "2021-01-04T00:00:00.000Z",
@@ -4232,7 +4701,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 410,
-      "ingressos": 76
+      "ingressos": 76,
+      "exitus": 0
     },
     {
       "data": "2021-01-05T00:00:00.000Z",
@@ -4241,7 +4711,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 414,
-      "ingressos": 72
+      "ingressos": 72,
+      "exitus": 0
     },
     {
       "data": "2021-01-06T00:00:00.000Z",
@@ -4250,7 +4721,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 373,
-      "ingressos": 69
+      "ingressos": 69,
+      "exitus": 0
     },
     {
       "data": "2021-01-07T00:00:00.000Z",
@@ -4259,7 +4731,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 392,
-      "ingressos": 67
+      "ingressos": 67,
+      "exitus": 0
     },
     {
       "data": "2021-01-08T00:00:00.000Z",
@@ -4268,7 +4741,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 489,
-      "ingressos": 74
+      "ingressos": 74,
+      "exitus": 0
     },
     {
       "data": "2021-01-09T00:00:00.000Z",
@@ -4277,7 +4751,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 497,
-      "ingressos": 71
+      "ingressos": 71,
+      "exitus": 0
     },
     {
       "data": "2021-01-10T00:00:00.000Z",
@@ -4286,7 +4761,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 510,
-      "ingressos": 75
+      "ingressos": 75,
+      "exitus": 0
     },
     {
       "data": "2021-01-11T00:00:00.000Z",
@@ -4295,7 +4771,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 513,
-      "ingressos": 75
+      "ingressos": 75,
+      "exitus": 0
     },
     {
       "data": "2021-01-12T00:00:00.000Z",
@@ -4304,7 +4781,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 523,
-      "ingressos": 77
+      "ingressos": 77,
+      "exitus": 0
     },
     {
       "data": "2021-01-13T00:00:00.000Z",
@@ -4313,7 +4791,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 604,
-      "ingressos": 87
+      "ingressos": 87,
+      "exitus": 0
     },
     {
       "data": "2021-01-14T00:00:00.000Z",
@@ -4322,7 +4801,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 637,
-      "ingressos": 84
+      "ingressos": 84,
+      "exitus": 0
     },
     {
       "data": "2021-01-15T00:00:00.000Z",
@@ -4331,7 +4811,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 630,
-      "ingressos": 83
+      "ingressos": 83,
+      "exitus": 0
     },
     {
       "data": "2021-01-16T00:00:00.000Z",
@@ -4340,7 +4821,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 656,
-      "ingressos": 86
+      "ingressos": 86,
+      "exitus": 0
     },
     {
       "data": "2021-01-17T00:00:00.000Z",
@@ -4349,7 +4831,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 648,
-      "ingressos": 85
+      "ingressos": 85,
+      "exitus": 0
     },
     {
       "data": "2021-01-18T00:00:00.000Z",
@@ -4358,7 +4841,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 654,
-      "ingressos": 86
+      "ingressos": 86,
+      "exitus": 0
     },
     {
       "data": "2021-01-19T00:00:00.000Z",
@@ -4367,7 +4851,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 652,
-      "ingressos": 87
+      "ingressos": 87,
+      "exitus": 0
     },
     {
       "data": "2021-01-20T00:00:00.000Z",
@@ -4376,7 +4861,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 664,
-      "ingressos": 79
+      "ingressos": 79,
+      "exitus": 0
     },
     {
       "data": "2021-01-21T00:00:00.000Z",
@@ -4385,7 +4871,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 659,
-      "ingressos": 82
+      "ingressos": 82,
+      "exitus": 0
     },
     {
       "data": "2021-01-22T00:00:00.000Z",
@@ -4394,7 +4881,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 652,
-      "ingressos": 90
+      "ingressos": 90,
+      "exitus": 0
     },
     {
       "data": "2021-01-23T00:00:00.000Z",
@@ -4403,7 +4891,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 613,
-      "ingressos": 92
+      "ingressos": 92,
+      "exitus": 0
     },
     {
       "data": "2021-01-24T00:00:00.000Z",
@@ -4412,7 +4901,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 619,
-      "ingressos": 90
+      "ingressos": 90,
+      "exitus": 0
     },
     {
       "data": "2021-01-25T00:00:00.000Z",
@@ -4421,7 +4911,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 604,
-      "ingressos": 89
+      "ingressos": 89,
+      "exitus": 0
     },
     {
       "data": "2021-01-26T00:00:00.000Z",
@@ -4430,7 +4921,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 572,
-      "ingressos": 91
+      "ingressos": 91,
+      "exitus": 1
     },
     {
       "data": "2021-01-27T00:00:00.000Z",
@@ -4439,7 +4931,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 532,
-      "ingressos": 90
+      "ingressos": 90,
+      "exitus": 1
     },
     {
       "data": "2021-01-28T00:00:00.000Z",
@@ -4448,7 +4941,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 491,
-      "ingressos": 90
+      "ingressos": 90,
+      "exitus": 1
     },
     {
       "data": "2021-01-29T00:00:00.000Z",
@@ -4457,7 +4951,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 485,
-      "ingressos": 84
+      "ingressos": 84,
+      "exitus": 1
     },
     {
       "data": "2021-01-30T00:00:00.000Z",
@@ -4466,7 +4961,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 490,
-      "ingressos": 86
+      "ingressos": 86,
+      "exitus": 1
     },
     {
       "data": "2021-01-31T00:00:00.000Z",
@@ -4475,7 +4971,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 472,
-      "ingressos": 88
+      "ingressos": 88,
+      "exitus": 1
     },
     {
       "data": "2021-02-01T00:00:00.000Z",
@@ -4484,7 +4981,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 446,
-      "ingressos": 84
+      "ingressos": 84,
+      "exitus": 1
     },
     {
       "data": "2021-02-02T00:00:00.000Z",
@@ -4493,7 +4991,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 446,
-      "ingressos": 75
+      "ingressos": 75,
+      "exitus": 0
     },
     {
       "data": "2021-02-03T00:00:00.000Z",
@@ -4502,7 +5001,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 431,
-      "ingressos": 76
+      "ingressos": 76,
+      "exitus": 0
     },
     {
       "data": "2021-02-04T00:00:00.000Z",
@@ -4511,7 +5011,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 438,
-      "ingressos": 78
+      "ingressos": 78,
+      "exitus": 0
     },
     {
       "data": "2021-02-05T00:00:00.000Z",
@@ -4520,7 +5021,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 430,
-      "ingressos": 74
+      "ingressos": 74,
+      "exitus": 0
     },
     {
       "data": "2021-02-06T00:00:00.000Z",
@@ -4529,7 +5031,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 418,
-      "ingressos": 71
+      "ingressos": 71,
+      "exitus": 0
     },
     {
       "data": "2021-02-07T00:00:00.000Z",
@@ -4538,7 +5041,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 417,
-      "ingressos": 64
+      "ingressos": 64,
+      "exitus": 0
     },
     {
       "data": "2021-02-08T00:00:00.000Z",
@@ -4547,7 +5051,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 400,
-      "ingressos": 63
+      "ingressos": 63,
+      "exitus": 0
     },
     {
       "data": "2021-02-09T00:00:00.000Z",
@@ -4556,7 +5061,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 379,
-      "ingressos": 67
+      "ingressos": 67,
+      "exitus": 0
     },
     {
       "data": "2021-02-10T00:00:00.000Z",
@@ -4565,7 +5071,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 353,
-      "ingressos": 63
+      "ingressos": 63,
+      "exitus": 0
     },
     {
       "data": "2021-02-11T00:00:00.000Z",
@@ -4574,7 +5081,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 316,
-      "ingressos": 55
+      "ingressos": 55,
+      "exitus": 0
     },
     {
       "data": "2021-02-12T00:00:00.000Z",
@@ -4583,7 +5091,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 302,
-      "ingressos": 58
+      "ingressos": 58,
+      "exitus": 0
     },
     {
       "data": "2021-02-13T00:00:00.000Z",
@@ -4592,7 +5101,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 308,
-      "ingressos": 52
+      "ingressos": 52,
+      "exitus": 0
     },
     {
       "data": "2021-02-14T00:00:00.000Z",
@@ -4601,7 +5111,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 308,
-      "ingressos": 50
+      "ingressos": 50,
+      "exitus": 0
     },
     {
       "data": "2021-02-15T00:00:00.000Z",
@@ -4610,7 +5121,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 298,
-      "ingressos": 50
+      "ingressos": 50,
+      "exitus": 0
     },
     {
       "data": "2021-02-16T00:00:00.000Z",
@@ -4619,7 +5131,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 294,
-      "ingressos": 45
+      "ingressos": 45,
+      "exitus": 0
     },
     {
       "data": "2021-02-17T00:00:00.000Z",
@@ -4628,7 +5141,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 297,
-      "ingressos": 46
+      "ingressos": 46,
+      "exitus": 0
     },
     {
       "data": "2021-02-18T00:00:00.000Z",
@@ -4637,7 +5151,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 303,
-      "ingressos": 43
+      "ingressos": 43,
+      "exitus": 0
     },
     {
       "data": "2021-02-19T00:00:00.000Z",
@@ -4646,7 +5161,8 @@
       "ia14": 0,
       "taxa_confirmats": 0,
       "confirmats": 270,
-      "ingressos": 39
+      "ingressos": 39,
+      "exitus": 0
     }
   ]
 }
